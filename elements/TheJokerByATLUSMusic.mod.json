@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "joker",
+    "name": "The Joker By ATLUS Music",
+    "description": "This is an Exclusive Music Disc From the Persona 4 Arena Ultimax Soundtrack!",
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkAddons"
+    },
+    "music": {
+      "value": "CUSTOM:thejoker"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

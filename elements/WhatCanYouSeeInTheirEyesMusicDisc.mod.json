@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "whatcanyouseeintheireyesmusicdisc",
+    "name": "What Can You See In Their Eyes Music Disc",
+    "description": "This Music Disc is from the Bleach 3: Fade to Black Soundtrack",
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkAddons"
+    },
+    "music": {
+      "value": "CUSTOM:whatcanyouseeintheireyes"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

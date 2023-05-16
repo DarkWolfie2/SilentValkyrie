@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "silent_valkyrie:pluto_stone"
+    },
+    "title": {
+      "translate": "advancements.lost_for_words.title"
+    },
+    "description": {
+      "translate": "advancements.lost_for_words.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "lost_for_words": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "silent_valkyrie:pluto_stone",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 250
+  },
+  "parent": "silent_valkyrie:lost_for_words"
+}

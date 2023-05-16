@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "silent_valkyrie:titanium_block"
+    }
+  ],
+  "result": {
+    "item": "silent_valkyrie:titanium_ingot",
+    "count": 9
+  }
+}

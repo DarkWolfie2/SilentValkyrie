@@ -1,0 +1,23 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "Items.IRON_BOOTS"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:PlutoStone"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:PlutoStoneArmor.boots"
+    },
+    "name": "pluto_stone_boots_recipe",
+    "namespace": "mod"
+  }
+}

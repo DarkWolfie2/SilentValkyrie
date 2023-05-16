@@ -1,0 +1,33 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "plutostoneaxe",
+    "customModelName": "Normal",
+    "name": "Pluto Stone Axe",
+    "specialInfo": [
+      "The Axe Built From Pluto"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValk"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 7.0,
+    "attackSpeed": 1.2,
+    "enchantability": 17,
+    "damageVsEntity": 9.5,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PlutoStone"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

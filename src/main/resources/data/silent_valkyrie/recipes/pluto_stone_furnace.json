@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 15,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "silent_valkyrie:pluto_stone_ore"
+  },
+  "result": {
+    "item": "silent_valkyrie:hardened_pluto_steel"
+  }
+}

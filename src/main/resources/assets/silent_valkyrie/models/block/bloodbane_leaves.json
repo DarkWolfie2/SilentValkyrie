@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "silent_valkyrie:blocks/bloodbane_leaves",
+    "particle": "silent_valkyrie:blocks/bloodbane_leaves"
+  }
+}

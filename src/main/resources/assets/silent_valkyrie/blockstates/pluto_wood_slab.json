@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "silent_valkyrie:block/pluto_wood_slab"
+    },
+    "type=top": {
+      "model": "silent_valkyrie:block/pluto_wood_slab_top"
+    },
+    "type=double": {
+      "model": "silent_valkyrie:block/pluto_wood_slab_full"
+    }
+  }
+}

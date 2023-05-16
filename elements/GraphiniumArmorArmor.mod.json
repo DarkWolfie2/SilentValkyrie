@@ -1,0 +1,70 @@
+{
+  "_fv": 33,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "graphiniumarmor_head",
+    "enableBody": true,
+    "textureBody": "graphiniumarmor_body",
+    "enableLeggings": true,
+    "textureLeggings": "graphiniumarmor_leggings",
+    "enableBoots": true,
+    "textureBoots": "graphiniumarmor_boots",
+    "creativeTab": {
+      "value": "CUSTOM:SilentValk"
+    },
+    "armorTextureFile": "graphiniumarmor",
+    "helmetName": "Graphinium Helmet",
+    "bodyName": "Graphinium Chestplate",
+    "leggingsName": "Graphinium Leggings",
+    "bootsName": "Graphinium Boots",
+    "helmetSpecialInfo": [
+      "A Helmet that Is Crafted From Code"
+    ],
+    "bodySpecialInfo": [
+      "A Chestplate that Is Crafted From Code"
+    ],
+    "leggingsSpecialInfo": [
+      "Leggings that are Crafted From Code"
+    ],
+    "bootsSpecialInfo": [
+      "Boots that are Crafted From Code"
+    ],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 38,
+    "damageValueHelmet": 5,
+    "damageValueBody": 13,
+    "damageValueLeggings": 15,
+    "damageValueBoots": 5,
+    "enchantability": 23,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_iron"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Graphinium"
+      }
+    ]
+  }
+}

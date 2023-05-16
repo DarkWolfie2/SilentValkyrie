@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "silent_valkyrie:huskyrium_axe"
+  },
+  "addition": {
+    "item": "silent_valkyrie:graphinium"
+  },
+  "result": {
+    "item": "silent_valkyrie:graphinium_tools_axe"
+  }
+}

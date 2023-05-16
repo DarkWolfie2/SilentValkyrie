@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "silent_valkyrie:blocks/ore",
+    "up": "silent_valkyrie:blocks/ore",
+    "north": "silent_valkyrie:blocks/ore",
+    "east": "silent_valkyrie:blocks/ore",
+    "south": "silent_valkyrie:blocks/ore",
+    "west": "silent_valkyrie:blocks/ore",
+    "particle": "silent_valkyrie:blocks/ore"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "silent_valkyrie:block/cryptonium_block"
+    }
+  }
+}

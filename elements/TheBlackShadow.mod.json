@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "theblackshadowmusicdisc",
+    "name": "The Black Shadow",
+    "description": "Exclusively from The High Republic Soundtrack",
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkAddons"
+    },
+    "music": {
+      "value": "CUSTOM:theblackshadow"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

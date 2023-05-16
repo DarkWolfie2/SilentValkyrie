@@ -1,0 +1,33 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cryptoniumpickaxe",
+    "customModelName": "Normal",
+    "name": "Cryptonium Pickaxe",
+    "specialInfo": [
+      "A Pickaxe that Transcends Time"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValk"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 3,
+    "efficiency": 4.0,
+    "attackSpeed": 2.0,
+    "enchantability": 15,
+    "damageVsEntity": 7.0,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Cryptonium"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

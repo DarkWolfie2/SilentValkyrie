@@ -1,0 +1,2709 @@
+{
+  "mod_elements": [
+    {
+      "name": "SilentValkyrie",
+      "type": "livingentity",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silent_valkyrie"
+    },
+    {
+      "name": "PlutoStone",
+      "type": "item",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone"
+    },
+    {
+      "name": "SilentValk",
+      "type": "tab",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silent_valk"
+    },
+    {
+      "name": "PlutoStoneSword",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_sword"
+    },
+    {
+      "name": "Plutostoneswordrecepie",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plutostoneswordrecepie"
+    },
+    {
+      "name": "TheJokerByATLUSMusic",
+      "type": "musicdisc",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_joker_by_atlus_music"
+    },
+    {
+      "name": "Pluto",
+      "type": "livingentity",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto"
+    },
+    {
+      "name": "PlutoStoneOre",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_ore"
+    },
+    {
+      "name": "PlutoStonePickaxe",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_pickaxe"
+    },
+    {
+      "name": "Plutostonepickaxerecepie",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plutostonepickaxerecepie"
+    },
+    {
+      "name": "PlutoStoneAxe",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_axe"
+    },
+    {
+      "name": "ValkyriesSense",
+      "type": "potioneffect",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyries_sense"
+    },
+    {
+      "name": "PlutoStoneBlock",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_block"
+    },
+    {
+      "name": "PlutoStoneArmor",
+      "type": "armor",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PlutoStoneShovel",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_shovel"
+    },
+    {
+      "name": "LostForWords",
+      "type": "achievement",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lost_for_words"
+    },
+    {
+      "name": "PlutoStoneAxeRecipie",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_axe_recipie"
+    },
+    {
+      "name": "Huskyrium",
+      "type": "item",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium"
+    },
+    {
+      "name": "HuskyriumOre",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_ore"
+    },
+    {
+      "name": "HuskyriumSword",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_sword"
+    },
+    {
+      "name": "HuskyriumArmor",
+      "type": "armor",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PlutoStoneFurnace",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_furnace"
+    },
+    {
+      "name": "DreamManhuntTheme",
+      "type": "musicdisc",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_manhunt_theme"
+    },
+    {
+      "name": "HuskyriumFurnace",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_furnace"
+    },
+    {
+      "name": "HuskyriumPickaxe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_pickaxe"
+    },
+    {
+      "name": "HuskyriumAxe",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_axe"
+    },
+    {
+      "name": "HuskyriumSwordRecepie",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_sword_recepie"
+    },
+    {
+      "name": "HuskyriumPickaxeRecepie",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_pickaxe_recepie"
+    },
+    {
+      "name": "PlutoStoneBlockRecipe",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_block_recipe"
+    },
+    {
+      "name": "HuskyriumBlock",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_block"
+    },
+    {
+      "name": "HuskyriumBlockRecipe",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_block_recipe"
+    },
+    {
+      "name": "HuskyriumRecipe",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_recipe"
+    },
+    {
+      "name": "DimensionStarNether",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dimension_star_nether"
+    },
+    {
+      "name": "DimensionStarNetherRecipe",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dimension_star_nether_recipe"
+    },
+    {
+      "name": "HuskyriumAxeRecipe",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_axe_recipe"
+    },
+    {
+      "name": "Valkyrium",
+      "type": "item",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium"
+    },
+    {
+      "name": "ValkyriumBlock",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_block"
+    },
+    {
+      "name": "ValkyriumOre",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_ore"
+    },
+    {
+      "name": "ValkyriumArmor",
+      "type": "armor",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PlutoStoneHelmetRecipe",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_helmet_recipe"
+    },
+    {
+      "name": "PlutoStoneChestplate",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_chestplate"
+    },
+    {
+      "name": "SilentValkAddons",
+      "type": "tab",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silent_valk_addons"
+    },
+    {
+      "name": "PlutoStoneLeggings",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_leggings"
+    },
+    {
+      "name": "PlutoStoneBootsRecipe",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_boots_recipe"
+    },
+    {
+      "name": "Valkyrie",
+      "type": "dimension",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "DimensionStarOverworld",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dimension_star_overworld"
+    },
+    {
+      "name": "PlutoStoneRecipe",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_recipe"
+    },
+    {
+      "name": "DimensionStarOverworldRecipe",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dimension_star_overworld_recipe"
+    },
+    {
+      "name": "ValkyriumSword",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_sword"
+    },
+    {
+      "name": "HuskyriumHelmetRecipe",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_helmet_recipe"
+    },
+    {
+      "name": "HuskyriumChestplateRecipe",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_chestplate_recipe"
+    },
+    {
+      "name": "HuskyriumLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_leggings_recipe"
+    },
+    {
+      "name": "HuskyriumBootsRecipe",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_boots_recipe"
+    },
+    {
+      "name": "ValkyriumRecipe",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_recipe"
+    },
+    {
+      "name": "PlutoStoneHoe",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_hoe"
+    },
+    {
+      "name": "ValkyriumPickaxe",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_pickaxe"
+    },
+    {
+      "name": "ValkyriumAxe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_axe"
+    },
+    {
+      "name": "HuskyriumHoe",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_hoe"
+    },
+    {
+      "name": "ValkyriumBlockRecipe",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_block_recipe"
+    },
+    {
+      "name": "ValkyriumSwordRecipe",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_sword_recipe"
+    },
+    {
+      "name": "ValkyriumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_pickaxe_recipe"
+    },
+    {
+      "name": "ValkyriumAxeRecipe",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_axe_recipe"
+    },
+    {
+      "name": "DimensionStarEnd",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dimension_star_end"
+    },
+    {
+      "name": "HuskyriumShovel",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_shovel"
+    },
+    {
+      "name": "Dream",
+      "type": "livingentity",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream"
+    },
+    {
+      "name": "DimensionStarEndRecipe",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dimension_star_end_recipe"
+    },
+    {
+      "name": "ValkyriumIngotRecipe",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_ingot_recipe"
+    },
+    {
+      "name": "HuskyriumHoeRecipe",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_hoe_recipe"
+    },
+    {
+      "name": "HuskyriumHoeRecipe2",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_hoe_recipe_2"
+    },
+    {
+      "name": "PlutoStoneHoeRecipe2",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_hoe_recipe_2"
+    },
+    {
+      "name": "ValkyriumHoe",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_hoe"
+    },
+    {
+      "name": "ValkyriumShovel",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_shovel"
+    },
+    {
+      "name": "ValkyriumShovelRecipe",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_shovel_recipe"
+    },
+    {
+      "name": "SilentExperience",
+      "type": "painting",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silent_experience"
+    },
+    {
+      "name": "ValkyriumHoeRecipe",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_hoe_recipe"
+    },
+    {
+      "name": "FFXIIIBossTheme",
+      "type": "musicdisc",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ffxiii_boss_theme"
+    },
+    {
+      "name": "TheBlackShadow",
+      "type": "musicdisc",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_black_shadow"
+    },
+    {
+      "name": "Cryptonium",
+      "type": "item",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium"
+    },
+    {
+      "name": "CryptoniumOre",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_ore"
+    },
+    {
+      "name": "CryptoniumSword",
+      "type": "tool",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_sword"
+    },
+    {
+      "name": "CryptoniumArmor",
+      "type": "armor",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CryptoniumPickaxe",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_pickaxe"
+    },
+    {
+      "name": "CryptoniumAxe",
+      "type": "tool",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_axe"
+    },
+    {
+      "name": "CryptoniumSwordRecipe",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_sword_recipe"
+    },
+    {
+      "name": "CryptoniumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_pickaxe_recipe"
+    },
+    {
+      "name": "CryptoniumAxeRecipe",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_axe_recipe"
+    },
+    {
+      "name": "CryptoniumHelmetRecipe",
+      "type": "recipe",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_helmet_recipe"
+    },
+    {
+      "name": "CryptoniumChestplateRecipe",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_chestplate_recipe"
+    },
+    {
+      "name": "CryptoniumLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_leggings_recipe"
+    },
+    {
+      "name": "CryptoniumBootsRecipe",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_boots_recipe"
+    },
+    {
+      "name": "CryptoniumHoe",
+      "type": "tool",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_hoe"
+    },
+    {
+      "name": "CryptoniumShovel",
+      "type": "tool",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_shovel"
+    },
+    {
+      "name": "ThatSawse",
+      "type": "fluid",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "that_sawse",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "CryptoniumHoeRecipe",
+      "type": "recipe",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_hoe_recipe"
+    },
+    {
+      "name": "CryptoniumShovelRecipe",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_shovel_recipe"
+    },
+    {
+      "name": "ValkyriumHelmetRecipe",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_helmet_recipe"
+    },
+    {
+      "name": "ValkyriumChestplateRecipe",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_chestplate_recipe"
+    },
+    {
+      "name": "ValkyriumLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_leggings_recipe"
+    },
+    {
+      "name": "ValkyriumBootsRecipe",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_boots_recipe"
+    },
+    {
+      "name": "CryptoniumBlock",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_block"
+    },
+    {
+      "name": "TheValkyrie",
+      "type": "achievement",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_valkyrie"
+    },
+    {
+      "name": "CryptoniumBlockRecipe",
+      "type": "recipe",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_block_recipe"
+    },
+    {
+      "name": "CryptoniumRecipe",
+      "type": "recipe",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_recipe"
+    },
+    {
+      "name": "WarByJeffWilliams",
+      "type": "musicdisc",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "war_by_jeff_williams"
+    },
+    {
+      "name": "ValkyrieGrassBlock",
+      "type": "block",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_grass_block"
+    },
+    {
+      "name": "ValkyrieWoodWood",
+      "type": "block",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_wood"
+    },
+    {
+      "name": "ValkyrieWoodLog",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_log"
+    },
+    {
+      "name": "ValkyrieWoodPlanks",
+      "type": "block",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_planks"
+    },
+    {
+      "name": "ValkyrieWoodLeaves",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_leaves"
+    },
+    {
+      "name": "ValkyrieWoodStairs",
+      "type": "block",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_stairs"
+    },
+    {
+      "name": "ValkyrieWoodSlab",
+      "type": "block",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_slab"
+    },
+    {
+      "name": "ValkyrieWoodFence",
+      "type": "block",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_fence"
+    },
+    {
+      "name": "ValkyrieWoodFenceGate",
+      "type": "block",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_fence_gate"
+    },
+    {
+      "name": "ValkyrieWoodPressurePlate",
+      "type": "block",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_pressure_plate"
+    },
+    {
+      "name": "ValkyrieWoodButton",
+      "type": "block",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_button"
+    },
+    {
+      "name": "ValkyrieWoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_wood_recipe"
+    },
+    {
+      "name": "ValkyrieWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_planks_recipe"
+    },
+    {
+      "name": "ValkyrieWoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_stairs_recipe"
+    },
+    {
+      "name": "ValkyrieWoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_slab_recipe"
+    },
+    {
+      "name": "ValkyrieWoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_fence_recipe"
+    },
+    {
+      "name": "ValkyrieWoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_fence_gate_recipe"
+    },
+    {
+      "name": "ValkyrieWoodPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_pressure_plate_recipe"
+    },
+    {
+      "name": "ValkyrieWoodButtonRecipe",
+      "type": "recipe",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_button_recipe"
+    },
+    {
+      "name": "ValkyrieWoodStickRecipe",
+      "type": "recipe",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_wood_stick_recipe"
+    },
+    {
+      "name": "PlutoWoodWood",
+      "type": "block",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_wood"
+    },
+    {
+      "name": "PlutoWoodLog",
+      "type": "block",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_log"
+    },
+    {
+      "name": "PlutoWoodPlanks",
+      "type": "block",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_planks"
+    },
+    {
+      "name": "PlutoWoodLeaves",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_leaves"
+    },
+    {
+      "name": "PlutoWoodStairs",
+      "type": "block",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_stairs"
+    },
+    {
+      "name": "PlutoWoodSlab",
+      "type": "block",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_slab"
+    },
+    {
+      "name": "PlutoWoodFence",
+      "type": "block",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_fence"
+    },
+    {
+      "name": "PlutoWoodFenceGate",
+      "type": "block",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_fence_gate"
+    },
+    {
+      "name": "PlutoWoodPressurePlate",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_pressure_plate"
+    },
+    {
+      "name": "PlutoWoodButton",
+      "type": "block",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_button"
+    },
+    {
+      "name": "PlutoWoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_wood_recipe"
+    },
+    {
+      "name": "PlutoWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_planks_recipe"
+    },
+    {
+      "name": "PlutoWoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_stairs_recipe"
+    },
+    {
+      "name": "PlutoWoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_slab_recipe"
+    },
+    {
+      "name": "PlutoWoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_fence_recipe"
+    },
+    {
+      "name": "PlutoWoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_fence_gate_recipe"
+    },
+    {
+      "name": "PlutoWoodPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_pressure_plate_recipe"
+    },
+    {
+      "name": "PlutoWoodButtonRecipe",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_button_recipe"
+    },
+    {
+      "name": "PlutoWoodStickRecipe",
+      "type": "recipe",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_wood_stick_recipe"
+    },
+    {
+      "name": "Graphinium",
+      "type": "item",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium"
+    },
+    {
+      "name": "GraphiniumToolsPickaxe",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_tools_pickaxe"
+    },
+    {
+      "name": "GraphiniumToolsAxe",
+      "type": "tool",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_tools_axe"
+    },
+    {
+      "name": "GraphiniumToolsSword",
+      "type": "tool",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_tools_sword"
+    },
+    {
+      "name": "GraphiniumToolsShovel",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_tools_shovel"
+    },
+    {
+      "name": "GraphiniumToolsHoe",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_tools_hoe"
+    },
+    {
+      "name": "GraphiniumToolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_tools_pickaxe_recipe"
+    },
+    {
+      "name": "GraphiniumToolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_tools_axe_recipe"
+    },
+    {
+      "name": "GraphiniumToolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_tools_sword_recipe"
+    },
+    {
+      "name": "GraphiniumToolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_tools_shovel_recipe"
+    },
+    {
+      "name": "GraphiniumToolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_tools_hoe_recipe"
+    },
+    {
+      "name": "GraphiniumArmorArmor",
+      "type": "armor",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "GraphiniumArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_armor_armor_helmet_recipe"
+    },
+    {
+      "name": "GraphiniumArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_armor_armor_body_recipe"
+    },
+    {
+      "name": "GraphiniumArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_armor_armor_leggings_recipe"
+    },
+    {
+      "name": "GraphiniumArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_armor_armor_boots_recipe"
+    },
+    {
+      "name": "SilentValkyrieBlocks",
+      "type": "tab",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silent_valkyrie_blocks"
+    },
+    {
+      "name": "DemonWolf",
+      "type": "item",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf"
+    },
+    {
+      "name": "DemonWolfOre",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_ore"
+    },
+    {
+      "name": "DemonWolfBlock",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_block"
+    },
+    {
+      "name": "DemonWolfOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_ore_block_recipe"
+    },
+    {
+      "name": "DemonWolfBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_block_ore_recipe"
+    },
+    {
+      "name": "DemonWolfOreSmelting",
+      "type": "recipe",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_ore_smelting"
+    },
+    {
+      "name": "DemonWolfPickaxe",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_pickaxe"
+    },
+    {
+      "name": "DemonWolfAxe",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_axe"
+    },
+    {
+      "name": "DemonWolfSword",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_sword"
+    },
+    {
+      "name": "DemonWolfShovel",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_shovel"
+    },
+    {
+      "name": "DemonWolfHoe",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_hoe"
+    },
+    {
+      "name": "DemonWolfPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_pickaxe_recipe"
+    },
+    {
+      "name": "DemonWolfAxeRecipe",
+      "type": "recipe",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_axe_recipe"
+    },
+    {
+      "name": "DemonWolfSwordRecipe",
+      "type": "recipe",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_sword_recipe"
+    },
+    {
+      "name": "DemonWolfShovelRecipe",
+      "type": "recipe",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_shovel_recipe"
+    },
+    {
+      "name": "DemonWolfHoeRecipe",
+      "type": "recipe",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_hoe_recipe"
+    },
+    {
+      "name": "DemonWolfArmor",
+      "type": "armor",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "DemonWolfArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_armor_helmet_recipe"
+    },
+    {
+      "name": "DemonWolfArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_armor_body_recipe"
+    },
+    {
+      "name": "DemonWolfArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_armor_leggings_recipe"
+    },
+    {
+      "name": "DemonWolfArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_armor_boots_recipe"
+    },
+    {
+      "name": "TitaniumIngot",
+      "type": "item",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ingot"
+    },
+    {
+      "name": "TitaniumOre",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ore"
+    },
+    {
+      "name": "TitaniumBlock",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_block"
+    },
+    {
+      "name": "TitaniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ore_block_recipe"
+    },
+    {
+      "name": "TitaniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_block_ore_recipe"
+    },
+    {
+      "name": "TitaniumOreSmelting",
+      "type": "recipe",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ore_smelting"
+    },
+    {
+      "name": "TitaniumPickaxe",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_pickaxe"
+    },
+    {
+      "name": "TitaniumAxe",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_axe"
+    },
+    {
+      "name": "TitaniumSword",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_sword"
+    },
+    {
+      "name": "TitaniumShovel",
+      "type": "tool",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_shovel"
+    },
+    {
+      "name": "TitaniumHoe",
+      "type": "tool",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_hoe"
+    },
+    {
+      "name": "TitaniumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_pickaxe_recipe"
+    },
+    {
+      "name": "TitaniumAxeRecipe",
+      "type": "recipe",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_axe_recipe"
+    },
+    {
+      "name": "TitaniumSwordRecipe",
+      "type": "recipe",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_sword_recipe"
+    },
+    {
+      "name": "TitaniumShovelRecipe",
+      "type": "recipe",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_shovel_recipe"
+    },
+    {
+      "name": "TitaniumHoeRecipe",
+      "type": "recipe",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_hoe_recipe"
+    },
+    {
+      "name": "TitaniumArmor",
+      "type": "armor",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TitaniumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_armor_helmet_recipe"
+    },
+    {
+      "name": "TitaniumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_armor_body_recipe"
+    },
+    {
+      "name": "TitaniumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_armor_leggings_recipe"
+    },
+    {
+      "name": "TitaniumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_armor_boots_recipe"
+    },
+    {
+      "name": "GraphiniumOre",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_ore"
+    },
+    {
+      "name": "BlockOfGraphinium",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_of_graphinium"
+    },
+    {
+      "name": "ValkyrieBiome",
+      "type": "biome",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrie_biome"
+    },
+    {
+      "name": "PlutoGrass",
+      "type": "block",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_grass"
+    },
+    {
+      "name": "PlutoBiome",
+      "type": "biome",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_biome"
+    },
+    {
+      "name": "RedLikeRosesFullVersion",
+      "type": "musicdisc",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_like_roses_full_version"
+    },
+    {
+      "name": "BloodDustDust",
+      "type": "item",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_dust_dust"
+    },
+    {
+      "name": "BloodDustOre",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_dust_ore"
+    },
+    {
+      "name": "BloodDustBlock",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_dust_block"
+    },
+    {
+      "name": "BloodDustOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_dust_ore_block_recipe"
+    },
+    {
+      "name": "BloodDustBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_dust_block_ore_recipe"
+    },
+    {
+      "name": "BloodDustOreSmelting",
+      "type": "recipe",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_dust_ore_smelting"
+    },
+    {
+      "name": "BloodPickaxe",
+      "type": "tool",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_pickaxe"
+    },
+    {
+      "name": "BloodAxe",
+      "type": "tool",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_axe"
+    },
+    {
+      "name": "BloodSword",
+      "type": "tool",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_sword"
+    },
+    {
+      "name": "BloodShovel",
+      "type": "tool",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_shovel"
+    },
+    {
+      "name": "BloodHoe",
+      "type": "tool",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_hoe"
+    },
+    {
+      "name": "BloodPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_pickaxe_recipe"
+    },
+    {
+      "name": "BloodAxeRecipe",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_axe_recipe"
+    },
+    {
+      "name": "BloodSwordRecipe",
+      "type": "recipe",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_sword_recipe"
+    },
+    {
+      "name": "BloodShovelRecipe",
+      "type": "recipe",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_shovel_recipe"
+    },
+    {
+      "name": "BloodHoeRecipe",
+      "type": "recipe",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_hoe_recipe"
+    },
+    {
+      "name": "TheOne",
+      "type": "livingentity",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_one"
+    },
+    {
+      "name": "BloodArmor",
+      "type": "armor",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "BloodArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_armor_helmet_recipe"
+    },
+    {
+      "name": "BloodArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_armor_body_recipe"
+    },
+    {
+      "name": "BloodArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_armor_leggings_recipe"
+    },
+    {
+      "name": "BloodArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_armor_boots_recipe"
+    },
+    {
+      "name": "BloodbaneWood",
+      "type": "block",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_wood"
+    },
+    {
+      "name": "BloodbaneLog",
+      "type": "block",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_log"
+    },
+    {
+      "name": "BloodbanePlanks",
+      "type": "block",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_planks"
+    },
+    {
+      "name": "BloodbaneLeaves",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_leaves"
+    },
+    {
+      "name": "BloodbaneStairs",
+      "type": "block",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_stairs"
+    },
+    {
+      "name": "BloodbaneSlab",
+      "type": "block",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_slab"
+    },
+    {
+      "name": "BloodbaneFence",
+      "type": "block",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_fence"
+    },
+    {
+      "name": "BloodbaneFenceGate",
+      "type": "block",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_fence_gate"
+    },
+    {
+      "name": "BloodbanePressurePlate",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_pressure_plate"
+    },
+    {
+      "name": "BloodbaneButton",
+      "type": "block",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_button"
+    },
+    {
+      "name": "BloodbaneWoodRecipe",
+      "type": "recipe",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_wood_recipe"
+    },
+    {
+      "name": "BloodbanePlanksRecipe",
+      "type": "recipe",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_planks_recipe"
+    },
+    {
+      "name": "BloodbaneStairsRecipe",
+      "type": "recipe",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_stairs_recipe"
+    },
+    {
+      "name": "BloodbaneSlabRecipe",
+      "type": "recipe",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_slab_recipe"
+    },
+    {
+      "name": "BloodbaneFenceRecipe",
+      "type": "recipe",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_fence_recipe"
+    },
+    {
+      "name": "BloodbaneFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_fence_gate_recipe"
+    },
+    {
+      "name": "BloodbanePressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_pressure_plate_recipe"
+    },
+    {
+      "name": "BloodbaneButtonRecipe",
+      "type": "recipe",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_button_recipe"
+    },
+    {
+      "name": "BloodbaneStickRecipe",
+      "type": "recipe",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloodbane_stick_recipe"
+    },
+    {
+      "name": "BloodBaneBiome",
+      "type": "biome",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_bane_biome"
+    },
+    {
+      "name": "SilentRedemptionMusicDisc",
+      "type": "musicdisc",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silent_redemption_music_disc"
+    },
+    {
+      "name": "PlutoStoneOreBlastFurnace",
+      "type": "recipe",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_ore_blast_furnace"
+    },
+    {
+      "name": "ValkyriumBlastFurnace",
+      "type": "recipe",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_blast_furnace"
+    },
+    {
+      "name": "HuskyriumOreBlastFurnace",
+      "type": "recipe",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "huskyrium_ore_blast_furnace"
+    },
+    {
+      "name": "CryptoniumOreBlastFurnace",
+      "type": "recipe",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cryptonium_ore_blast_furnace"
+    },
+    {
+      "name": "BloodDustOreBlastFurnace",
+      "type": "recipe",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_dust_ore_blast_furnace"
+    },
+    {
+      "name": "DemonWolfOreBlastFurnace",
+      "type": "recipe",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_wolf_ore_blast_furnace"
+    },
+    {
+      "name": "TitaniumOreBlastFurnace",
+      "type": "recipe",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ore_blast_furnace"
+    },
+    {
+      "name": "GraphiniumOreBlastFurnace",
+      "type": "recipe",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_ore_blast_furnace"
+    },
+    {
+      "name": "BlockOfGraphiniumRecipe",
+      "type": "recipe",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_of_graphinium_recipe"
+    },
+    {
+      "name": "GraphiniumRecipe",
+      "type": "recipe",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "graphinium_recipe"
+    },
+    {
+      "name": "CraftingTablePlutoWood",
+      "type": "recipe",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_table_pluto_wood"
+    },
+    {
+      "name": "CraftingTableValkyrieWood",
+      "type": "recipe",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_table_valkyrie_wood"
+    },
+    {
+      "name": "CraftingTableBloodBane",
+      "type": "recipe",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_table_blood_bane"
+    },
+    {
+      "name": "ChestValkyrieWood",
+      "type": "recipe",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_valkyrie_wood"
+    },
+    {
+      "name": "ChestPlutoWood",
+      "type": "recipe",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_pluto_wood"
+    },
+    {
+      "name": "ChestBloodBane",
+      "type": "recipe",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_blood_bane"
+    },
+    {
+      "name": "Digi",
+      "type": "livingentity",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "digi"
+    },
+    {
+      "name": "BL82MusicDisc",
+      "type": "musicdisc",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bl_82_music_disc"
+    },
+    {
+      "name": "WhatCanYouSeeInTheirEyesMusicDisc",
+      "type": "musicdisc",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "what_can_you_see_in_their_eyes_music_disc"
+    },
+    {
+      "name": "YhwachThemeBleachTYBWOSTMusicDisc",
+      "type": "musicdisc",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yhwach_theme_bleach_tybwost_music_disc"
+    },
+    {
+      "name": "TheBladeOfSalem",
+      "type": "tool",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_blade_of_salem"
+    },
+    {
+      "name": "PlutoStoneOreEnd",
+      "type": "block",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_ore_end"
+    },
+    {
+      "name": "MoltenPlutoSteel",
+      "type": "item",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molten_pluto_steel"
+    },
+    {
+      "name": "HardenedPlutoSteel",
+      "type": "item",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hardened_pluto_steel"
+    },
+    {
+      "name": "PlutoSteelRecipe",
+      "type": "recipe",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_steel_recipe"
+    },
+    {
+      "name": "PlutoStoneShovelRecipe",
+      "type": "recipe",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_stone_shovel_recipe"
+    },
+    {
+      "name": "PlutoSteelIngotRecipe",
+      "type": "recipe",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pluto_steel_ingot_recipe"
+    },
+    {
+      "name": "BloodBaneGrassBlock",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_bane_grass_block"
+    },
+    {
+      "name": "ValkyriumOreEnd",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_ore_end"
+    },
+    {
+      "name": "MoltenValkyrium",
+      "type": "item",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molten_valkyrium"
+    },
+    {
+      "name": "HardenedValkyrium",
+      "type": "item",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hardened_valkyrium"
+    },
+    {
+      "name": "ValkyriumRecipe2",
+      "type": "recipe",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valkyrium_recipe_2"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "dead",
+      "files": [
+        "death"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "valkdeath",
+      "files": [
+        "valk_death"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "step",
+      "files": [
+        "regaliaambient2"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "thejoker",
+      "files": [
+        "joke"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "ambient",
+      "files": [
+        "regaliaambient"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "hurt",
+      "files": [
+        "hurt"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "morhurt",
+      "files": [
+        "iujeghiouergfhero"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "dreemmanhunttheme",
+      "files": [
+        "dream_manhunt_theme"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "ffxiiibosstheme",
+      "files": [
+        "ffxiii_ost__boss_theme"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "theblackshadow",
+      "files": [
+        "the_black_shadow"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "war",
+      "files": [
+        "war"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "redlikeroses",
+      "files": [
+        "red_like_roses_silents_mix"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "silentredemption2",
+      "files": [
+        "silent_redemption_ii"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "silentredemption1",
+      "files": [
+        "silent_redemption"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "silentredemption3",
+      "files": [
+        "silent_redemption_iii"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "bluedesire",
+      "files": [
+        "blue_desire_ii"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "bl_82",
+      "files": [
+        "i_have_no_name"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "whatcanyouseeintheireyes",
+      "files": [
+        "what_can_you_see_in_their_eyes"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "yhwachtheme",
+      "files": [
+        "yhwach_theme"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "block.silent_valkyrie.blood_bane_grass_block": "BloodBane Grass Block",
+      "item.silent_valkyrie.valkyrium_armor_boots": "Valkyrium Boots",
+      "item.silent_valkyrie.cryptonium_hoe": "Cryptonium Hoe",
+      "item.silent_valkyrie.blood_shovel": "Blood Shovel",
+      "item.silent_valkyrie.silent_redemption_music_disc": "Silent Redemption",
+      "subtitles.war": "",
+      "item.silent_valkyrie.graphinium_armor_armor_helmet": "Graphinium Helmet",
+      "item.silent_valkyrie.pluto_stone_sword": "Pluto Steel Sword",
+      "fluid.silent_valkyrie.that_sawse": "That Sawse",
+      "item.silent_valkyrie.blood_pickaxe": "Blood Pickaxe",
+      "subtitles.valkdeath": "",
+      "block.silent_valkyrie.bloodbane_log": "Bloodbane Log",
+      "subtitles.dreemmanhunttheme": "",
+      "item.silent_valkyrie.dimension_star_overworld": "Dimension Star (Overworld)",
+      "item.silent_valkyrie.pluto_stone_pickaxe": "Pluto Steel Pickaxe",
+      "item.silent_valkyrie.huskyrium_axe": "Huskyrium Axe",
+      "item.silent_valkyrie.blood_armor_chestplate": "Blood Chestplate",
+      "item.silent_valkyrie.hardened_valkyrium": "Hardened Valkyrium",
+      "block.silent_valkyrie.pluto_wood_slab": "Pluto Wood Slab",
+      "item.silent_valkyrie.titanium_pickaxe": "Titanium Pickaxe",
+      "block.silent_valkyrie.huskyrium_block": "Huskyrium Block",
+      "effect.valkyries_sense": "Valkyrie\u0027s Sense",
+      "item.silent_valkyrie.graphinium_armor_armor_chestplate": "Graphinium Chestplate",
+      "item.silent_valkyrie.bl_82_music_disc": "BL_82 Music Disc ",
+      "entity.silent_valkyrie.pluto": "Regalia: The Pluto God",
+      "block.silent_valkyrie.bloodbane_wood": "Bloodbane Wood",
+      "block.silent_valkyrie.valkyrium_ore_end": "End Valkyrium Ore",
+      "item.silent_valkyrie.huskyrium_armor_leggings": "Huskyrium Leggings",
+      "block.silent_valkyrie.valkyrium_ore": "Valkyrium Ore",
+      "item.silent_valkyrie.the_black_shadow.desc": "Exclusively from The High Republic Soundtrack",
+      "item.silent_valkyrie.demon_wolf_armor_helmet": "DemonWolf Helmet",
+      "item.silent_valkyrie.digi_spawn_egg": "Digi - The Founding Guy Spawn Egg",
+      "block.silent_valkyrie.valkyrie_wood_log": "Valkyrie Wood Log",
+      "item.silent_valkyrie.dimension_star_end": "Dimension Star End",
+      "item.silent_valkyrie.demon_wolf": "DemonWolf",
+      "block.silent_valkyrie.bloodbane_leaves": "Bloodbane Leaves",
+      "block.silent_valkyrie.pluto_wood_pressure_plate": "PlutoWood Pressure Plate",
+      "item.silent_valkyrie.huskyrium_sword": "Huskyrium Sword",
+      "item.silent_valkyrie.blood_armor_boots": "Blood Boots",
+      "block.silent_valkyrie.that_sawse": "That Sawse",
+      "subtitles.ffxiiibosstheme": "",
+      "item.silent_valkyrie.graphinium_tools_axe": "Graphinium Axe",
+      "item.silent_valkyrie.blood_hoe": "Blood Hoe",
+      "item.silent_valkyrie.silent_redemption_music_disc.desc": "This is an Exclusive Music Disc From the High Republic OST",
+      "block.silent_valkyrie.cryptonium_block": "Cryptonium Block",
+      "subtitles.thejoker": "",
+      "item.silent_valkyrie.titanium_ingot": "Titanium",
+      "item.silent_valkyrie.titanium_armor_boots": "Titanium Boots",
+      "block.silent_valkyrie.bloodbane_fence_gate": "Bloodbane Fence Gate",
+      "block.silent_valkyrie.bloodbane_fence": "Bloodbane Fence",
+      "item.silent_valkyrie.valkyrium_shovel": "Valkyrium Shovel",
+      "item.silent_valkyrie.demon_wolf_armor_leggings": "DemonWolf Leggings",
+      "advancements.the_valkyrie.descr": "Enter The Valkyrie Dimension",
+      "block.silent_valkyrie.bloodbane_button": "Bloodbane Button",
+      "subtitles.redlikeroses": "",
+      "item.silent_valkyrie.valkyrium_hoe": "Valkyrium Hoe",
+      "item.silent_valkyrie.graphinium_armor_armor_leggings": "Graphinium Leggings",
+      "item.silent_valkyrie.pluto_stone_shovel": "Pluto Steel Shovel",
+      "block.silent_valkyrie.titanium_ore": "Titanium Ore",
+      "item.silent_valkyrie.pluto_stone_axe": "Pluto Stone Axe",
+      "item.silent_valkyrie.graphinium_tools_pickaxe": "Graphinium Pickaxe",
+      "block.silent_valkyrie.pluto_wood_log": "Pluto Wood Log",
+      "block.silent_valkyrie.blood_dust_block": "Block of Blood Dust",
+      "item.silent_valkyrie.valkyrie": "Valkyrie Portal Igniter",
+      "item.silent_valkyrie.graphinium_tools_sword": "Graphinium Sword",
+      "item.silent_valkyrie.red_like_roses_full_version.desc": "This is an Exclusive Music Disc From the RWBY Vol. 1 Soundtrack!",
+      "subtitles.bluedesire": "",
+      "block.silent_valkyrie.valkyrie_wood_wood": "Valkyrie Wood",
+      "item.silent_valkyrie.pluto_stone_armor_chestplate": "Pluto Stone Chestplate",
+      "item.silent_valkyrie.huskyrium_armor_chestplate": "Huskyrium Chestplate",
+      "block.silent_valkyrie.pluto_wood_fence_gate": "PlutoWood Fence Gate",
+      "block.silent_valkyrie.bloodbane_stairs": "Bloodbane Stairs",
+      "item.silent_valkyrie.cryptonium_sword": "Cryptonium Sword",
+      "block.silent_valkyrie.bloodbane_planks": "Bloodbane Planks",
+      "entity.silent_valkyrie.silent_valkyrie": "Silent Valkyrie",
+      "item.silent_valkyrie.pluto_stone_armor_helmet": "Pluto Stone Helmet",
+      "block.silent_valkyrie.valkyrie_wood_planks": "Valkyrie Wood Planks",
+      "item.silent_valkyrie.demon_wolf_hoe": "DemonWolf Hoe",
+      "item.silent_valkyrie.the_joker_by_atlus_music": "The Joker By ATLUS Music",
+      "subtitles.morhurt": "",
+      "biome.silent_valkyrie.pluto_biome": "Pluto Biome",
+      "item.silent_valkyrie.valkyrium_armor_leggings": "Valkyrium Leggings",
+      "subtitles.hurt": "",
+      "item.silent_valkyrie.huskyrium_armor_boots": "Huskyrium Boots",
+      "item.silent_valkyrie.hardened_pluto_steel": "Hardened Pluto Steel",
+      "block.silent_valkyrie.pluto_stone_block": "Pluto Steel Block",
+      "item.silent_valkyrie.titanium_armor_chestplate": "Titanium Chestplate",
+      "block.silent_valkyrie.cryptonium_ore": "Cryptonium Ore",
+      "item.silent_valkyrie.pluto_stone_armor_boots": "Pluto Stone Boots",
+      "item.silent_valkyrie.yhwach_theme_bleach_tybwost_music_disc": "Yhwach Theme Bleach TYBW OST Music Disc",
+      "item.silent_valkyrie.valkyrium_sword": "Valkyrium Sword",
+      "block.silent_valkyrie.valkyrie_grass_block": "Valkyrie Grass Block",
+      "item.silent_valkyrie.blood_dust_dust": "Blood Dust",
+      "item.silent_valkyrie.titanium_axe": "Titanium Axe",
+      "block.silent_valkyrie.graphinium_ore": "Graphinium Ore",
+      "item.silent_valkyrie.demon_wolf_pickaxe": "DemonWolf Pickaxe",
+      "block.silent_valkyrie.valkyrium_block": "Valkyrium Block",
+      "block.silent_valkyrie.pluto_stone_ore": "Pluto Steel Ore",
+      "item.silent_valkyrie.dream_manhunt_theme.desc": "Dream\u0027s Manhunt Theme...... ",
+      "item.silent_valkyrie.what_can_you_see_in_their_eyes_music_disc": "What Can You See In Their Eyes Music Disc",
+      "item.silent_valkyrie.the_joker_by_atlus_music.desc": "This is an Exclusive Music Disc From the Persona 4 Arena Ultimax Soundtrack!",
+      "item.silent_valkyrie.cryptonium_axe": "Cryptonium Axe",
+      "block.silent_valkyrie.blood_dust_ore": "Blood Dust Ore",
+      "item.silent_valkyrie.the_black_shadow": "The Black Shadow",
+      "advancements.lost_for_words.descr": "Obtain Pluto Stone",
+      "block.silent_valkyrie.valkyrie_wood_fence_gate": "ValkyrieWood Fence Gate",
+      "subtitles.silentredemption2": "",
+      "item.silent_valkyrie.what_can_you_see_in_their_eyes_music_disc.desc": "This Music Disc is from the Bleach 3: Fade to Black Soundtrack",
+      "subtitles.silentredemption1": "",
+      "item.silent_valkyrie.huskyrium": "Huskyrium",
+      "item.silent_valkyrie.valkyrium_armor_chestplate": "Valkyrium Chestplate",
+      "subtitles.dead": "",
+      "block.silent_valkyrie.valkyrie_wood_button": "Valkyrie Wood Button",
+      "item.silent_valkyrie.graphinium": "Graphinium",
+      "item.silent_valkyrie.demon_wolf_shovel": "DemonWolf Shovel",
+      "item.silent_valkyrie.molten_valkyrium": "Molten Valkyrium",
+      "item.silent_valkyrie.pluto_stone_armor_leggings": "Pluto Stone Leggings",
+      "item.silent_valkyrie.ffxiii_boss_theme": "FFXIII Boss Theme",
+      "item.silent_valkyrie.the_one_spawn_egg": "The One Spawn Egg",
+      "biome.silent_valkyrie.valkyrie_biome": "Valkyrie Biome",
+      "item.silent_valkyrie.graphinium_tools_shovel": "Graphinium Shovel",
+      "block.silent_valkyrie.huskyrium_ore": "Huskyrium Ore",
+      "block.silent_valkyrie.demon_wolf_block": "Block of DemonWolf",
+      "block.silent_valkyrie.pluto_stone_ore_end": "End Pluto Steel Ore",
+      "item.silent_valkyrie.pluto_stone": "Pluto Stone",
+      "block.silent_valkyrie.pluto_wood_fence": "Pluto Wood Fence",
+      "subtitles.ambient": "",
+      "item.silent_valkyrie.cryptonium_armor_leggings": "Cryptonium Leggings",
+      "item.silent_valkyrie.blood_armor_leggings": "Blood Leggings",
+      "advancements.the_valkyrie.title": "The Valkyrie?",
+      "item.silent_valkyrie.blood_sword": "Blood Sword",
+      "item.silent_valkyrie.the_blade_of_salem": "The Blade Of Salem",
+      "block.silent_valkyrie.valkyrie_wood_slab": "ValkyrieWood Slab",
+      "item.silent_valkyrie.valkyrium": "Valkyrium",
+      "subtitles.silentredemption3": "",
+      "item.silent_valkyrie.blood_axe": "Blood Axe",
+      "block.silent_valkyrie.pluto_grass": "Pluto Grass",
+      "item.silent_valkyrie.titanium_armor_leggings": "Titanium Leggings",
+      "item.silent_valkyrie.huskyrium_hoe": "Huskyrium Hoe",
+      "item.silent_valkyrie.titanium_armor_helmet": "Titanium Helmet",
+      "itemGroup.tabsilent_valk_addons": "Silent\u0027s Valkyrie Mod Addons",
+      "item.silent_valkyrie.demon_wolf_sword": "DemonWolf Sword",
+      "item.silent_valkyrie.pluto_spawn_egg": "Regalia: The Pluto God Spawn Egg",
+      "block.silent_valkyrie.valkyrie_wood_stairs": "Valkyrie Wood Stairs",
+      "item.silent_valkyrie.cryptonium_shovel": "Cryptonium Shovel",
+      "item.silent_valkyrie.red_like_roses_full_version": "Red Like Roses (Silent\u0027s Mix)",
+      "subtitles.bl_82": "",
+      "item.silent_valkyrie.molten_pluto_steel": "Molten Pluto Steel",
+      "item.silent_valkyrie.cryptonium_armor_chestplate": "Cryptonium Chestplate",
+      "subtitles.step": "",
+      "block.silent_valkyrie.pluto_wood_planks": "Pluto Wood Planks",
+      "item.silent_valkyrie.dream_spawn_egg": "Wandering Warrior Spawn Egg",
+      "subtitles.theblackshadow": "",
+      "item.silent_valkyrie.ffxiii_boss_theme.desc": "Exclusively from the Final Fantasy XIII Soundtrack",
+      "item.silent_valkyrie.cryptonium_armor_helmet": "Cryptonium Helmet",
+      "item.silent_valkyrie.valkyrium_axe": "Valkyrium Axe",
+      "item.silent_valkyrie.demon_wolf_armor_boots": "DemonWolf Boots",
+      "item.silent_valkyrie.that_sawse_bucket": "That Sawse Bucket",
+      "item.silent_valkyrie.huskyrium_shovel": "Huskyrium Shovel",
+      "block.silent_valkyrie.pluto_wood_stairs": "Pluto Wood Stairs",
+      "item.silent_valkyrie.huskyrium_armor_helmet": "Huskyrium Helmet",
+      "subtitles.whatcanyouseeintheireyes": "",
+      "entity.silent_valkyrie.digi": "Digi - The Founding Guy",
+      "itemGroup.tabsilent_valk": "Silent\u0027s Valkyrie Mod",
+      "item.silent_valkyrie.demon_wolf_axe": "DemonWolf Axe",
+      "block.silent_valkyrie.pluto_wood_leaves": "Pluto Wood Leaves",
+      "item.silent_valkyrie.cryptonium_armor_boots": "Cryptonium Boots",
+      "item.silent_valkyrie.cryptonium_pickaxe": "Cryptonium Pickaxe",
+      "item.silent_valkyrie.blood_armor_helmet": "Blood Helmet",
+      "block.silent_valkyrie.valkyrie_wood_fence": "Valkyrie Wood Fence",
+      "item.silent_valkyrie.titanium_sword": "Titanium Sword",
+      "biome.silent_valkyrie.blood_bane_biome": "Blood Bane Biome",
+      "block.silent_valkyrie.bloodbane_pressure_plate": "Bloodbane Pressure Plate",
+      "item.silent_valkyrie.valkyrium_pickaxe": "Valkyrium Pickaxe",
+      "item.silent_valkyrie.titanium_shovel": "Titanium Shovel",
+      "item.silent_valkyrie.bl_82_music_disc.desc": "This music Disc is from the Bleach 5th Anniversary Music Box",
+      "item.silent_valkyrie.valkyrium_armor_helmet": "Valkyrium Helmet",
+      "item.silent_valkyrie.dream_manhunt_theme": "Dream Manhunt Theme",
+      "block.silent_valkyrie.titanium_block": "Block of Titanium",
+      "item.silent_valkyrie.war_by_jeff_williams.desc": "This is an Exclusive Music Disc From the RWBY Vol. 7 Soundtrack!",
+      "block.silent_valkyrie.pluto_wood_wood": "Pluto Wood",
+      "block.silent_valkyrie.bloodbane_slab": "Bloodbane Slab",
+      "item.silent_valkyrie.graphinium_tools_hoe": "Graphinium Hoe",
+      "item.silent_valkyrie.dimension_star_nether": "Dimension Star (Nether)",
+      "item.silent_valkyrie.titanium_hoe": "Titanium Hoe",
+      "advancements.lost_for_words.title": "Lost For Words",
+      "block.silent_valkyrie.valkyrie_wood_leaves": "Valkyrie Wood Leaves",
+      "item.silent_valkyrie.huskyrium_pickaxe": "Huskyrium Pickaxe",
+      "block.silent_valkyrie.valkyrie_wood_pressure_plate": "Valkyrie Wood Pressure Plate",
+      "block.silent_valkyrie.block_of_graphinium": "Block Of Graphinium",
+      "entity.silent_valkyrie.the_one": "The One",
+      "item.silent_valkyrie.silent_valkyrie_spawn_egg": "Silent Valkyrie Spawn Egg",
+      "entity.silent_valkyrie.dream": "Wandering Warrior",
+      "item.silent_valkyrie.demon_wolf_armor_chestplate": "DemonWolf Chestplate",
+      "item.silent_valkyrie.war_by_jeff_williams": "War By Jeff Williams",
+      "item.silent_valkyrie.yhwach_theme_bleach_tybwost_music_disc.desc": "This Music Discis From the Bleach TYBW OST",
+      "item.silent_valkyrie.pluto_stone_hoe": "Pluto Steel Hoe",
+      "item.silent_valkyrie.graphinium_armor_armor_boots": "Graphinium Boots",
+      "block.silent_valkyrie.pluto_wood_button": "PlutoWood Button",
+      "itemGroup.tabsilent_valkyrie_blocks": "Silent Valkyrie Blocks",
+      "item.silent_valkyrie.cryptonium": "Cryptonium",
+      "subtitles.yhwachtheme": "",
+      "block.silent_valkyrie.demon_wolf_ore": "DemonWolf Ore"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "silent_valkyrie",
+    "modName": "Silent Valkyrie",
+    "version": "1.0.0",
+    "author": "Silent Experience, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "allmods"
+    ],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "silent_valkyrie",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}

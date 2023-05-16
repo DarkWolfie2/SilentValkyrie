@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "musicdiscc",
+    "name": "Dream Manhunt Theme",
+    "description": "Dream's Manhunt Theme...... ",
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkAddons"
+    },
+    "music": {
+      "value": "CUSTOM:dreemmanhunttheme"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

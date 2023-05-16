@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "silent_valkyrie:huskyrium"
+    },
+    "2": {
+      "item": "silent_valkyrie:huskyrium"
+    },
+    "3": {
+      "item": "silent_valkyrie:huskyrium"
+    },
+    "5": {
+      "item": "silent_valkyrie:huskyrium"
+    }
+  },
+  "result": {
+    "item": "silent_valkyrie:huskyrium_armor_boots",
+    "count": 1
+  }
+}

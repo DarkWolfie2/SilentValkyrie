@@ -1,0 +1,6 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "silent_valkyrie:blocks/plutowood_planks"
+  }
+}

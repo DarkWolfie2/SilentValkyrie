@@ -1,0 +1,27 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "valkyriumshovel",
+    "customModelName": "Normal",
+    "name": "Valkyrium Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValk"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 4,
+    "efficiency": 10.0,
+    "attackSpeed": 1.9,
+    "enchantability": 8,
+    "damageVsEntity": 4.0,
+    "usageCount": 6039,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

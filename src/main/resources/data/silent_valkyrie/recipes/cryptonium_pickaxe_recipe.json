@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "silent_valkyrie:pluto_stone_pickaxe"
+  },
+  "addition": {
+    "item": "silent_valkyrie:cryptonium"
+  },
+  "result": {
+    "item": "silent_valkyrie:cryptonium_pickaxe"
+  }
+}

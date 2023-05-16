@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "silent_valkyrie:bloodbane_log"
+    }
+  ],
+  "result": {
+    "item": "silent_valkyrie:bloodbane_planks",
+    "count": 4
+  }
+}

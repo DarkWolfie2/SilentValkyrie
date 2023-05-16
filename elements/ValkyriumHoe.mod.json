@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "valkyriumhoe",
+    "customModelName": "Normal",
+    "name": "Valkyrium Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValk"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 4,
+    "efficiency": 8.0,
+    "attackSpeed": 4.0,
+    "enchantability": 2,
+    "damageVsEntity": 1.0,
+    "usageCount": 6039,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Valkyrium"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

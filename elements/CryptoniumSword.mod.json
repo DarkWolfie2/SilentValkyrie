@@ -1,0 +1,33 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cryptoniumsword",
+    "customModelName": "Normal",
+    "name": "Cryptonium Sword",
+    "specialInfo": [
+      "The Sword to Kill Valkyries"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValk"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 13.0,
+    "attackSpeed": 2.0,
+    "enchantability": 15,
+    "damageVsEntity": 16.0,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Cryptonium"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

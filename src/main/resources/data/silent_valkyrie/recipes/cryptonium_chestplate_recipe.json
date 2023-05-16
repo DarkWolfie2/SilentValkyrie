@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "silent_valkyrie:huskyrium_armor_chestplate"
+  },
+  "addition": {
+    "item": "silent_valkyrie:cryptonium"
+  },
+  "result": {
+    "item": "silent_valkyrie:cryptonium_armor_chestplate"
+  }
+}

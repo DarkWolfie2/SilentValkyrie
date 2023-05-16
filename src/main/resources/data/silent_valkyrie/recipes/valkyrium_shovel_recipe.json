@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "silent_valkyrie:cryptonium_shovel"
+  },
+  "addition": {
+    "item": "silent_valkyrie:valkyrium"
+  },
+  "result": {
+    "item": "silent_valkyrie:valkyrium_shovel"
+  }
+}

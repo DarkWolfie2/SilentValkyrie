@@ -1,0 +1,33 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "valkyriumpickaxe",
+    "customModelName": "Normal",
+    "name": "Valkyrium Pickaxe",
+    "specialInfo": [
+      "A Pickaxe from The Fallen Valkyrie"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValk"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 4.0,
+    "attackSpeed": 2.0,
+    "enchantability": 24,
+    "damageVsEntity": 9.0,
+    "usageCount": 6039,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Valkyrium"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

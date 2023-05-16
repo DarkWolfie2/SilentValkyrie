@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "silent_valkyrie:valkyrium"
+    },
+    "1": {
+      "item": "silent_valkyrie:valkyrium"
+    },
+    "2": {
+      "item": "silent_valkyrie:valkyrium"
+    },
+    "3": {
+      "item": "silent_valkyrie:valkyrium"
+    },
+    "4": {
+      "item": "silent_valkyrie:valkyrium"
+    },
+    "5": {
+      "item": "silent_valkyrie:valkyrium"
+    },
+    "6": {
+      "item": "silent_valkyrie:valkyrium"
+    },
+    "7": {
+      "item": "silent_valkyrie:valkyrium"
+    },
+    "8": {
+      "item": "silent_valkyrie:valkyrium"
+    }
+  },
+  "result": {
+    "item": "silent_valkyrie:valkyrium_block",
+    "count": 1
+  }
+}

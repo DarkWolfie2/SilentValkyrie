@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "silent_valkyrie:items/titanium_sword"
+  }
+}

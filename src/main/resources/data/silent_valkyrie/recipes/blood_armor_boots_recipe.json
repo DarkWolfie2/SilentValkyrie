@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "silent_valkyrie:blood_dust_dust"
+    },
+    "2": {
+      "item": "silent_valkyrie:blood_dust_dust"
+    },
+    "3": {
+      "item": "silent_valkyrie:blood_dust_dust"
+    },
+    "5": {
+      "item": "silent_valkyrie:blood_dust_dust"
+    }
+  },
+  "result": {
+    "item": "silent_valkyrie:blood_armor_boots",
+    "count": 1
+  }
+}

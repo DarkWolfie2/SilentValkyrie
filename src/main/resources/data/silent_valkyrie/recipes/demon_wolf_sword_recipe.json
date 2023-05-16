@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "silent_valkyrie:pluto_stone_sword"
+  },
+  "addition": {
+    "item": "silent_valkyrie:demon_wolf"
+  },
+  "result": {
+    "item": "silent_valkyrie:demon_wolf_sword"
+  }
+}

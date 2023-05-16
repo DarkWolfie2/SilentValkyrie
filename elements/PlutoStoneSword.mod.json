@@ -1,0 +1,33 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "plutoswordstone",
+    "customModelName": "Normal",
+    "name": "Pluto Steel Sword",
+    "specialInfo": [
+      "The Sword Crafted from the Pluto God"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValk"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 15.0,
+    "attackSpeed": 1.7,
+    "enchantability": 17,
+    "damageVsEntity": 6.25,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PlutoStone"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PlutoStone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Huskyrium"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Valkyrium"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DimensionStarOverworld"
+    },
+    "name": "dimension_star_overworld_recipe",
+    "namespace": "mod"
+  }
+}

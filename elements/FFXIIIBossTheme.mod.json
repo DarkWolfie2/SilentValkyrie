@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ffxiiibossthemedisc",
+    "name": "FFXIII Boss Theme",
+    "description": "Exclusively from the Final Fantasy XIII Soundtrack",
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkAddons"
+    },
+    "music": {
+      "value": "CUSTOM:ffxiiibosstheme"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "silent_valkyrie:cryptonium"
+    },
+    "1": {
+      "item": "silent_valkyrie:cryptonium"
+    },
+    "2": {
+      "item": "silent_valkyrie:cryptonium"
+    },
+    "3": {
+      "item": "silent_valkyrie:cryptonium"
+    },
+    "4": {
+      "item": "silent_valkyrie:cryptonium"
+    },
+    "5": {
+      "item": "silent_valkyrie:cryptonium"
+    },
+    "6": {
+      "item": "silent_valkyrie:cryptonium"
+    },
+    "7": {
+      "item": "silent_valkyrie:cryptonium"
+    },
+    "8": {
+      "item": "silent_valkyrie:cryptonium"
+    }
+  },
+  "result": {
+    "item": "silent_valkyrie:cryptonium_block",
+    "count": 1
+  }
+}

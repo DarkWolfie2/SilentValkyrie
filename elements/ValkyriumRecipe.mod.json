@@ -1,0 +1,20 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 5.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:MoltenValkyrium"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:HardenedValkyrium"
+    },
+    "name": "valkyrium_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "silent_valkyrie:blocks/plutowood_planks",
+    "particle": "silent_valkyrie:blocks/plutowood_planks"
+  }
+}

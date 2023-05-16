@@ -1,0 +1,33 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "plutostoneshovel",
+    "customModelName": "Normal",
+    "name": "Pluto Steel Shovel",
+    "specialInfo": [
+      "The Shovel From Pluto"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValk"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 4,
+    "efficiency": 9.0,
+    "attackSpeed": 1.7,
+    "enchantability": 22,
+    "damageVsEntity": 1.0,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PlutoStone"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

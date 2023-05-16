@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "war",
+    "name": "War By Jeff Williams",
+    "description": "This is an Exclusive Music Disc From the RWBY Vol. 7 Soundtrack!",
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkAddons"
+    },
+    "music": {
+      "value": "CUSTOM:war"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

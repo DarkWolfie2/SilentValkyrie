@@ -1,0 +1,33 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cryptoniumaxe",
+    "customModelName": "Normal",
+    "name": "Cryptonium Axe",
+    "specialInfo": [
+      "An Axe That Transcends Time"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValk"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 13.0,
+    "attackSpeed": 1.2,
+    "enchantability": 15,
+    "damageVsEntity": 10.5,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Cryptonium"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

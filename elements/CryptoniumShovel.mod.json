@@ -1,0 +1,33 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cryptoniumshovel",
+    "customModelName": "Normal",
+    "name": "Cryptonium Shovel",
+    "specialInfo": [
+      "The Shovel that Transcends Time"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValk"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 4,
+    "efficiency": 9.0,
+    "attackSpeed": 1.1,
+    "enchantability": 18,
+    "damageVsEntity": 4.5,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Cryptonium"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 5,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "silent_valkyrie:molten_valkyrium"
+  },
+  "result": {
+    "item": "silent_valkyrie:hardened_valkyrium"
+  }
+}

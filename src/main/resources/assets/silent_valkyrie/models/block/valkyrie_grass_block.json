@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "silent_valkyrie:blocks/valkyriedirt",
+    "up": "silent_valkyrie:blocks/valkyriegrassblock",
+    "north": "silent_valkyrie:blocks/valkyriedirtside",
+    "east": "silent_valkyrie:blocks/valkyriedirtside",
+    "south": "silent_valkyrie:blocks/valkyriedirtside",
+    "west": "silent_valkyrie:blocks/valkyriedirtside",
+    "particle": "silent_valkyrie:blocks/valkyriedirt"
+  }
+}

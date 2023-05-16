@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "silent_valkyrie:huskyrium"
+    },
+    "2": {
+      "item": "silent_valkyrie:huskyrium"
+    },
+    "3": {
+      "item": "silent_valkyrie:huskyrium"
+    },
+    "4": {
+      "item": "silent_valkyrie:huskyrium"
+    },
+    "5": {
+      "item": "silent_valkyrie:huskyrium"
+    },
+    "6": {
+      "item": "silent_valkyrie:huskyrium"
+    },
+    "7": {
+      "item": "silent_valkyrie:huskyrium"
+    },
+    "8": {
+      "item": "silent_valkyrie:huskyrium"
+    }
+  },
+  "result": {
+    "item": "silent_valkyrie:huskyrium_armor_chestplate",
+    "count": 1
+  }
+}

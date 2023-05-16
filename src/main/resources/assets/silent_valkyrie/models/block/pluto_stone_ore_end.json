@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "silent_valkyrie:blocks/plutostoneoreend",
+    "up": "silent_valkyrie:blocks/plutostoneoreend",
+    "north": "silent_valkyrie:blocks/plutostoneoreend",
+    "east": "silent_valkyrie:blocks/plutostoneoreend",
+    "south": "silent_valkyrie:blocks/plutostoneoreend",
+    "west": "silent_valkyrie:blocks/plutostoneoreend",
+    "particle": "silent_valkyrie:blocks/plutostoneoreend"
+  }
+}

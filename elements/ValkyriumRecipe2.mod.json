@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HardenedValkyrium"
+      },
+      {
+        "value": "CUSTOM:HardenedValkyrium"
+      },
+      {
+        "value": "CUSTOM:HardenedValkyrium"
+      },
+      {
+        "value": "Items.NETHERITE_INGOT"
+      },
+      {
+        "value": "Items.NETHERITE_INGOT"
+      },
+      {
+        "value": "CUSTOM:HardenedValkyrium"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.NETHERITE_INGOT"
+      },
+      {
+        "value": "Items.NETHERITE_INGOT"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Valkyrium"
+    },
+    "name": "valkyrium_recipe_2",
+    "namespace": "mod"
+  }
+}

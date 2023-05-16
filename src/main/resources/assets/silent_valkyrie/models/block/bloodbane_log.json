@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "silent_valkyrie:blocks/bloodbane_log_top",
+    "up": "silent_valkyrie:blocks/bloodbane_log_top",
+    "north": "silent_valkyrie:blocks/bloodbane_log_side",
+    "east": "silent_valkyrie:blocks/bloodbane_log_side",
+    "south": "silent_valkyrie:blocks/bloodbane_log_side",
+    "west": "silent_valkyrie:blocks/bloodbane_log_side",
+    "particle": "silent_valkyrie:blocks/bloodbane_log_top"
+  }
+}

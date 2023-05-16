@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "silent_valkyrie:pluto_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "silent_valkyrie:pluto_wood_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "silent_valkyrie:blocks/valkyriewood_planks",
+    "particle": "silent_valkyrie:blocks/valkyriewood_planks"
+  }
+}

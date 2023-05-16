@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "silent_valkyrie:block/bloodbane_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "silent_valkyrie:block/bloodbane_wood"
+    },
+    "axis=z": {
+      "model": "silent_valkyrie:block/bloodbane_wood",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "silent_valkyrie:graphinium"
+    },
+    "1": {
+      "item": "silent_valkyrie:graphinium"
+    },
+    "2": {
+      "item": "silent_valkyrie:graphinium"
+    },
+    "3": {
+      "item": "silent_valkyrie:graphinium"
+    },
+    "4": {
+      "item": "silent_valkyrie:graphinium"
+    },
+    "5": {
+      "item": "silent_valkyrie:graphinium"
+    },
+    "6": {
+      "item": "silent_valkyrie:graphinium"
+    },
+    "7": {
+      "item": "silent_valkyrie:graphinium"
+    },
+    "8": {
+      "item": "silent_valkyrie:graphinium"
+    }
+  },
+  "result": {
+    "item": "silent_valkyrie:block_of_graphinium",
+    "count": 1
+  }
+}

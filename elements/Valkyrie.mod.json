@@ -1,0 +1,48 @@
+{
+  "_fv": 33,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:PlutoBiome"
+      },
+      {
+        "value": "CUSTOM:ValkyrieBiome"
+      },
+      {
+        "value": "CUSTOM:BloodBaneBiome"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:ThatSawse"
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:ValkyriumBlock"
+    },
+    "portalParticles": {
+      "value": "SOUL_FIRE_FLAME"
+    },
+    "portalLuminance": 2,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Valkyrie Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:SilentValkAddons"
+    },
+    "texture": "netherdimensionstar",
+    "portalTexture": "balls",
+    "enablePortal": true
+  }
+}

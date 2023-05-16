@@ -1,0 +1,62 @@
+{
+  "_fv": 33,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "huskyriumarmor_head",
+    "enableBody": true,
+    "textureBody": "huskyriumarmor_body",
+    "enableLeggings": true,
+    "textureLeggings": "huskyriumarmor_leggings",
+    "enableBoots": true,
+    "textureBoots": "huskyriumarmor_boots",
+    "creativeTab": {
+      "value": "CUSTOM:SilentValk"
+    },
+    "armorTextureFile": "huskyriumarmor",
+    "helmetName": "Huskyrium Helmet",
+    "bodyName": "Huskyrium Chestplate",
+    "leggingsName": "Huskyrium Leggings",
+    "bootsName": "Huskyrium Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 37,
+    "damageValueHelmet": 7,
+    "damageValueBody": 16,
+    "damageValueLeggings": 12,
+    "damageValueBoots": 2,
+    "enchantability": 16,
+    "toughness": 0.0,
+    "knockbackResistance": 0.3,
+    "equipSound": {
+      "value": "item.armor.equip_diamond"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Huskyrium"
+      }
+    ]
+  }
+}

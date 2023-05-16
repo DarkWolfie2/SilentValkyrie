@@ -1,0 +1,33 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "plutostonehoe",
+    "customModelName": "Normal",
+    "name": "Pluto Steel Hoe",
+    "specialInfo": [
+      "The Hoe From Pluto"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValk"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 4,
+    "efficiency": 7.0,
+    "attackSpeed": 3.5,
+    "enchantability": 2,
+    "damageVsEntity": 1.0,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PlutoStone"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

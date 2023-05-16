@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "silent_valkyrie:valkyrium"
+    },
+    "2": {
+      "item": "silent_valkyrie:cryptonium"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "7": {
+      "item": "silent_valkyrie:pluto_stone"
+    }
+  },
+  "result": {
+    "item": "silent_valkyrie:dimension_star_nether",
+    "count": 1
+  }
+}

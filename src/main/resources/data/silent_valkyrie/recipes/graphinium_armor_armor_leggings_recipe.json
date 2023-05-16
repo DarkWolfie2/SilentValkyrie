@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "silent_valkyrie:huskyrium_armor_leggings"
+  },
+  "addition": {
+    "item": "silent_valkyrie:graphinium"
+  },
+  "result": {
+    "item": "silent_valkyrie:graphinium_armor_armor_leggings"
+  }
+}

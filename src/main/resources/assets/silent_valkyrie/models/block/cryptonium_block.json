@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "silent_valkyrie:blocks/cryptoniumblock",
+    "up": "silent_valkyrie:blocks/cryptoniumblock",
+    "north": "silent_valkyrie:blocks/cryptoniumblock",
+    "east": "silent_valkyrie:blocks/cryptoniumblock",
+    "south": "silent_valkyrie:blocks/cryptoniumblock",
+    "west": "silent_valkyrie:blocks/cryptoniumblock",
+    "particle": "silent_valkyrie:blocks/cryptoniumblock"
+  }
+}

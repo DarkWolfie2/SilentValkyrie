@@ -1,0 +1,23 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:HuskyriumPickaxe"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:Graphinium"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:GraphiniumToolsPickaxe"
+    },
+    "name": "graphinium_tools_pickaxe_recipe",
+    "namespace": "mod"
+  }
+}

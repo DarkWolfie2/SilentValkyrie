@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "silent_valkyrie:pluto_stone"
+    },
+    "1": {
+      "item": "silent_valkyrie:pluto_stone"
+    },
+    "2": {
+      "item": "silent_valkyrie:pluto_stone"
+    },
+    "3": {
+      "item": "silent_valkyrie:pluto_stone"
+    },
+    "4": {
+      "item": "silent_valkyrie:pluto_stone"
+    },
+    "5": {
+      "item": "silent_valkyrie:pluto_stone"
+    },
+    "6": {
+      "item": "silent_valkyrie:pluto_stone"
+    },
+    "7": {
+      "item": "silent_valkyrie:pluto_stone"
+    },
+    "8": {
+      "item": "silent_valkyrie:pluto_stone"
+    }
+  },
+  "result": {
+    "item": "silent_valkyrie:pluto_stone_block",
+    "count": 1
+  }
+}

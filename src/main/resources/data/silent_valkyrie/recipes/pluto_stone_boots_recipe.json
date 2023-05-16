@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_boots"
+  },
+  "addition": {
+    "item": "silent_valkyrie:pluto_stone"
+  },
+  "result": {
+    "item": "silent_valkyrie:pluto_stone_armor_boots"
+  }
+}

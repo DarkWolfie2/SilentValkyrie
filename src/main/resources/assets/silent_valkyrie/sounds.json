@@ -1,0 +1,173 @@
+{
+  "dead": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:death",
+        "stream": false
+      }
+    ]
+  },
+  "valkdeath": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:valk_death",
+        "stream": false
+      }
+    ]
+  },
+  "step": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:regaliaambient2",
+        "stream": false
+      }
+    ]
+  },
+  "thejoker": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:joke",
+        "stream": false
+      }
+    ]
+  },
+  "ambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:regaliaambient",
+        "stream": false
+      }
+    ]
+  },
+  "hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:hurt",
+        "stream": false
+      }
+    ]
+  },
+  "morhurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:iujeghiouergfhero",
+        "stream": false
+      }
+    ]
+  },
+  "dreemmanhunttheme": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:dream_manhunt_theme",
+        "stream": false
+      }
+    ]
+  },
+  "ffxiiibosstheme": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:ffxiii_ost__boss_theme",
+        "stream": false
+      }
+    ]
+  },
+  "theblackshadow": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:the_black_shadow",
+        "stream": false
+      }
+    ]
+  },
+  "war": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:war",
+        "stream": true
+      }
+    ]
+  },
+  "redlikeroses": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:red_like_roses_silents_mix",
+        "stream": false
+      }
+    ]
+  },
+  "silentredemption2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:silent_redemption_ii",
+        "stream": false
+      }
+    ]
+  },
+  "silentredemption1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:silent_redemption",
+        "stream": false
+      }
+    ]
+  },
+  "silentredemption3": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:silent_redemption_iii",
+        "stream": false
+      }
+    ]
+  },
+  "bluedesire": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:blue_desire_ii",
+        "stream": false
+      }
+    ]
+  },
+  "bl_82": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:i_have_no_name",
+        "stream": false
+      }
+    ]
+  },
+  "whatcanyouseeintheireyes": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:what_can_you_see_in_their_eyes",
+        "stream": false
+      }
+    ]
+  },
+  "yhwachtheme": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:yhwach_theme",
+        "stream": false
+      }
+    ]
+  }
+}

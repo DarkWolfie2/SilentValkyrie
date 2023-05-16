@@ -1,0 +1,33 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cryptoniumhoe",
+    "customModelName": "Normal",
+    "name": "Cryptonium Hoe",
+    "specialInfo": [
+      "The Hoe That Transcends Time"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValk"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 3,
+    "efficiency": 9.0,
+    "attackSpeed": 1.2,
+    "enchantability": 10,
+    "damageVsEntity": 4.0,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Cryptonium"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

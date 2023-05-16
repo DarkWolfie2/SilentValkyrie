@@ -1,0 +1,62 @@
+{
+  "_fv": 33,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "plutostonehelmet",
+    "enableBody": true,
+    "textureBody": "plutostonechest",
+    "enableLeggings": true,
+    "textureLeggings": "plutostonelegs",
+    "enableBoots": true,
+    "textureBoots": "plutostoneboots",
+    "creativeTab": {
+      "value": "CUSTOM:SilentValk"
+    },
+    "armorTextureFile": "plutostonearmor",
+    "helmetName": "Pluto Stone Helmet",
+    "bodyName": "Pluto Stone Chestplate",
+    "leggingsName": "Pluto Stone Leggings",
+    "bootsName": "Pluto Stone Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 25,
+    "damageValueHelmet": 7,
+    "damageValueBody": 15,
+    "damageValueLeggings": 8,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.2,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:PlutoStone"
+      }
+    ]
+  }
+}

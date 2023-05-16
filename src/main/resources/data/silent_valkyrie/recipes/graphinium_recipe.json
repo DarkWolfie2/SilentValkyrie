@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "silent_valkyrie:block_of_graphinium"
+    }
+  },
+  "result": {
+    "item": "silent_valkyrie:graphinium",
+    "count": 9
+  }
+}

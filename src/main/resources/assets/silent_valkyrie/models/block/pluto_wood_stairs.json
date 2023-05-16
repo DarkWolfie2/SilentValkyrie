@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "silent_valkyrie:blocks/plutowood_planks",
+    "top": "silent_valkyrie:blocks/plutowood_planks",
+    "side": "silent_valkyrie:blocks/plutowood_planks"
+  }
+}

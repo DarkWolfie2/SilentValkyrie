@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "silent_valkyrie:bloodbane_log"
+    },
+    "1": {
+      "item": "silent_valkyrie:bloodbane_log"
+    },
+    "2": {
+      "item": "silent_valkyrie:bloodbane_log"
+    },
+    "3": {
+      "item": "silent_valkyrie:bloodbane_log"
+    }
+  },
+  "result": {
+    "item": "silent_valkyrie:bloodbane_wood",
+    "count": 3
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "silent_valkyrie:valkyrium_block"
+    },
+    "title": {
+      "translate": "advancements.the_valkyrie.title"
+    },
+    "description": {
+      "translate": "advancements.the_valkyrie.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_valkyrie": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "silent_valkyrie:valkyrie"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5000
+  },
+  "parent": "silent_valkyrie:the_valkyrie"
+}

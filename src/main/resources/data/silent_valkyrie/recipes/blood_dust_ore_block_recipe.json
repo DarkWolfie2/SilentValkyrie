@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "silent_valkyrie:blood_dust_dust"
+    },
+    "1": {
+      "item": "silent_valkyrie:blood_dust_dust"
+    },
+    "2": {
+      "item": "silent_valkyrie:blood_dust_dust"
+    },
+    "3": {
+      "item": "silent_valkyrie:blood_dust_dust"
+    },
+    "4": {
+      "item": "silent_valkyrie:blood_dust_dust"
+    },
+    "5": {
+      "item": "silent_valkyrie:blood_dust_dust"
+    },
+    "6": {
+      "item": "silent_valkyrie:blood_dust_dust"
+    },
+    "7": {
+      "item": "silent_valkyrie:blood_dust_dust"
+    },
+    "8": {
+      "item": "silent_valkyrie:blood_dust_dust"
+    }
+  },
+  "result": {
+    "item": "silent_valkyrie:blood_dust_block",
+    "count": 1
+  }
+}

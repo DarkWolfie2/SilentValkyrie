@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "silent_valkyrie:pluto_stone_block"
+    }
+  },
+  "result": {
+    "item": "silent_valkyrie:pluto_stone",
+    "count": 9
+  }
+}
