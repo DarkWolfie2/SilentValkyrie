@@ -93,7 +93,7 @@ public class PlutoEntity extends SilentValkyrieModElements.ModElement {
 		public void onEntityAttributeCreation(EntityAttributeCreationEvent event) {
 			AttributeModifierMap.MutableAttribute ammma = MobEntity.func_233666_p_();
 			ammma = ammma.createMutableAttribute(Attributes.MOVEMENT_SPEED, 0.3);
-			ammma = ammma.createMutableAttribute(Attributes.MAX_HEALTH, 400);
+			ammma = ammma.createMutableAttribute(Attributes.MAX_HEALTH, 45);
 			ammma = ammma.createMutableAttribute(Attributes.ARMOR, 0);
 			ammma = ammma.createMutableAttribute(Attributes.ATTACK_DAMAGE, 4);
 			ammma = ammma.createMutableAttribute(Attributes.FOLLOW_RANGE, 16);
@@ -108,7 +108,7 @@ public class PlutoEntity extends SilentValkyrieModElements.ModElement {
 
 		public CustomEntity(EntityType<CustomEntity> type, World world) {
 			super(type, world);
-			experienceValue = 2500;
+			experienceValue = 350;
 			setNoAI(false);
 			this.setItemStackToSlot(EquipmentSlotType.MAINHAND, new ItemStack(PlutoStoneSwordItem.block));
 			this.setItemStackToSlot(EquipmentSlotType.OFFHAND, new ItemStack(Items.SHIELD));

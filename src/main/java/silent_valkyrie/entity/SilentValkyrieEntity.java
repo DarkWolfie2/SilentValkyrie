@@ -120,7 +120,6 @@ public class SilentValkyrieEntity extends SilentValkyrieModElements.ModElement {
 			experienceValue = 300;
 			setNoAI(false);
 			this.setItemStackToSlot(EquipmentSlotType.MAINHAND, new ItemStack(PlutoStoneSwordItem.block));
-			this.setItemStackToSlot(EquipmentSlotType.OFFHAND, new ItemStack(Items.SHIELD));
 			this.setItemStackToSlot(EquipmentSlotType.HEAD, new ItemStack(Items.NETHERITE_HELMET));
 			this.setItemStackToSlot(EquipmentSlotType.CHEST, new ItemStack(Items.NETHERITE_CHESTPLATE));
 			this.setItemStackToSlot(EquipmentSlotType.LEGS, new ItemStack(Items.NETHERITE_LEGGINGS));
@@ -135,7 +134,7 @@ public class SilentValkyrieEntity extends SilentValkyrieModElements.ModElement {
 		@Override
 		protected void registerGoals() {
 			super.registerGoals();
-			this.targetSelector.addGoal(1, new NearestAttackableTargetGoal(this, PlayerEntity.class, true, true));
+			this.targetSelector.addGoal(1, new NearestAttackableTargetGoal(this, PlayerEntity.class, false, false));
 			this.goalSelector.addGoal(2, new MeleeAttackGoal(this, 1, false) {
 				@Override
 				protected double getAttackReachSqr(LivingEntity entity) {

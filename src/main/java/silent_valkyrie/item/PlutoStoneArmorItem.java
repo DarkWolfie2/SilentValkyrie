@@ -44,7 +44,7 @@ public class PlutoStoneArmorItem extends SilentValkyrieModElements.ModElement {
 
 			@Override
 			public int getDamageReductionAmount(EquipmentSlotType slot) {
-				return new int[]{2, 8, 15, 7}[slot.getIndex()];
+				return new int[]{3, 5, 6, 2}[slot.getIndex()];
 			}
 
 			@Override
@@ -75,7 +75,7 @@ public class PlutoStoneArmorItem extends SilentValkyrieModElements.ModElement {
 
 			@Override
 			public float getKnockbackResistance() {
-				return 0.2f;
+				return 0.1f;
 			}
 		};
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.HEAD, new Item.Properties().group(SilentValkItemGroup.tab)) {
