@@ -51,7 +51,7 @@ public class DemonWolfOreBlock extends SilentValkyrieModElements.ModElement {
 	public static final Block block = null;
 
 	public DemonWolfOreBlock(SilentValkyrieModElements instance) {
-		super(instance, 83);
+		super(instance, 88);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

@@ -42,7 +42,7 @@ public class PlutoBiomeBiome extends SilentValkyrieModElements.ModElement {
 	public static Biome biome;
 
 	public PlutoBiomeBiome(SilentValkyrieModElements instance) {
-		super(instance, 241);
+		super(instance, 242);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new BiomeRegisterHandler());
 	}
 

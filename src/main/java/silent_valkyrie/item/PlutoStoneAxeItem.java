@@ -25,7 +25,7 @@ public class PlutoStoneAxeItem extends SilentValkyrieModElements.ModElement {
 	public static final Item block = null;
 
 	public PlutoStoneAxeItem(SilentValkyrieModElements instance) {
-		super(instance, 23);
+		super(instance, 24);
 	}
 
 	@Override

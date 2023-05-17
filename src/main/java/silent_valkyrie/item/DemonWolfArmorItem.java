@@ -31,7 +31,7 @@ public class DemonWolfArmorItem extends SilentValkyrieModElements.ModElement {
 	public static final Item boots = null;
 
 	public DemonWolfArmorItem(SilentValkyrieModElements instance) {
-		super(instance, 66);
+		super(instance, 67);
 	}
 
 	@Override

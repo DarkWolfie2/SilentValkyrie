@@ -25,7 +25,7 @@ public class PlutoStoneHoeItem extends SilentValkyrieModElements.ModElement {
 	public static final Item block = null;
 
 	public PlutoStoneHoeItem(SilentValkyrieModElements instance) {
-		super(instance, 25);
+		super(instance, 26);
 	}
 
 	@Override

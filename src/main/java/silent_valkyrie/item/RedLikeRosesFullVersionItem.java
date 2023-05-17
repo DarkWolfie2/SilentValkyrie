@@ -18,7 +18,7 @@ public class RedLikeRosesFullVersionItem extends SilentValkyrieModElements.ModEl
 	public static final Item block = null;
 
 	public RedLikeRosesFullVersionItem(SilentValkyrieModElements instance) {
-		super(instance, 16);
+		super(instance, 17);
 	}
 
 	@Override

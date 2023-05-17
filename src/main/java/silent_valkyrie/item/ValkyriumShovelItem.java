@@ -18,7 +18,7 @@ public class ValkyriumShovelItem extends SilentValkyrieModElements.ModElement {
 	public static final Item block = null;
 
 	public ValkyriumShovelItem(SilentValkyrieModElements instance) {
-		super(instance, 29);
+		super(instance, 30);
 	}
 
 	@Override

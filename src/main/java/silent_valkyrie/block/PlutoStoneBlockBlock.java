@@ -27,7 +27,7 @@ public class PlutoStoneBlockBlock extends SilentValkyrieModElements.ModElement {
 	public static final Block block = null;
 
 	public PlutoStoneBlockBlock(SilentValkyrieModElements instance) {
-		super(instance, 86);
+		super(instance, 91);
 	}
 
 	@Override

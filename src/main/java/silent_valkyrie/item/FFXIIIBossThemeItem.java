@@ -18,7 +18,7 @@ public class FFXIIIBossThemeItem extends SilentValkyrieModElements.ModElement {
 	public static final Item block = null;
 
 	public FFXIIIBossThemeItem(SilentValkyrieModElements instance) {
-		super(instance, 12);
+		super(instance, 13);
 	}
 
 	@Override

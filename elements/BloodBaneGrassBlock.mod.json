@@ -40,7 +40,7 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:SilentValk"
+      "value": "CUSTOM:SilentValkyrieBlocks"
     },
     "destroyTool": "Not specified",
     "customDrop": {

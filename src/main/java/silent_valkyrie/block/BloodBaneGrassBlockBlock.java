@@ -1,7 +1,7 @@
 
 package silent_valkyrie.block;
 
-import silent_valkyrie.itemgroup.SilentValkItemGroup;
+import silent_valkyrie.itemgroup.SilentValkyrieBlocksItemGroup;
 
 import silent_valkyrie.SilentValkyrieModElements;
 
@@ -27,13 +27,14 @@ public class BloodBaneGrassBlockBlock extends SilentValkyrieModElements.ModEleme
 	public static final Block block = null;
 
 	public BloodBaneGrassBlockBlock(SilentValkyrieModElements instance) {
-		super(instance, 97);
+		super(instance, 122);
 	}
 
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(SilentValkItemGroup.tab)).setRegistryName(block.getRegistryName()));
+		elements.items.add(
+				() -> new BlockItem(block, new Item.Properties().group(SilentValkyrieBlocksItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
 
 	public static class CustomBlock extends Block {

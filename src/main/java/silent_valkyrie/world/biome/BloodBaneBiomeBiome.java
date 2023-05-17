@@ -42,7 +42,7 @@ public class BloodBaneBiomeBiome extends SilentValkyrieModElements.ModElement {
 	public static Biome biome;
 
 	public BloodBaneBiomeBiome(SilentValkyrieModElements instance) {
-		super(instance, 263);
+		super(instance, 264);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new BiomeRegisterHandler());
 	}
 

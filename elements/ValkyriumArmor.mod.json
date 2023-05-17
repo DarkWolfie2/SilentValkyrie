@@ -3,17 +3,17 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "valkyriumarmor_head",
+    "textureHelmet": "valkyriumhelmetoverhaul",
     "enableBody": true,
-    "textureBody": "valkyriumarmor_body",
+    "textureBody": "valkyriumchestplateoverhauled",
     "enableLeggings": true,
-    "textureLeggings": "valkyriumarmor_leggings",
+    "textureLeggings": "valkyriumleggingsoverhaul",
     "enableBoots": true,
-    "textureBoots": "valkyriumarmor_boots",
+    "textureBoots": "valkyriumbootsoverhauled",
     "creativeTab": {
       "value": "CUSTOM:SilentValk"
     },
-    "armorTextureFile": "valkyriumarmor",
+    "armorTextureFile": "netherite_",
     "helmetName": "Valkyrium Helmet",
     "bodyName": "Valkyrium Chestplate",
     "leggingsName": "Valkyrium Leggings",

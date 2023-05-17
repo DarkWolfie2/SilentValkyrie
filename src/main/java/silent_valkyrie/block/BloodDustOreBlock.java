@@ -51,7 +51,7 @@ public class BloodDustOreBlock extends SilentValkyrieModElements.ModElement {
 	public static final Block block = null;
 
 	public BloodDustOreBlock(SilentValkyrieModElements instance) {
-		super(instance, 85);
+		super(instance, 90);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

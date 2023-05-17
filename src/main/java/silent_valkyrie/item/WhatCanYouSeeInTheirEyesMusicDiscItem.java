@@ -18,7 +18,7 @@ public class WhatCanYouSeeInTheirEyesMusicDiscItem extends SilentValkyrieModElem
 	public static final Item block = null;
 
 	public WhatCanYouSeeInTheirEyesMusicDiscItem(SilentValkyrieModElements instance) {
-		super(instance, 19);
+		super(instance, 20);
 	}
 
 	@Override

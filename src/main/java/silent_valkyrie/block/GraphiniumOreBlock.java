@@ -50,7 +50,7 @@ public class GraphiniumOreBlock extends SilentValkyrieModElements.ModElement {
 	public static final Block block = null;
 
 	public GraphiniumOreBlock(SilentValkyrieModElements instance) {
-		super(instance, 82);
+		super(instance, 87);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

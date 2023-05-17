@@ -18,7 +18,7 @@ public class DreamManhuntThemeItem extends SilentValkyrieModElements.ModElement 
 	public static final Item block = null;
 
 	public DreamManhuntThemeItem(SilentValkyrieModElements instance) {
-		super(instance, 11);
+		super(instance, 12);
 	}
 
 	@Override

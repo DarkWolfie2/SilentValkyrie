@@ -37,7 +37,7 @@ public class ValkyriumArmorItem extends SilentValkyrieModElements.ModElement {
 	public static final Item boots = null;
 
 	public ValkyriumArmorItem(SilentValkyrieModElements instance) {
-		super(instance, 62);
+		super(instance, 63);
 	}
 
 	@Override
@@ -93,7 +93,7 @@ public class ValkyriumArmorItem extends SilentValkyrieModElements.ModElement {
 
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "silent_valkyrie:textures/models/armor/valkyriumarmor_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "silent_valkyrie:textures/models/armor/netherite__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("valkyrium_armor_helmet"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.CHEST, new Item.Properties().group(SilentValkItemGroup.tab)) {
@@ -105,7 +105,7 @@ public class ValkyriumArmorItem extends SilentValkyrieModElements.ModElement {
 
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "silent_valkyrie:textures/models/armor/valkyriumarmor_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "silent_valkyrie:textures/models/armor/netherite__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("valkyrium_armor_chestplate"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.LEGS, new Item.Properties().group(SilentValkItemGroup.tab)) {
@@ -117,7 +117,7 @@ public class ValkyriumArmorItem extends SilentValkyrieModElements.ModElement {
 
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "silent_valkyrie:textures/models/armor/valkyriumarmor_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "silent_valkyrie:textures/models/armor/netherite__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("valkyrium_armor_leggings"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.FEET, new Item.Properties().group(SilentValkItemGroup.tab)) {
@@ -129,7 +129,7 @@ public class ValkyriumArmorItem extends SilentValkyrieModElements.ModElement {
 
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "silent_valkyrie:textures/models/armor/valkyriumarmor_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "silent_valkyrie:textures/models/armor/netherite__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("valkyrium_armor_boots"));
 	}

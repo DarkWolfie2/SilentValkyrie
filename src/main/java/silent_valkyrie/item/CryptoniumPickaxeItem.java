@@ -25,7 +25,7 @@ public class CryptoniumPickaxeItem extends SilentValkyrieModElements.ModElement 
 	public static final Item block = null;
 
 	public CryptoniumPickaxeItem(SilentValkyrieModElements instance) {
-		super(instance, 37);
+		super(instance, 38);
 	}
 
 	@Override

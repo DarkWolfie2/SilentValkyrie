@@ -21,7 +21,7 @@ public class SilentRedemptionMusicDiscItem extends SilentValkyrieModElements.Mod
 	public static final Item block = null;
 
 	public SilentRedemptionMusicDiscItem(SilentValkyrieModElements instance) {
-		super(instance, 17);
+		super(instance, 18);
 	}
 
 	@Override

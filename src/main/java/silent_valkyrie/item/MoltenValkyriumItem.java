@@ -18,7 +18,7 @@ public class MoltenValkyriumItem extends SilentValkyrieModElements.ModElement {
 	public static final Item block = null;
 
 	public MoltenValkyriumItem(SilentValkyrieModElements instance) {
-		super(instance, 98);
+		super(instance, 74);
 	}
 
 	@Override

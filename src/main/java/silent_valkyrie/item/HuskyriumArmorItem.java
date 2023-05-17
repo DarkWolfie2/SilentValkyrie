@@ -31,7 +31,7 @@ public class HuskyriumArmorItem extends SilentValkyrieModElements.ModElement {
 	public static final Item boots = null;
 
 	public HuskyriumArmorItem(SilentValkyrieModElements instance) {
-		super(instance, 63);
+		super(instance, 64);
 	}
 
 	@Override

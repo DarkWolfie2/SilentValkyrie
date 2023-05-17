@@ -25,7 +25,7 @@ public class CryptoniumShovelItem extends SilentValkyrieModElements.ModElement {
 	public static final Item block = null;
 
 	public CryptoniumShovelItem(SilentValkyrieModElements instance) {
-		super(instance, 39);
+		super(instance, 40);
 	}
 
 	@Override

@@ -18,7 +18,7 @@ public class TheBlackShadowItem extends SilentValkyrieModElements.ModElement {
 	public static final Item block = null;
 
 	public TheBlackShadowItem(SilentValkyrieModElements instance) {
-		super(instance, 13);
+		super(instance, 14);
 	}
 
 	@Override

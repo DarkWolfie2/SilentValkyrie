@@ -29,7 +29,7 @@ public class BloodbanePressurePlateBlock extends SilentValkyrieModElements.ModEl
 	public static final Block block = null;
 
 	public BloodbanePressurePlateBlock(SilentValkyrieModElements instance) {
-		super(instance, 130);
+		super(instance, 131);
 	}
 
 	@Override

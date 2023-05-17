@@ -50,7 +50,7 @@ public class ValkyriumOreEndBlock extends SilentValkyrieModElements.ModElement {
 	public static final Block block = null;
 
 	public ValkyriumOreEndBlock(SilentValkyrieModElements instance) {
-		super(instance, 79);
+		super(instance, 84);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}
