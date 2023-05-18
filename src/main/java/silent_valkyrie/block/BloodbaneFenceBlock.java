@@ -30,7 +30,7 @@ public class BloodbaneFenceBlock extends SilentValkyrieModElements.ModElement {
 	public static final Block block = null;
 
 	public BloodbaneFenceBlock(SilentValkyrieModElements instance) {
-		super(instance, 129);
+		super(instance, 130);
 	}
 
 	@Override

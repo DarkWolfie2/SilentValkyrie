@@ -37,7 +37,7 @@ public class GraphiniumArmorArmorItem extends SilentValkyrieModElements.ModEleme
 	public static final Item boots = null;
 
 	public GraphiniumArmorArmorItem(SilentValkyrieModElements instance) {
-		super(instance, 66);
+		super(instance, 67);
 	}
 
 	@Override

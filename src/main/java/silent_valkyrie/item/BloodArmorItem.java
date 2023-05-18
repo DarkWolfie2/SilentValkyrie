@@ -31,7 +31,7 @@ public class BloodArmorItem extends SilentValkyrieModElements.ModElement {
 	public static final Item boots = null;
 
 	public BloodArmorItem(SilentValkyrieModElements instance) {
-		super(instance, 69);
+		super(instance, 70);
 	}
 
 	@Override

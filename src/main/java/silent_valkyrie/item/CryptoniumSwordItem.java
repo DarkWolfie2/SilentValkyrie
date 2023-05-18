@@ -25,7 +25,7 @@ public class CryptoniumSwordItem extends SilentValkyrieModElements.ModElement {
 	public static final Item block = null;
 
 	public CryptoniumSwordItem(SilentValkyrieModElements instance) {
-		super(instance, 37);
+		super(instance, 38);
 	}
 
 	@Override

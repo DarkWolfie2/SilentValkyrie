@@ -14,7 +14,7 @@ import net.minecraft.item.ItemGroup;
 @SilentValkyrieModElements.ModElement.Tag
 public class SilentValkAddonsItemGroup extends SilentValkyrieModElements.ModElement {
 	public SilentValkAddonsItemGroup(SilentValkyrieModElements instance) {
-		super(instance, 151);
+		super(instance, 152);
 	}
 
 	@Override

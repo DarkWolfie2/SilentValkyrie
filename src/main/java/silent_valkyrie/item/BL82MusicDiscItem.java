@@ -18,7 +18,7 @@ public class BL82MusicDiscItem extends SilentValkyrieModElements.ModElement {
 	public static final Item block = null;
 
 	public BL82MusicDiscItem(SilentValkyrieModElements instance) {
-		super(instance, 19);
+		super(instance, 20);
 	}
 
 	@Override

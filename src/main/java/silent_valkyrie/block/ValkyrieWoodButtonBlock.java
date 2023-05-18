@@ -29,7 +29,7 @@ public class ValkyrieWoodButtonBlock extends SilentValkyrieModElements.ModElemen
 	public static final Block block = null;
 
 	public ValkyrieWoodButtonBlock(SilentValkyrieModElements instance) {
-		super(instance, 106);
+		super(instance, 107);
 	}
 
 	@Override

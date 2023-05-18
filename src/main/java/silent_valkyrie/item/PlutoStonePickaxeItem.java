@@ -25,7 +25,7 @@ public class PlutoStonePickaxeItem extends SilentValkyrieModElements.ModElement 
 	public static final Item block = null;
 
 	public PlutoStonePickaxeItem(SilentValkyrieModElements instance) {
-		super(instance, 23);
+		super(instance, 24);
 	}
 
 	@Override

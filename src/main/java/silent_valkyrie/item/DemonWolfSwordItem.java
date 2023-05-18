@@ -19,7 +19,7 @@ public class DemonWolfSwordItem extends SilentValkyrieModElements.ModElement {
 	public static final Item block = null;
 
 	public DemonWolfSwordItem(SilentValkyrieModElements instance) {
-		super(instance, 47);
+		super(instance, 48);
 	}
 
 	@Override

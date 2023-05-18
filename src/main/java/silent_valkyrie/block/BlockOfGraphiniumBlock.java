@@ -27,7 +27,7 @@ public class BlockOfGraphiniumBlock extends SilentValkyrieModElements.ModElement
 	public static final Block block = null;
 
 	public BlockOfGraphiniumBlock(SilentValkyrieModElements instance) {
-		super(instance, 95);
+		super(instance, 96);
 	}
 
 	@Override

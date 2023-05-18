@@ -48,7 +48,7 @@ public class ValkyrieGrassBlockBlock extends SilentValkyrieModElements.ModElemen
 	public static final Block block = null;
 
 	public ValkyrieGrassBlockBlock(SilentValkyrieModElements instance) {
-		super(instance, 100);
+		super(instance, 101);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

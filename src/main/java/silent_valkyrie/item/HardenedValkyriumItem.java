@@ -18,7 +18,7 @@ public class HardenedValkyriumItem extends SilentValkyrieModElements.ModElement 
 	public static final Item block = null;
 
 	public HardenedValkyriumItem(SilentValkyrieModElements instance) {
-		super(instance, 75);
+		super(instance, 76);
 	}
 
 	@Override

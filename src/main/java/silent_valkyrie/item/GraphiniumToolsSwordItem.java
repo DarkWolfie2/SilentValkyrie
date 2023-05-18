@@ -19,7 +19,7 @@ public class GraphiniumToolsSwordItem extends SilentValkyrieModElements.ModEleme
 	public static final Item block = null;
 
 	public GraphiniumToolsSwordItem(SilentValkyrieModElements instance) {
-		super(instance, 42);
+		super(instance, 43);
 	}
 
 	@Override

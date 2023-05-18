@@ -27,7 +27,7 @@ public class BloodBaneGrassBlockBlock extends SilentValkyrieModElements.ModEleme
 	public static final Block block = null;
 
 	public BloodBaneGrassBlockBlock(SilentValkyrieModElements instance) {
-		super(instance, 122);
+		super(instance, 123);
 	}
 
 	@Override

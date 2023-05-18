@@ -19,7 +19,7 @@ public class GraphiniumToolsHoeItem extends SilentValkyrieModElements.ModElement
 	public static final Item block = null;
 
 	public GraphiniumToolsHoeItem(SilentValkyrieModElements instance) {
-		super(instance, 46);
+		super(instance, 47);
 	}
 
 	@Override

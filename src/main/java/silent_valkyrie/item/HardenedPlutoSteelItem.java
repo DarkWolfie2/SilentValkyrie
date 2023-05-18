@@ -18,7 +18,7 @@ public class HardenedPlutoSteelItem extends SilentValkyrieModElements.ModElement
 	public static final Item block = null;
 
 	public HardenedPlutoSteelItem(SilentValkyrieModElements instance) {
-		super(instance, 72);
+		super(instance, 73);
 	}
 
 	@Override

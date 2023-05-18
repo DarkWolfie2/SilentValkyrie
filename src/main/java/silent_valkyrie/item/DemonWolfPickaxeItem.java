@@ -19,7 +19,7 @@ public class DemonWolfPickaxeItem extends SilentValkyrieModElements.ModElement {
 	public static final Item block = null;
 
 	public DemonWolfPickaxeItem(SilentValkyrieModElements instance) {
-		super(instance, 48);
+		super(instance, 49);
 	}
 
 	@Override

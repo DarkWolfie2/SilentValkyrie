@@ -24,7 +24,7 @@ public class DimensionStarNetherItem extends SilentValkyrieModElements.ModElemen
 	public static final Item block = null;
 
 	public DimensionStarNetherItem(SilentValkyrieModElements instance) {
-		super(instance, 7);
+		super(instance, 8);
 	}
 
 	@Override

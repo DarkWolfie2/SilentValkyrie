@@ -60,7 +60,7 @@ public class ThatSawseBlock extends SilentValkyrieModElements.ModElement {
 	private ForgeFlowingFluid.Properties fluidproperties = null;
 
 	public ThatSawseBlock(SilentValkyrieModElements instance) {
-		super(instance, 11);
+		super(instance, 12);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FluidRegisterHandler());
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
