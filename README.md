@@ -1,7 +1,8 @@
 # SilentValkyrie
 The Full Source Code for the mod Silent Valkyrie!
 
-
+Current Build
+[![Java CI with Gradle](https://github.com/TeamNeoArcadia/SilentValkyrie/actions/workflows/gradle.yml/badge.svg)](https://github.com/TeamNeoArcadia/SilentValkyrie/actions/workflows/gradle.yml)
 
 # Projects We use!
 We use MCreator to make this mod. 
