@@ -28,7 +28,7 @@ public class ValkyriumBlockBlock extends SilentValkyrieModElements.ModElement {
 	public static final Block block = null;
 
 	public ValkyriumBlockBlock(SilentValkyrieModElements instance) {
-		super(instance, 93);
+		super(instance, 94);
 	}
 
 	@Override

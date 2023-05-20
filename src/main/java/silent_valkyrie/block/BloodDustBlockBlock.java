@@ -28,7 +28,7 @@ public class BloodDustBlockBlock extends SilentValkyrieModElements.ModElement {
 	public static final Block block = null;
 
 	public BloodDustBlockBlock(SilentValkyrieModElements instance) {
-		super(instance, 99);
+		super(instance, 100);
 	}
 
 	@Override

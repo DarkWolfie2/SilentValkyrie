@@ -29,7 +29,7 @@ public class ValkyrieWoodPressurePlateBlock extends SilentValkyrieModElements.Mo
 	public static final Block block = null;
 
 	public ValkyrieWoodPressurePlateBlock(SilentValkyrieModElements instance) {
-		super(instance, 110);
+		super(instance, 111);
 	}
 
 	@Override

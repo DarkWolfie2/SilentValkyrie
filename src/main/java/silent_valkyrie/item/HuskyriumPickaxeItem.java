@@ -25,7 +25,7 @@ public class HuskyriumPickaxeItem extends SilentValkyrieModElements.ModElement {
 	public static final Item block = null;
 
 	public HuskyriumPickaxeItem(SilentValkyrieModElements instance) {
-		super(instance, 34);
+		super(instance, 35);
 	}
 
 	@Override

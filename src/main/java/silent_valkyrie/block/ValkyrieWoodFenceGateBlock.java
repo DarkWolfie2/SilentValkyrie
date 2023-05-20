@@ -29,7 +29,7 @@ public class ValkyrieWoodFenceGateBlock extends SilentValkyrieModElements.ModEle
 	public static final Block block = null;
 
 	public ValkyrieWoodFenceGateBlock(SilentValkyrieModElements instance) {
-		super(instance, 109);
+		super(instance, 110);
 	}
 
 	@Override

@@ -1,0 +1,173 @@
+{
+  "_fv": 33,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "ARMORER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 64,
+            "price2": {
+              "value": "Items.NETHERITE_INGOT"
+            },
+            "countPrice2": 10,
+            "offer": {
+              "value": "CUSTOM:GraphiniumArmorArmor.helmet"
+            },
+            "countOffer": 1,
+            "level": 5,
+            "maxTrades": 5,
+            "xp": 40,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 64,
+            "price2": {
+              "value": "Items.DIAMOND"
+            },
+            "countPrice2": 10,
+            "offer": {
+              "value": "CUSTOM:GraphiniumArmorArmor.body"
+            },
+            "countOffer": 1,
+            "level": 5,
+            "maxTrades": 5,
+            "xp": 40,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 64,
+            "price2": {
+              "value": "Items.NETHERITE_INGOT"
+            },
+            "countPrice2": 10,
+            "offer": {
+              "value": "CUSTOM:GraphiniumArmorArmor.legs"
+            },
+            "countOffer": 1,
+            "level": 5,
+            "maxTrades": 5,
+            "xp": 40,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 64,
+            "price2": {
+              "value": "Items.DIAMOND"
+            },
+            "countPrice2": 10,
+            "offer": {
+              "value": "CUSTOM:GraphiniumArmorArmor.boots"
+            },
+            "countOffer": 1,
+            "level": 5,
+            "maxTrades": 10,
+            "xp": 40,
+            "priceMultiplier": 0.05
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "WEAPONSMITH"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "CUSTOM:HardenedValkyrium"
+            },
+            "countPrice1": 10,
+            "price2": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice2": 32,
+            "offer": {
+              "value": "CUSTOM:ValkyriumSword"
+            },
+            "countOffer": 1,
+            "level": 4,
+            "maxTrades": 10,
+            "xp": 40,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "CUSTOM:HardenedPlutoSteel"
+            },
+            "countPrice1": 10,
+            "price2": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice2": 32,
+            "offer": {
+              "value": "CUSTOM:PlutoStoneSword"
+            },
+            "countOffer": 1,
+            "level": 4,
+            "maxTrades": 10,
+            "xp": 40,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 32,
+            "price2": {
+              "value": "CUSTOM:Valkyrium"
+            },
+            "countPrice2": 64,
+            "offer": {
+              "value": "CUSTOM:TitaniumSword"
+            },
+            "countOffer": 1,
+            "level": 5,
+            "maxTrades": 10,
+            "xp": 40,
+            "priceMultiplier": 0.05
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "TOOLSMITH"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 15,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:CryptoniumAxe"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -34,7 +34,7 @@ public class PlutoWoodLogBlock extends SilentValkyrieModElements.ModElement {
 	public static final Block block = null;
 
 	public PlutoWoodLogBlock(SilentValkyrieModElements instance) {
-		super(instance, 114);
+		super(instance, 115);
 	}
 
 	@Override

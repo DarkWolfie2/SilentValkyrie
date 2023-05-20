@@ -21,7 +21,7 @@ public class YhwachThemeBleachTYBWOSTMusicDiscItem extends SilentValkyrieModElem
 	public static final Item block = null;
 
 	public YhwachThemeBleachTYBWOSTMusicDiscItem(SilentValkyrieModElements instance) {
-		super(instance, 22);
+		super(instance, 23);
 	}
 
 	@Override

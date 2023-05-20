@@ -37,7 +37,7 @@ public class GraphiniumArmorArmorItem extends SilentValkyrieModElements.ModEleme
 	public static final Item boots = null;
 
 	public GraphiniumArmorArmorItem(SilentValkyrieModElements instance) {
-		super(instance, 67);
+		super(instance, 68);
 	}
 
 	@Override
@@ -93,7 +93,7 @@ public class GraphiniumArmorArmorItem extends SilentValkyrieModElements.ModEleme
 
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "silent_valkyrie:textures/models/armor/graphiniumarmor_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "silent_valkyrie:textures/models/armor/diamond__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("graphinium_armor_armor_helmet"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.CHEST, new Item.Properties().group(SilentValkItemGroup.tab)) {
@@ -105,7 +105,7 @@ public class GraphiniumArmorArmorItem extends SilentValkyrieModElements.ModEleme
 
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "silent_valkyrie:textures/models/armor/graphiniumarmor_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "silent_valkyrie:textures/models/armor/diamond__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("graphinium_armor_armor_chestplate"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.LEGS, new Item.Properties().group(SilentValkItemGroup.tab)) {
@@ -117,7 +117,7 @@ public class GraphiniumArmorArmorItem extends SilentValkyrieModElements.ModEleme
 
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "silent_valkyrie:textures/models/armor/graphiniumarmor_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "silent_valkyrie:textures/models/armor/diamond__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("graphinium_armor_armor_leggings"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.FEET, new Item.Properties().group(SilentValkItemGroup.tab)) {
@@ -129,7 +129,7 @@ public class GraphiniumArmorArmorItem extends SilentValkyrieModElements.ModEleme
 
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "silent_valkyrie:textures/models/armor/graphiniumarmor_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "silent_valkyrie:textures/models/armor/diamond__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("graphinium_armor_armor_boots"));
 	}

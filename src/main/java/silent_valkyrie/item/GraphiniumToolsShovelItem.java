@@ -19,7 +19,7 @@ public class GraphiniumToolsShovelItem extends SilentValkyrieModElements.ModElem
 	public static final Item block = null;
 
 	public GraphiniumToolsShovelItem(SilentValkyrieModElements instance) {
-		super(instance, 46);
+		super(instance, 47);
 	}
 
 	@Override

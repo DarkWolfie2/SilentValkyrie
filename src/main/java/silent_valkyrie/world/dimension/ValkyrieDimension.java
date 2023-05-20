@@ -80,7 +80,7 @@ public class ValkyrieDimension extends SilentValkyrieModElements.ModElement {
 	public static final CustomPortalBlock portal = null;
 
 	public ValkyrieDimension(SilentValkyrieModElements instance) {
-		super(instance, 11);
+		super(instance, 12);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new POIRegisterHandler());
 	}
 

@@ -25,7 +25,7 @@ public class GraphiniumItem extends SilentValkyrieModElements.ModElement {
 	public static final Item block = null;
 
 	public GraphiniumItem(SilentValkyrieModElements instance) {
-		super(instance, 79);
+		super(instance, 80);
 	}
 
 	@Override

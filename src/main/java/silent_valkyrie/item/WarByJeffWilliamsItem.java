@@ -21,7 +21,7 @@ public class WarByJeffWilliamsItem extends SilentValkyrieModElements.ModElement 
 	public static final Item block = null;
 
 	public WarByJeffWilliamsItem(SilentValkyrieModElements instance) {
-		super(instance, 17);
+		super(instance, 18);
 	}
 
 	@Override

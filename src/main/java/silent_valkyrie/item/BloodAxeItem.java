@@ -19,7 +19,7 @@ public class BloodAxeItem extends SilentValkyrieModElements.ModElement {
 	public static final Item block = null;
 
 	public BloodAxeItem(SilentValkyrieModElements instance) {
-		super(instance, 60);
+		super(instance, 61);
 	}
 
 	@Override

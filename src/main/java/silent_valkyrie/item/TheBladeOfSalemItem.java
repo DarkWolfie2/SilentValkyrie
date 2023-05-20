@@ -19,7 +19,7 @@ public class TheBladeOfSalemItem extends SilentValkyrieModElements.ModElement {
 	public static final Item block = null;
 
 	public TheBladeOfSalemItem(SilentValkyrieModElements instance) {
-		super(instance, 100);
+		super(instance, 101);
 	}
 
 	@Override

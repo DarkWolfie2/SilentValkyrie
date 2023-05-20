@@ -25,7 +25,7 @@ public class DimensionStarOverworldItem extends SilentValkyrieModElements.ModEle
 	public static final Item block = null;
 
 	public DimensionStarOverworldItem(SilentValkyrieModElements instance) {
-		super(instance, 9);
+		super(instance, 10);
 	}
 
 	@Override

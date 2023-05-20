@@ -51,7 +51,7 @@ public class CryptoniumOreBlock extends SilentValkyrieModElements.ModElement {
 	public static final Block block = null;
 
 	public CryptoniumOreBlock(SilentValkyrieModElements instance) {
-		super(instance, 87);
+		super(instance, 88);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

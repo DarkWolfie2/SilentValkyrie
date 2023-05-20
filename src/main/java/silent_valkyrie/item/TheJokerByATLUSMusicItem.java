@@ -18,7 +18,7 @@ public class TheJokerByATLUSMusicItem extends SilentValkyrieModElements.ModEleme
 	public static final Item block = null;
 
 	public TheJokerByATLUSMusicItem(SilentValkyrieModElements instance) {
-		super(instance, 16);
+		super(instance, 17);
 	}
 
 	@Override

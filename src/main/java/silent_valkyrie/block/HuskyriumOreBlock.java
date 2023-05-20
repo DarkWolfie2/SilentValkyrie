@@ -49,7 +49,7 @@ public class HuskyriumOreBlock extends SilentValkyrieModElements.ModElement {
 	public static final Block block = null;
 
 	public HuskyriumOreBlock(SilentValkyrieModElements instance) {
-		super(instance, 86);
+		super(instance, 87);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

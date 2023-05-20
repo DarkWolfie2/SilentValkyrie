@@ -19,7 +19,7 @@ public class TitaniumAxeItem extends SilentValkyrieModElements.ModElement {
 	public static final Item block = null;
 
 	public TitaniumAxeItem(SilentValkyrieModElements instance) {
-		super(instance, 55);
+		super(instance, 56);
 	}
 
 	@Override

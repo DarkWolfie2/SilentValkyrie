@@ -51,7 +51,7 @@ public class PlutoStoneOreBlock extends SilentValkyrieModElements.ModElement {
 	public static final Block block = null;
 
 	public PlutoStoneOreBlock(SilentValkyrieModElements instance) {
-		super(instance, 83);
+		super(instance, 84);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

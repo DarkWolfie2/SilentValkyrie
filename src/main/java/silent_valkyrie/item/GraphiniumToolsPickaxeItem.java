@@ -19,7 +19,7 @@ public class GraphiniumToolsPickaxeItem extends SilentValkyrieModElements.ModEle
 	public static final Item block = null;
 
 	public GraphiniumToolsPickaxeItem(SilentValkyrieModElements instance) {
-		super(instance, 44);
+		super(instance, 45);
 	}
 
 	@Override

@@ -3,17 +3,17 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "graphiniumarmor_head",
+    "textureHelmet": "graphiniumhelmet2",
     "enableBody": true,
-    "textureBody": "graphiniumarmor_body",
+    "textureBody": "graphiniumchestplate2",
     "enableLeggings": true,
-    "textureLeggings": "graphiniumarmor_leggings",
+    "textureLeggings": "graphiniumleggings2",
     "enableBoots": true,
-    "textureBoots": "graphiniumarmor_boots",
+    "textureBoots": "graphiniumboots2",
     "creativeTab": {
       "value": "CUSTOM:SilentValk"
     },
-    "armorTextureFile": "graphiniumarmor",
+    "armorTextureFile": "diamond_",
     "helmetName": "Graphinium Helmet",
     "bodyName": "Graphinium Chestplate",
     "leggingsName": "Graphinium Leggings",
