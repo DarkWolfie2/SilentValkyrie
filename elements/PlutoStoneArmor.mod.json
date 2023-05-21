@@ -3,17 +3,17 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "plutostonehelmet",
+    "textureHelmet": "plutosteelhelmet",
     "enableBody": true,
-    "textureBody": "plutostonechest",
+    "textureBody": "plutosteelchestplate",
     "enableLeggings": true,
-    "textureLeggings": "plutostonelegs",
+    "textureLeggings": "plutosteelleggings",
     "enableBoots": true,
-    "textureBoots": "plutostoneboots",
+    "textureBoots": "plutosteelboots",
     "creativeTab": {
       "value": "CUSTOM:SilentValk"
     },
-    "armorTextureFile": "plutostonearmor",
+    "armorTextureFile": "plutosteel_",
     "helmetName": "Pluto Steel Helmet",
     "bodyName": "Pluto Steel Chestplate",
     "leggingsName": "Pluto Steel Leggings",
@@ -51,7 +51,7 @@
     "toughness": 0.0,
     "knockbackResistance": 0.1,
     "equipSound": {
-      "value": "item.armor.equip_netherite"
+      "value": "item.armor.equip_iron"
     },
     "repairItems": [
       {

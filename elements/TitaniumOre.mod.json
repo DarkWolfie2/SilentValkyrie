@@ -35,7 +35,7 @@
     ],
     "name": "Titanium Ore",
     "specialInfo": [],
-    "hardness": 15.0,
+    "hardness": 7.0,
     "resistance": 18.11949159194239,
     "hasGravity": false,
     "isWaterloggable": false,

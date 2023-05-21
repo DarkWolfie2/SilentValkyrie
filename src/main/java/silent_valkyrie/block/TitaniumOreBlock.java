@@ -64,7 +64,7 @@ public class TitaniumOreBlock extends SilentValkyrieModElements.ModElement {
 
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(15f, 18.11949159194239f).setLightLevel(s -> 0)
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(7f, 18.11949159194239f).setLightLevel(s -> 0)
 					.harvestLevel(10).harvestTool(ToolType.PICKAXE).setRequiresTool());
 			setRegistryName("titanium_ore");
 		}

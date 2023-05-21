@@ -3,7 +3,7 @@ package silent_valkyrie.block;
 
 import silent_valkyrie.itemgroup.SilentValkItemGroup;
 
-import silent_valkyrie.item.ValkyriumItem;
+import silent_valkyrie.item.MoltenValkyriumItem;
 
 import silent_valkyrie.SilentValkyrieModElements;
 
@@ -77,7 +77,7 @@ public class ValkyriumOreBlock extends SilentValkyrieModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(ValkyriumItem.block));
+			return Collections.singletonList(new ItemStack(MoltenValkyriumItem.block));
 		}
 	}
 

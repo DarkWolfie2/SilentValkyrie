@@ -1,0 +1,358 @@
+{
+  "_fv": 33,
+  "_type": "livingentity",
+  "definition": {
+    "mobName": "Distorted Cow",
+    "mobLabel": "",
+    "mobModelName": "Cow",
+    "mobModelTexture": "distortedcow.png",
+    "mobModelGlowTexture": "",
+    "modelWidth": 0.9,
+    "modelHeight": 1.4,
+    "modelShadowSize": 0.5,
+    "mountedYOffset": 0.0,
+    "hasSpawnEgg": true,
+    "spawnEggBaseColor": {
+      "value": -65281,
+      "falpha": 0.0
+    },
+    "spawnEggDotColor": {
+      "value": -10092442,
+      "falpha": 0.0
+    },
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkAddons"
+    },
+    "isBoss": false,
+    "bossBarColor": "PINK",
+    "bossBarType": "PROGRESS",
+    "equipmentMainHand": {
+      "value": ""
+    },
+    "equipmentOffHand": {
+      "value": ""
+    },
+    "equipmentHelmet": {
+      "value": ""
+    },
+    "equipmentBody": {
+      "value": ""
+    },
+    "equipmentLeggings": {
+      "value": ""
+    },
+    "equipmentBoots": {
+      "value": ""
+    },
+    "mobBehaviourType": "Creature",
+    "mobCreatureType": "UNDEFINED",
+    "attackStrength": 3,
+    "attackKnockback": 0.0,
+    "knockbackResistance": 0.0,
+    "movementSpeed": 0.3,
+    "armorBaseValue": 0.0,
+    "trackingRange": 64,
+    "followRange": 16,
+    "health": 10,
+    "xpAmount": 5,
+    "waterMob": false,
+    "flyingMob": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "disableCollisions": false,
+    "ridable": false,
+    "canControlForward": false,
+    "canControlStrafe": false,
+    "immuneToFire": false,
+    "immuneToArrows": false,
+    "immuneToFallDamage": false,
+    "immuneToCactus": false,
+    "immuneToDrowning": false,
+    "immuneToLightning": false,
+    "immuneToPotions": false,
+    "immuneToPlayer": false,
+    "immuneToExplosion": false,
+    "immuneToTrident": false,
+    "immuneToAnvil": false,
+    "immuneToWither": false,
+    "immuneToDragonBreath": false,
+    "mobDrop": {
+      "value": "Items.BEEF"
+    },
+    "livingSound": {
+      "value": "entity.cow.ambient"
+    },
+    "hurtSound": {
+      "value": "entity.cow.hurt"
+    },
+    "deathSound": {
+      "value": "entity.cow.death"
+    },
+    "stepSound": {
+      "value": "entity.cow.step"
+    },
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
+    "hasAI": true,
+    "aiBase": "Cow",
+    "aixml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"aitasks_container\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"attack_on_collide\"><field name=\"speed\">1.2</field><field name=\"longmemory\">FALSE</field><field name=\"condition\">null,null</field><next><block type=\"wander\"><field name=\"speed\">1</field><field name=\"condition\">null,null</field><next><block type=\"attack_action\"><field name=\"callhelp\">FALSE</field><field name=\"condition\">null,null</field><next><block type=\"look_around\"><field name=\"condition\">null,null</field><next><block type=\"swim_in_water\"><field name=\"condition\">null,null</field></block></next></block></next></block></next></block></next></block></next></block></xml>",
+    "breedable": true,
+    "tameable": false,
+    "breedTriggerItems": [
+      {
+        "value": "Blocks.WHEAT"
+      }
+    ],
+    "ranged": false,
+    "rangedAttackItem": {
+      "value": ""
+    },
+    "rangedItemType": "Default item",
+    "spawnThisMob": true,
+    "doesDespawnWhenIdle": true,
+    "spawningProbability": 20,
+    "mobSpawningType": "creature",
+    "minNumberOfMobsPerGroup": 4,
+    "maxNumberOfMobsPerGroup": 4,
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:BloodBaneBiome"
+      },
+      {
+        "value": "CUSTOM:PlutoBiome"
+      },
+      {
+        "value": "CUSTOM:ValkyrieBiome"
+      },
+      {
+        "value": "badlands"
+      },
+      {
+        "value": "badlands_plateau"
+      },
+      {
+        "value": "bamboo_jungle"
+      },
+      {
+        "value": "bamboo_jungle_hills"
+      },
+      {
+        "value": "beaches"
+      },
+      {
+        "value": "birch_forest"
+      },
+      {
+        "value": "birch_forest_hills"
+      },
+      {
+        "value": "roofed_forest"
+      },
+      {
+        "value": "mutated_roofed_forest"
+      },
+      {
+        "value": "deep_cold_ocean"
+      },
+      {
+        "value": "deep_frozen_ocean"
+      },
+      {
+        "value": "deep_lukewarm_ocean"
+      },
+      {
+        "value": "deep_ocean"
+      },
+      {
+        "value": "deep_warm_ocean"
+      },
+      {
+        "value": "desert"
+      },
+      {
+        "value": "desert_hills"
+      },
+      {
+        "value": "dripstone_caves"
+      },
+      {
+        "value": "mutated_mesa"
+      },
+      {
+        "value": "mutated_forest"
+      },
+      {
+        "value": "forest"
+      },
+      {
+        "value": "forest_hills"
+      },
+      {
+        "value": "frozen_ocean"
+      },
+      {
+        "value": "frozen_peaks"
+      },
+      {
+        "value": "frozen_river"
+      },
+      {
+        "value": "grove"
+      },
+      {
+        "value": "mutated_ice_flats"
+      },
+      {
+        "value": "jagged_peaks"
+      },
+      {
+        "value": "jungle"
+      },
+      {
+        "value": "jungle_hills"
+      },
+      {
+        "value": "lukewarm_ocean"
+      },
+      {
+        "value": "lush_caves"
+      },
+      {
+        "value": "meadow"
+      },
+      {
+        "value": "mutated_mesa_clear_rock"
+      },
+      {
+        "value": "mutated_extreme_hills_with_trees"
+      },
+      {
+        "value": "mutated_jungle"
+      },
+      {
+        "value": "mutated_jungle_edge"
+      },
+      {
+        "value": "mutated_mesa_rock"
+      },
+      {
+        "value": "smaller_extreme_hills"
+      },
+      {
+        "value": "mushroom_field_shore"
+      },
+      {
+        "value": "mushroom_fields"
+      },
+      {
+        "value": "nether"
+      },
+      {
+        "value": "mutated_birch_forest"
+      },
+      {
+        "value": "mutated_birch_forest_hills"
+      },
+      {
+        "value": "redwood_taiga"
+      },
+      {
+        "value": "redwood_taiga_hills"
+      },
+      {
+        "value": "mutated_redwood_taiga"
+      },
+      {
+        "value": "mutated_redwood_taiga_hills"
+      },
+      {
+        "value": "plains"
+      },
+      {
+        "value": "savanna"
+      },
+      {
+        "value": "savanna_rock"
+      },
+      {
+        "value": "mutated_savanna_rock"
+      },
+      {
+        "value": "snowy_slopes"
+      },
+      {
+        "value": "cold_beach"
+      },
+      {
+        "value": "snowy_mountains"
+      },
+      {
+        "value": "snowy_tundra"
+      },
+      {
+        "value": "taiga_cold"
+      },
+      {
+        "value": "taiga_cold_hills"
+      },
+      {
+        "value": "mutated_taiga_cold"
+      },
+      {
+        "value": "soul_sand_valley"
+      },
+      {
+        "value": "jungle_edge"
+      },
+      {
+        "value": "stony_peaks"
+      },
+      {
+        "value": "stone_beach"
+      },
+      {
+        "value": "mutated_plains"
+      },
+      {
+        "value": "swamp"
+      },
+      {
+        "value": "mutated_swampland"
+      },
+      {
+        "value": "taiga"
+      },
+      {
+        "value": "taiga_hills"
+      },
+      {
+        "value": "mutated_taiga"
+      },
+      {
+        "value": "warm_ocean"
+      },
+      {
+        "value": "extreme_hills_with_trees"
+      },
+      {
+        "value": "mutated_extreme_hills"
+      },
+      {
+        "value": "mountains"
+      },
+      {
+        "value": "mutated_savanna"
+      },
+      {
+        "value": "wooded_badlands_plateau"
+      }
+    ],
+    "spawnInDungeons": false
+  }
+}
