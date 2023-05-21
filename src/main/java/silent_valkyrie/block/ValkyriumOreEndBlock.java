@@ -119,7 +119,7 @@ public class ValkyriumOreEndBlock extends SilentValkyrieModElements.ModElement {
 				}
 			};
 			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 2)).range(30)
-					.square().func_242731_b(3);
+					.square().func_242731_b(7);
 			event.getRegistry().register(feature.setRegistryName("valkyrium_ore_end"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("silent_valkyrie:valkyrium_ore_end"), configuredFeature);
 		}

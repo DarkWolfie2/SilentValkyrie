@@ -120,7 +120,7 @@ public class PlutoStoneOreEndBlock extends SilentValkyrieModElements.ModElement 
 				}
 			};
 			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 3)).range(30)
-					.square().func_242731_b(4);
+					.square().func_242731_b(7);
 			event.getRegistry().register(feature.setRegistryName("pluto_stone_ore_end"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("silent_valkyrie:pluto_stone_ore_end"), configuredFeature);
 		}

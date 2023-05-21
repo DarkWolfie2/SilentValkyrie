@@ -121,7 +121,7 @@ public class ValkyriumOreBlock extends SilentValkyrieModElements.ModElement {
 				}
 			};
 			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 2)).range(16)
-					.square().func_242731_b(1);
+					.square().func_242731_b(7);
 			event.getRegistry().register(feature.setRegistryName("valkyrium_ore"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("silent_valkyrie:valkyrium_ore"), configuredFeature);
 		}
