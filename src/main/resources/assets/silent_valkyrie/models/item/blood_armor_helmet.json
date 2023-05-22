@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "silent_valkyrie:items/blood_head"
+    "layer0": "silent_valkyrie:items/bloodhelmet2"
   }
 }

@@ -2,9 +2,9 @@
   "_fv": 33,
   "_type": "block",
   "definition": {
-    "texture": "blooddust_ore",
+    "texture": "blooddustore2",
     "textureTop": "",
-    "textureLeft": "",
+    "textureLeft": "blooddustore2",
     "textureFront": "",
     "textureRight": "",
     "textureBack": "",

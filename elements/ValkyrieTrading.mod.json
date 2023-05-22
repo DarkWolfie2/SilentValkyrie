@@ -167,6 +167,31 @@
             "priceMultiplier": 0.05
           }
         ]
+      },
+      {
+        "villagerProfession": {
+          "value": "WANDERING_TRADER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "CUSTOM:PlutoStone"
+            },
+            "countPrice1": 45,
+            "price2": {
+              "value": "Items.DIAMOND"
+            },
+            "countPrice2": 45,
+            "offer": {
+              "value": "CUSTOM:Valkyrie"
+            },
+            "countOffer": 1,
+            "level": 5,
+            "maxTrades": 1,
+            "xp": 100,
+            "priceMultiplier": 0.05
+          }
+        ]
       }
     ]
   }

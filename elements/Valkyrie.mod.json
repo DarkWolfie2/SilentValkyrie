@@ -37,12 +37,12 @@
     "portalSound": {
       "value": "block.portal.ambient"
     },
-    "igniterName": "Valkyrie Portal Igniter",
+    "igniterName": "The Portal Key",
     "igniterTab": {
       "value": "CUSTOM:SilentValkAddons"
     },
-    "texture": "netherdimensionstar",
-    "portalTexture": "balls",
+    "texture": "portalkey",
+    "portalTexture": "valkyrieportal2",
     "enablePortal": true
   }
 }

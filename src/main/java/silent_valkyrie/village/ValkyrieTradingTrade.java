@@ -3,8 +3,10 @@ package silent_valkyrie.village;
 
 import silent_valkyrie.item.ValkyriumSwordItem;
 import silent_valkyrie.item.ValkyriumItem;
+import silent_valkyrie.item.ValkyrieItem;
 import silent_valkyrie.item.TitaniumSwordItem;
 import silent_valkyrie.item.PlutoStoneSwordItem;
+import silent_valkyrie.item.PlutoStoneItem;
 import silent_valkyrie.item.HardenedValkyriumItem;
 import silent_valkyrie.item.HardenedPlutoSteelItem;
 import silent_valkyrie.item.GraphiniumArmorArmorItem;
@@ -12,6 +14,7 @@ import silent_valkyrie.item.CryptoniumAxeItem;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.event.village.WandererTradesEvent;
 import net.minecraftforge.event.village.VillagerTradesEvent;
 import net.minecraftforge.common.BasicTrade;
 
@@ -26,6 +29,12 @@ import it.unimi.dsi.fastutil.ints.Int2ObjectMap;
 
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.FORGE)
 public class ValkyrieTradingTrade {
+	@SubscribeEvent
+	public static void registerWanderingTrades(WandererTradesEvent event) {
+		event.getGenericTrades().add(new BasicTrade(new ItemStack(PlutoStoneItem.block, (int) (45)), new ItemStack(Items.DIAMOND, (int) (45)),
+				new ItemStack(ValkyrieItem.block), 1, 100, 0.05f));
+	}
+
 	@SubscribeEvent
 	public static void registerTrades(VillagerTradesEvent event) {
 		Int2ObjectMap<List<VillagerTrades.ITrade>> trades = event.getTrades();

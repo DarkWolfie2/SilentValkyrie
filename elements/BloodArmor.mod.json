@@ -3,25 +3,33 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "blood_head",
+    "textureHelmet": "bloodhelmet2",
     "enableBody": true,
-    "textureBody": "blood_body",
+    "textureBody": "bloodchestplate2",
     "enableLeggings": true,
-    "textureLeggings": "blood_leggings",
+    "textureLeggings": "bloodleggings2",
     "enableBoots": true,
-    "textureBoots": "blood_boots",
+    "textureBoots": "bloodboots2",
     "creativeTab": {
       "value": "CUSTOM:SilentValk"
     },
-    "armorTextureFile": "blood",
+    "armorTextureFile": "blooddust_",
     "helmetName": "Blood Helmet",
     "bodyName": "Blood Chestplate",
     "leggingsName": "Blood Leggings",
     "bootsName": "Blood Boots",
-    "helmetSpecialInfo": [],
-    "bodySpecialInfo": [],
-    "leggingsSpecialInfo": [],
-    "bootsSpecialInfo": [],
+    "helmetSpecialInfo": [
+      "Helmet made from the blood of thy enemies"
+    ],
+    "bodySpecialInfo": [
+      "Chestplate made from the blood of thy enemies"
+    ],
+    "leggingsSpecialInfo": [
+      "Leggings made from the blood of thy enemies"
+    ],
+    "bootsSpecialInfo": [
+      "Boots made from the blood of thy enemies"
+    ],
     "helmetModelName": "Default",
     "helmetModelPart": "Helmet",
     "helmetModelTexture": "From armor",

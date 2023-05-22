@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "silent_valkyrie:blocks/blooddust_ore",
-    "particle": "silent_valkyrie:blocks/blooddust_ore"
+    "all": "silent_valkyrie:blocks/blooddustore2",
+    "particle": "silent_valkyrie:blocks/blooddustore2"
   }
 }
