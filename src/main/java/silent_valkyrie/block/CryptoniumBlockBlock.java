@@ -27,7 +27,7 @@ public class CryptoniumBlockBlock extends SilentValkyrieModElements.ModElement {
 	public static final Block block = null;
 
 	public CryptoniumBlockBlock(SilentValkyrieModElements instance) {
-		super(instance, 96);
+		super(instance, 97);
 	}
 
 	@Override

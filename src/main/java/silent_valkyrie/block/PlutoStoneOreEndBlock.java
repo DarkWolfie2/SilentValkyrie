@@ -1,7 +1,7 @@
 
 package silent_valkyrie.block;
 
-import silent_valkyrie.itemgroup.SilentValkyrieBlocksItemGroup;
+import silent_valkyrie.itemgroup.SilentValkItemGroup;
 
 import silent_valkyrie.item.MoltenPlutoSteelItem;
 
@@ -50,7 +50,7 @@ public class PlutoStoneOreEndBlock extends SilentValkyrieModElements.ModElement 
 	public static final Block block = null;
 
 	public PlutoStoneOreEndBlock(SilentValkyrieModElements instance) {
-		super(instance, 135);
+		super(instance, 85);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}
@@ -58,8 +58,7 @@ public class PlutoStoneOreEndBlock extends SilentValkyrieModElements.ModElement 
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items.add(
-				() -> new BlockItem(block, new Item.Properties().group(SilentValkyrieBlocksItemGroup.tab)).setRegistryName(block.getRegistryName()));
+		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(SilentValkItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
 
 	public static class CustomBlock extends Block {

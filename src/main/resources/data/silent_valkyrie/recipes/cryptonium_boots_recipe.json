@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "minecraft:diamond_boots"
+    "item": "silent_valkyrie:huskyrium_armor_boots"
   },
   "addition": {
     "item": "silent_valkyrie:cryptonium"

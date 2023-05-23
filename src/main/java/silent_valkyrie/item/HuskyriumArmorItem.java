@@ -54,7 +54,7 @@ public class HuskyriumArmorItem extends SilentValkyrieModElements.ModElement {
 
 			@Override
 			public net.minecraft.util.SoundEvent getSoundEvent() {
-				return (net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("item.armor.equip_diamond"));
+				return (net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("item.armor.equip_iron"));
 			}
 
 			@Override
@@ -81,25 +81,25 @@ public class HuskyriumArmorItem extends SilentValkyrieModElements.ModElement {
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.HEAD, new Item.Properties().group(SilentValkItemGroup.tab)) {
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "silent_valkyrie:textures/models/armor/huskyriumarmor_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "silent_valkyrie:textures/models/armor/huskyrium__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("huskyrium_armor_helmet"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.CHEST, new Item.Properties().group(SilentValkItemGroup.tab)) {
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "silent_valkyrie:textures/models/armor/huskyriumarmor_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "silent_valkyrie:textures/models/armor/huskyrium__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("huskyrium_armor_chestplate"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.LEGS, new Item.Properties().group(SilentValkItemGroup.tab)) {
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "silent_valkyrie:textures/models/armor/huskyriumarmor_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "silent_valkyrie:textures/models/armor/huskyrium__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("huskyrium_armor_leggings"));
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.FEET, new Item.Properties().group(SilentValkItemGroup.tab)) {
 			@Override
 			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "silent_valkyrie:textures/models/armor/huskyriumarmor_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+				return "silent_valkyrie:textures/models/armor/huskyrium__layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("huskyrium_armor_boots"));
 	}

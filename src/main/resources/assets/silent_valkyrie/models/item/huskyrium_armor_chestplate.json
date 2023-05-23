@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "silent_valkyrie:items/huskyriumarmor_body"
+    "layer0": "silent_valkyrie:items/huskyriumchestplate2"
   }
 }

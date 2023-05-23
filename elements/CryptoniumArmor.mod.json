@@ -3,17 +3,17 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "cryptonium_head",
+    "textureHelmet": "cryptoniumhelmet2",
     "enableBody": true,
-    "textureBody": "cryptonium_body",
+    "textureBody": "cryptoniumchestplate2",
     "enableLeggings": true,
-    "textureLeggings": "cryptonium_leggings",
+    "textureLeggings": "cryptoniumleggings2",
     "enableBoots": true,
-    "textureBoots": "cryptonium_boots",
+    "textureBoots": "cryptoniumboots2",
     "creativeTab": {
       "value": "CUSTOM:SilentValk"
     },
-    "armorTextureFile": "cryptonium",
+    "armorTextureFile": "cryptonium_",
     "helmetName": "Cryptonium Helmet",
     "bodyName": "Cryptonium Chestplate",
     "leggingsName": "Cryptonium Leggings",

@@ -51,7 +51,7 @@ public class TitaniumOreBlock extends SilentValkyrieModElements.ModElement {
 	public static final Block block = null;
 
 	public TitaniumOreBlock(SilentValkyrieModElements instance) {
-		super(instance, 91);
+		super(instance, 92);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

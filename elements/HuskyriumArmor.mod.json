@@ -3,17 +3,17 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "huskyriumarmor_head",
+    "textureHelmet": "huskyriumhelmet2",
     "enableBody": true,
-    "textureBody": "huskyriumarmor_body",
+    "textureBody": "huskyriumchestplate2",
     "enableLeggings": true,
-    "textureLeggings": "huskyriumarmor_leggings",
+    "textureLeggings": "huskyriumleggings2",
     "enableBoots": true,
-    "textureBoots": "huskyriumarmor_boots",
+    "textureBoots": "huskyriumboots2",
     "creativeTab": {
       "value": "CUSTOM:SilentValk"
     },
-    "armorTextureFile": "huskyriumarmor",
+    "armorTextureFile": "huskyrium_",
     "helmetName": "Huskyrium Helmet",
     "bodyName": "Huskyrium Chestplate",
     "leggingsName": "Huskyrium Leggings",
@@ -51,7 +51,7 @@
     "toughness": 0.0,
     "knockbackResistance": 0.3,
     "equipSound": {
-      "value": "item.armor.equip_diamond"
+      "value": "item.armor.equip_iron"
     },
     "repairItems": [
       {

@@ -99,7 +99,7 @@
     {
       "name": "PlutoStoneBlock",
       "type": "block",
-      "sortid": 93,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pluto_stone_block"
@@ -153,7 +153,7 @@
     {
       "name": "HuskyriumOre",
       "type": "block",
-      "sortid": 87,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "registry_name": "huskyrium_ore"
@@ -247,7 +247,7 @@
     {
       "name": "HuskyriumBlock",
       "type": "block",
-      "sortid": 95,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "registry_name": "huskyrium_block"
@@ -303,7 +303,7 @@
     {
       "name": "ValkyriumBlock",
       "type": "block",
-      "sortid": 94,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "registry_name": "valkyrium_block"
@@ -311,7 +311,7 @@
     {
       "name": "ValkyriumOre",
       "type": "block",
-      "sortid": 85,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "registry_name": "valkyrium_ore"
@@ -648,7 +648,7 @@
     {
       "name": "CryptoniumOre",
       "type": "block",
-      "sortid": 88,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cryptonium_ore"
@@ -825,7 +825,7 @@
     {
       "name": "CryptoniumBlock",
       "type": "block",
-      "sortid": 96,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cryptonium_block"
@@ -865,7 +865,7 @@
     {
       "name": "ValkyrieGrassBlock",
       "type": "block",
-      "sortid": 102,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "registry_name": "valkyrie_grass_block"
@@ -873,7 +873,7 @@
     {
       "name": "ValkyrieWoodWood",
       "type": "block",
-      "sortid": 103,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "registry_name": "valkyrie_wood_wood"
@@ -881,7 +881,7 @@
     {
       "name": "ValkyrieWoodLog",
       "type": "block",
-      "sortid": 104,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "registry_name": "valkyrie_wood_log"
@@ -889,7 +889,7 @@
     {
       "name": "ValkyrieWoodPlanks",
       "type": "block",
-      "sortid": 105,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "registry_name": "valkyrie_wood_planks"
@@ -897,7 +897,7 @@
     {
       "name": "ValkyrieWoodLeaves",
       "type": "block",
-      "sortid": 112,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "registry_name": "valkyrie_wood_leaves"
@@ -905,7 +905,7 @@
     {
       "name": "ValkyrieWoodStairs",
       "type": "block",
-      "sortid": 106,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "registry_name": "valkyrie_wood_stairs"
@@ -913,7 +913,7 @@
     {
       "name": "ValkyrieWoodSlab",
       "type": "block",
-      "sortid": 107,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "registry_name": "valkyrie_wood_slab"
@@ -921,7 +921,7 @@
     {
       "name": "ValkyrieWoodFence",
       "type": "block",
-      "sortid": 109,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "registry_name": "valkyrie_wood_fence"
@@ -929,7 +929,7 @@
     {
       "name": "ValkyrieWoodFenceGate",
       "type": "block",
-      "sortid": 110,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "registry_name": "valkyrie_wood_fence_gate"
@@ -937,7 +937,7 @@
     {
       "name": "ValkyrieWoodPressurePlate",
       "type": "block",
-      "sortid": 111,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "registry_name": "valkyrie_wood_pressure_plate"
@@ -945,7 +945,7 @@
     {
       "name": "ValkyrieWoodButton",
       "type": "block",
-      "sortid": 108,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "registry_name": "valkyrie_wood_button"
@@ -1025,7 +1025,7 @@
     {
       "name": "PlutoWoodWood",
       "type": "block",
-      "sortid": 114,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pluto_wood_wood"
@@ -1033,7 +1033,7 @@
     {
       "name": "PlutoWoodLog",
       "type": "block",
-      "sortid": 115,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pluto_wood_log"
@@ -1041,7 +1041,7 @@
     {
       "name": "PlutoWoodPlanks",
       "type": "block",
-      "sortid": 116,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pluto_wood_planks"
@@ -1049,7 +1049,7 @@
     {
       "name": "PlutoWoodLeaves",
       "type": "block",
-      "sortid": 123,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pluto_wood_leaves"
@@ -1057,7 +1057,7 @@
     {
       "name": "PlutoWoodStairs",
       "type": "block",
-      "sortid": 117,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pluto_wood_stairs"
@@ -1065,7 +1065,7 @@
     {
       "name": "PlutoWoodSlab",
       "type": "block",
-      "sortid": 118,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pluto_wood_slab"
@@ -1073,7 +1073,7 @@
     {
       "name": "PlutoWoodFence",
       "type": "block",
-      "sortid": 120,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pluto_wood_fence"
@@ -1081,7 +1081,7 @@
     {
       "name": "PlutoWoodFenceGate",
       "type": "block",
-      "sortid": 121,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pluto_wood_fence_gate"
@@ -1089,7 +1089,7 @@
     {
       "name": "PlutoWoodPressurePlate",
       "type": "block",
-      "sortid": 122,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pluto_wood_pressure_plate"
@@ -1097,7 +1097,7 @@
     {
       "name": "PlutoWoodButton",
       "type": "block",
-      "sortid": 119,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pluto_wood_button"
@@ -1327,7 +1327,7 @@
     {
       "name": "DemonWolfOre",
       "type": "block",
-      "sortid": 90,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "registry_name": "demon_wolf_ore"
@@ -1335,7 +1335,7 @@
     {
       "name": "DemonWolfBlock",
       "type": "block",
-      "sortid": 98,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "registry_name": "demon_wolf_block"
@@ -1501,7 +1501,7 @@
     {
       "name": "TitaniumOre",
       "type": "block",
-      "sortid": 91,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_ore"
@@ -1509,7 +1509,7 @@
     {
       "name": "TitaniumBlock",
       "type": "block",
-      "sortid": 99,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_block"
@@ -1667,7 +1667,7 @@
     {
       "name": "GraphiniumOre",
       "type": "block",
-      "sortid": 89,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "registry_name": "graphinium_ore"
@@ -1675,7 +1675,7 @@
     {
       "name": "BlockOfGraphinium",
       "type": "block",
-      "sortid": 97,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_graphinium"
@@ -1691,7 +1691,7 @@
     {
       "name": "PlutoGrass",
       "type": "block",
-      "sortid": 113,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pluto_grass"
@@ -1723,7 +1723,7 @@
     {
       "name": "BloodDustOre",
       "type": "block",
-      "sortid": 92,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blood_dust_ore"
@@ -1731,7 +1731,7 @@
     {
       "name": "BloodDustBlock",
       "type": "block",
-      "sortid": 100,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blood_dust_block"
@@ -1897,7 +1897,7 @@
     {
       "name": "BloodbaneWood",
       "type": "block",
-      "sortid": 125,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bloodbane_wood"
@@ -1905,7 +1905,7 @@
     {
       "name": "BloodbaneLog",
       "type": "block",
-      "sortid": 126,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bloodbane_log"
@@ -1913,7 +1913,7 @@
     {
       "name": "BloodbanePlanks",
       "type": "block",
-      "sortid": 127,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bloodbane_planks"
@@ -1921,7 +1921,7 @@
     {
       "name": "BloodbaneLeaves",
       "type": "block",
-      "sortid": 134,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bloodbane_leaves"
@@ -1929,7 +1929,7 @@
     {
       "name": "BloodbaneStairs",
       "type": "block",
-      "sortid": 128,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bloodbane_stairs"
@@ -1937,7 +1937,7 @@
     {
       "name": "BloodbaneSlab",
       "type": "block",
-      "sortid": 129,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bloodbane_slab"
@@ -1945,7 +1945,7 @@
     {
       "name": "BloodbaneFence",
       "type": "block",
-      "sortid": 131,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bloodbane_fence"
@@ -1953,7 +1953,7 @@
     {
       "name": "BloodbaneFenceGate",
       "type": "block",
-      "sortid": 132,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bloodbane_fence_gate"
@@ -1961,7 +1961,7 @@
     {
       "name": "BloodbanePressurePlate",
       "type": "block",
-      "sortid": 133,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bloodbane_pressure_plate"
@@ -1969,7 +1969,7 @@
     {
       "name": "BloodbaneButton",
       "type": "block",
-      "sortid": 130,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bloodbane_button"
@@ -2225,7 +2225,7 @@
     {
       "name": "TheBladeOfSalem",
       "type": "tool",
-      "sortid": 101,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "registry_name": "the_blade_of_salem"
@@ -2233,7 +2233,7 @@
     {
       "name": "PlutoStoneOreEnd",
       "type": "block",
-      "sortid": 135,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pluto_stone_ore_end"
@@ -2281,7 +2281,7 @@
     {
       "name": "BloodBaneGrassBlock",
       "type": "block",
-      "sortid": 124,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blood_bane_grass_block"
@@ -2289,7 +2289,7 @@
     {
       "name": "ValkyriumOreEnd",
       "type": "block",
-      "sortid": 86,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "registry_name": "valkyrium_ore_end"
