@@ -33,6 +33,8 @@ public class ValkyrieTradingTrade {
 	public static void registerWanderingTrades(WandererTradesEvent event) {
 		event.getGenericTrades().add(new BasicTrade(new ItemStack(PlutoStoneItem.block, (int) (45)), new ItemStack(Items.DIAMOND, (int) (45)),
 				new ItemStack(ValkyrieItem.block), 1, 100, 0.05f));
+		event.getGenericTrades()
+				.add(new BasicTrade(new ItemStack(Items.DIAMOND, (int) (45)), new ItemStack(HardenedValkyriumItem.block, (int) (40)), 10, 5, 0.05f));
 	}
 
 	@SubscribeEvent

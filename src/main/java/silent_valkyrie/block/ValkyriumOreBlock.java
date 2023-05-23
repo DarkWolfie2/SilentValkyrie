@@ -12,6 +12,7 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.event.world.BiomeLoadingEvent;
 import net.minecraftforge.event.RegistryEvent;
+import net.minecraftforge.common.ToolType;
 import net.minecraftforge.common.MinecraftForge;
 
 import net.minecraft.world.gen.feature.template.RuleTest;
@@ -63,7 +64,8 @@ public class ValkyriumOreBlock extends SilentValkyrieModElements.ModElement {
 
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(3)
+					.harvestTool(ToolType.PICKAXE).setRequiresTool());
 			setRegistryName("valkyrium_ore");
 		}
 
@@ -111,16 +113,16 @@ public class ValkyriumOreBlock extends SilentValkyrieModElements.ModElement {
 				public boolean generate(ISeedReader world, ChunkGenerator generator, Random rand, BlockPos pos, OreFeatureConfig config) {
 					RegistryKey<World> dimensionType = world.getWorld().getDimensionKey();
 					boolean dimensionCriteria = false;
-					if (dimensionType == RegistryKey.getOrCreateKey(Registry.WORLD_KEY, new ResourceLocation("silent_valkyrie:valkyrie")))
-						dimensionCriteria = true;
 					if (dimensionType == World.OVERWORLD)
+						dimensionCriteria = true;
+					if (dimensionType == RegistryKey.getOrCreateKey(Registry.WORLD_KEY, new ResourceLocation("silent_valkyrie:valkyrie")))
 						dimensionCriteria = true;
 					if (!dimensionCriteria)
 						return false;
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 2)).range(16)
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 2)).range(25)
 					.square().func_242731_b(7);
 			event.getRegistry().register(feature.setRegistryName("valkyrium_ore"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("silent_valkyrie:valkyrium_ore"), configuredFeature);

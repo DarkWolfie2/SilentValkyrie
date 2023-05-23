@@ -122,7 +122,7 @@ public class PlutoStoneOreBlock extends SilentValkyrieModElements.ModElement {
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 16)).range(64)
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 8)).range(64)
 					.square().func_242731_b(3);
 			event.getRegistry().register(feature.setRegistryName("pluto_stone_ore"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("silent_valkyrie:pluto_stone_ore"), configuredFeature);

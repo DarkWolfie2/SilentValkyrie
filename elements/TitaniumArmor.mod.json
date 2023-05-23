@@ -3,17 +3,17 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "titanium_head",
+    "textureHelmet": "titaniumhelmet2",
     "enableBody": true,
-    "textureBody": "titanium_body",
+    "textureBody": "titaniumchestplate2",
     "enableLeggings": true,
-    "textureLeggings": "titanium_leggings",
+    "textureLeggings": "titaniumleggings2",
     "enableBoots": true,
-    "textureBoots": "titanium_boots",
+    "textureBoots": "titaniumboots2",
     "creativeTab": {
       "value": "CUSTOM:SilentValk"
     },
-    "armorTextureFile": "titanium",
+    "armorTextureFile": "titanium_",
     "helmetName": "Titanium Helmet",
     "bodyName": "Titanium Chestplate",
     "leggingsName": "Titanium Leggings",
