@@ -83,6 +83,12 @@ public class SilentValkyrieModElements {
 				new net.minecraft.util.SoundEvent(new ResourceLocation("silent_valkyrie", "whatcanyouseeintheireyes")));
 		sounds.put(new ResourceLocation("silent_valkyrie", "yhwachtheme"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("silent_valkyrie", "yhwachtheme")));
+		sounds.put(new ResourceLocation("silent_valkyrie", "fuck"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("silent_valkyrie", "fuck")));
+		sounds.put(new ResourceLocation("silent_valkyrie", "shit"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("silent_valkyrie", "shit")));
+		sounds.put(new ResourceLocation("silent_valkyrie", "sonofabitch"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("silent_valkyrie", "sonofabitch")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("silent_valkyrie").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

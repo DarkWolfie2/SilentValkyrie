@@ -3,7 +3,7 @@ package silent_valkyrie.entity;
 
 import silent_valkyrie.itemgroup.SilentValkAddonsItemGroup;
 
-import silent_valkyrie.item.SilentRedemptionMusicDiscItem;
+import silent_valkyrie.item.MoltenValkyriumItem;
 import silent_valkyrie.item.GraphiniumToolsSwordItem;
 
 import silent_valkyrie.entity.renderer.TheOneRenderer;
@@ -68,8 +68,6 @@ public class TheOneEntity extends SilentValkyrieModElements.ModElement {
 	@SubscribeEvent
 	public void addFeatureToBiomes(BiomeLoadingEvent event) {
 		boolean biomeCriteria = false;
-		if (new ResourceLocation("silent_valkyrie:pluto_biome").equals(event.getName()))
-			biomeCriteria = true;
 		if (new ResourceLocation("silent_valkyrie:valkyrie_biome").equals(event.getName()))
 			biomeCriteria = true;
 		if (!biomeCriteria)
@@ -106,7 +104,6 @@ public class TheOneEntity extends SilentValkyrieModElements.ModElement {
 			experienceValue = 250;
 			setNoAI(false);
 			this.setItemStackToSlot(EquipmentSlotType.MAINHAND, new ItemStack(GraphiniumToolsSwordItem.block));
-			this.setItemStackToSlot(EquipmentSlotType.OFFHAND, new ItemStack(GraphiniumToolsSwordItem.block));
 		}
 
 		@Override
@@ -136,7 +133,7 @@ public class TheOneEntity extends SilentValkyrieModElements.ModElement {
 
 		protected void dropSpecialItems(DamageSource source, int looting, boolean recentlyHitIn) {
 			super.dropSpecialItems(source, looting, recentlyHitIn);
-			this.entityDropItem(new ItemStack(SilentRedemptionMusicDiscItem.block));
+			this.entityDropItem(new ItemStack(MoltenValkyriumItem.block));
 		}
 
 		@Override

@@ -3,17 +3,17 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "demonwolf_head",
+    "textureHelmet": "demonwolfhelmet2",
     "enableBody": true,
-    "textureBody": "demonwolf_body",
+    "textureBody": "demonwolfchestplate2",
     "enableLeggings": true,
-    "textureLeggings": "demonwolf_leggings",
+    "textureLeggings": "demonwolfleggings2",
     "enableBoots": true,
-    "textureBoots": "demonwolf_boots",
+    "textureBoots": "demonwolfboots2",
     "creativeTab": {
       "value": "CUSTOM:SilentValk"
     },
-    "armorTextureFile": "demonwolf",
+    "armorTextureFile": "demonwolf_",
     "helmetName": "DemonWolf Helmet",
     "bodyName": "DemonWolf Chestplate",
     "leggingsName": "DemonWolf Leggings",

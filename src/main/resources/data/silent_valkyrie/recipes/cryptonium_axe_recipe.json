@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "silent_valkyrie:huskyrium_axe"
+    "item": "silent_valkyrie:pluto_stone_axe"
   },
   "addition": {
     "item": "silent_valkyrie:cryptonium"

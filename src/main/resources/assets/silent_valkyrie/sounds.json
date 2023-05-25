@@ -169,5 +169,32 @@
         "stream": false
       }
     ]
+  },
+  "fuck": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:hit1",
+        "stream": false
+      }
+    ]
+  },
+  "shit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:hit2",
+        "stream": false
+      }
+    ]
+  },
+  "sonofabitch": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silent_valkyrie:hit3",
+        "stream": false
+      }
+    ]
   }
 }

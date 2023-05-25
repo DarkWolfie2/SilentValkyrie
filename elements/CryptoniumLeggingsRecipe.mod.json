@@ -9,7 +9,7 @@
     "group": "",
     "recipeShapeless": false,
     "smithingInputStack": {
-      "value": "CUSTOM:HuskyriumArmor.legs"
+      "value": "CUSTOM:PlutoStoneArmor.legs"
     },
     "smithingInputAdditionStack": {
       "value": "CUSTOM:Cryptonium"

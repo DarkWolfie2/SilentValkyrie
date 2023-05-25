@@ -30,7 +30,7 @@
       "value": "CUSTOM:GraphiniumToolsSword"
     },
     "equipmentOffHand": {
-      "value": "CUSTOM:GraphiniumToolsSword"
+      "value": ""
     },
     "equipmentHelmet": {
       "value": ""
@@ -78,7 +78,7 @@
     "immuneToWither": false,
     "immuneToDragonBreath": false,
     "mobDrop": {
-      "value": "CUSTOM:SilentRedemptionMusicDisc"
+      "value": "CUSTOM:MoltenValkyrium"
     },
     "livingSound": {
       "value": ""
@@ -117,9 +117,6 @@
     "minNumberOfMobsPerGroup": 1,
     "maxNumberOfMobsPerGroup": 2,
     "restrictionBiomes": [
-      {
-        "value": "CUSTOM:PlutoBiome"
-      },
       {
         "value": "CUSTOM:ValkyrieBiome"
       }

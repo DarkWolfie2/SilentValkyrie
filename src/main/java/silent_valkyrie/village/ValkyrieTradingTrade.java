@@ -5,10 +5,12 @@ import silent_valkyrie.item.ValkyriumSwordItem;
 import silent_valkyrie.item.ValkyriumItem;
 import silent_valkyrie.item.ValkyrieItem;
 import silent_valkyrie.item.TitaniumSwordItem;
+import silent_valkyrie.item.TitaniumIngotItem;
 import silent_valkyrie.item.PlutoStoneSwordItem;
 import silent_valkyrie.item.PlutoStoneItem;
 import silent_valkyrie.item.HardenedValkyriumItem;
 import silent_valkyrie.item.HardenedPlutoSteelItem;
+import silent_valkyrie.item.GraphiniumItem;
 import silent_valkyrie.item.GraphiniumArmorArmorItem;
 import silent_valkyrie.item.CryptoniumAxeItem;
 
@@ -34,7 +36,11 @@ public class ValkyrieTradingTrade {
 		event.getGenericTrades().add(new BasicTrade(new ItemStack(PlutoStoneItem.block, (int) (45)), new ItemStack(Items.DIAMOND, (int) (45)),
 				new ItemStack(ValkyrieItem.block), 1, 100, 0.05f));
 		event.getGenericTrades()
-				.add(new BasicTrade(new ItemStack(Items.DIAMOND, (int) (45)), new ItemStack(HardenedValkyriumItem.block, (int) (40)), 10, 5, 0.05f));
+				.add(new BasicTrade(new ItemStack(Items.DIAMOND, (int) (45)), new ItemStack(HardenedValkyriumItem.block, (int) (40)), 10, 50, 0.05f));
+		event.getGenericTrades().add(
+				new BasicTrade(new ItemStack(Items.NETHERITE_INGOT, (int) (15)), new ItemStack(TitaniumIngotItem.block, (int) (5)), 10, 70, 0.05f));
+		event.getGenericTrades()
+				.add(new BasicTrade(new ItemStack(Items.EMERALD, (int) (20)), new ItemStack(GraphiniumItem.block, (int) (6)), 10, 5, 0.05f));
 	}
 
 	@SubscribeEvent
@@ -59,7 +65,8 @@ public class ValkyrieTradingTrade {
 					new ItemStack(TitaniumSwordItem.block), 10, 40, 0.05f));
 		}
 		if (event.getType() == VillagerProfession.TOOLSMITH) {
-			trades.get(1).add(new BasicTrade(new ItemStack(Items.EMERALD, (int) (15)), new ItemStack(CryptoniumAxeItem.block), 10, 5, 0.05f));
+			trades.get(1).add(new BasicTrade(new ItemStack(Items.EMERALD, (int) (15)), new ItemStack(CryptoniumAxeItem.block), 10, 30, 0.05f));
+			trades.get(1).add(new BasicTrade(new ItemStack(Items.EMERALD, (int) (20)), new ItemStack(TitaniumSwordItem.block), 10, 60, 0.05f));
 		}
 	}
 }
