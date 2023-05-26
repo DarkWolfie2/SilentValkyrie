@@ -1,0 +1,7 @@
+.gradle
+.mcreator
+.settings
+build
+run
+./send_to_github.bat
+./.gitignore

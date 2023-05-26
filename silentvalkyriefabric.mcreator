@@ -1,0 +1,41 @@
+{
+  "mod_elements": [
+    {
+      "name": "SilentValkyrieItems",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silent_valkyrie_items"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.silentvalkyriefabric.silent_valkyrie_items": "Silent Valkyrie Items"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "silentvalkyriefabric",
+    "modName": "SilentValkyrieFabric",
+    "version": "1.0.0",
+    "author": "Silent Experience, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.19.2",
+    "modElementsPackage": "net.mcreator.silentvalkyriefabric",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200345616
+}

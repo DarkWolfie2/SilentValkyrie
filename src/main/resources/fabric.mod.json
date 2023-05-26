@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "silentvalkyriefabric",
+  "version": "1.0.0",
+  "name": "SilentValkyrieFabric",
+  "authors": [
+    "Silent Experience, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "Academic Free License v3.0",
+  "accessWidener": "silentvalkyriefabric.accesswidener",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.silentvalkyriefabric.SilentvalkyriefabricMod"
+    ],
+    "client": [
+      "net.mcreator.silentvalkyriefabric.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}
