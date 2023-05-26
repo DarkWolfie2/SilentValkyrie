@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "silentvalkyrieremaster:hardened_valkyrium"
+    },
+    "1": {
+      "item": "silentvalkyrieremaster:hardened_valkyrium"
+    },
+    "2": {
+      "item": "silentvalkyrieremaster:hardened_valkyrium"
+    },
+    "3": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "4": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "5": {
+      "item": "silentvalkyrieremaster:hardened_valkyrium"
+    },
+    "7": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "8": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:valkyrium_ingot",
+    "count": 1
+  }
+}

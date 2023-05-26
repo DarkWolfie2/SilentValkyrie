@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "valkyriumsword",
+    "customModelName": "Normal",
+    "name": "Valkyrium Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkyrieItems"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 17.0,
+    "attackSpeed": 2.5,
+    "enchantability": 19,
+    "damageVsEntity": 16.0,
+    "usageCount": 6039,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:ValkyriumIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

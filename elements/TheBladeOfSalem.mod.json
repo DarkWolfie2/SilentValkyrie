@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "salemblade",
+    "customModelName": "Normal",
+    "name": "The Blade Of Salem",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkyrieItems"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 15,
+    "efficiency": 25.0,
+    "attackSpeed": 4.0,
+    "enchantability": 70,
+    "damageVsEntity": 100.0,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:ValkyriumIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

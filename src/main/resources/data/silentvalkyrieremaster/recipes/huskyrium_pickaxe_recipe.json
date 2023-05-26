@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "silentvalkyrieremaster:huskyrium"
+    },
+    "1": {
+      "item": "silentvalkyrieremaster:huskyrium"
+    },
+    "2": {
+      "item": "silentvalkyrieremaster:huskyrium"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:huskyrium_pickaxe",
+    "count": 1
+  }
+}

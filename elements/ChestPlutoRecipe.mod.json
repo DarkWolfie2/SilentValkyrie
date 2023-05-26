@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PlutoPlanks"
+      },
+      {
+        "value": "CUSTOM:PlutoPlanks"
+      },
+      {
+        "value": "CUSTOM:PlutoPlanks"
+      },
+      {
+        "value": "CUSTOM:PlutoPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PlutoPlanks"
+      },
+      {
+        "value": "CUSTOM:PlutoPlanks"
+      },
+      {
+        "value": "CUSTOM:PlutoPlanks"
+      },
+      {
+        "value": "CUSTOM:PlutoPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.CHEST"
+    },
+    "name": "chest_pluto_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "silentvalkyrieremaster:huskyrium_block"
+    }
+  ],
+  "result": {
+    "item": "silentvalkyrieremaster:huskyrium",
+    "count": 9
+  }
+}

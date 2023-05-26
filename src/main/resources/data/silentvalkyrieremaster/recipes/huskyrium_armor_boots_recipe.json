@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "silentvalkyrieremaster:huskyrium"
+    },
+    "2": {
+      "item": "silentvalkyrieremaster:huskyrium"
+    },
+    "3": {
+      "item": "silentvalkyrieremaster:huskyrium"
+    },
+    "5": {
+      "item": "silentvalkyrieremaster:huskyrium"
+    }
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:huskyrium_armor_boots",
+    "count": 1
+  }
+}

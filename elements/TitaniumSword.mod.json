@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "titanium_sword",
+    "customModelName": "Normal",
+    "name": "Titanium Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkyrieItems"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 20.0,
+    "attackSpeed": 3.0,
+    "enchantability": 25,
+    "damageVsEntity": 21.0,
+    "usageCount": 6039,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:TitaniumIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

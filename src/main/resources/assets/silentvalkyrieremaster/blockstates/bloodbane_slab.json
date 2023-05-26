@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "silentvalkyrieremaster:block/bloodbane_slab"
+    },
+    "type=top": {
+      "model": "silentvalkyrieremaster:block/bloodbane_slab_top"
+    },
+    "type=double": {
+      "model": "silentvalkyrieremaster:block/bloodbane_slab_full"
+    }
+  }
+}

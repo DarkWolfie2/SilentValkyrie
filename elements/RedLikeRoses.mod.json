@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Red Like Roses (Silent's Mix)",
+    "texture": "redlikerosesmusicdisc",
+    "description": "This is an Exclusive Music Disc From the RWBY Vol. 1 Soundtrack!",
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkyrieMisc"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:redlikeroses"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

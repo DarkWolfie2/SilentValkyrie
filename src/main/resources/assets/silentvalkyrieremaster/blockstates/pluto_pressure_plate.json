@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "silentvalkyrieremaster:block/pluto_pressure_plate"
+    },
+    "powered=true": {
+      "model": "silentvalkyrieremaster:block/pluto_pressure_plate_down"
+    }
+  }
+}

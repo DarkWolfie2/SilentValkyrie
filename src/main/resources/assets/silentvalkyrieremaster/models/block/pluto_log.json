@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "silentvalkyrieremaster:blocks/pluto_log_top",
+    "up": "silentvalkyrieremaster:blocks/pluto_log_top",
+    "north": "silentvalkyrieremaster:blocks/pluto_log_side",
+    "east": "silentvalkyrieremaster:blocks/pluto_log_side",
+    "south": "silentvalkyrieremaster:blocks/pluto_log_side",
+    "west": "silentvalkyrieremaster:blocks/pluto_log_side",
+    "particle": "silentvalkyrieremaster:blocks/pluto_log_top"
+  }
+}

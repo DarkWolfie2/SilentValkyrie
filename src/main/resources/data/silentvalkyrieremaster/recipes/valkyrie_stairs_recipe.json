@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "silentvalkyrieremaster:valkyrie_planks"
+    },
+    "3": {
+      "item": "silentvalkyrieremaster:valkyrie_planks"
+    },
+    "4": {
+      "item": "silentvalkyrieremaster:valkyrie_planks"
+    },
+    "6": {
+      "item": "silentvalkyrieremaster:valkyrie_planks"
+    },
+    "7": {
+      "item": "silentvalkyrieremaster:valkyrie_planks"
+    },
+    "8": {
+      "item": "silentvalkyrieremaster:valkyrie_planks"
+    }
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:valkyrie_stairs",
+    "count": 4
+  }
+}

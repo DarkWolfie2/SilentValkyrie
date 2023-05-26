@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "huskyriumsword",
+    "customModelName": "Normal",
+    "name": "Huskyrium Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkyrieItems"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 13.0,
+    "attackSpeed": 4.0,
+    "enchantability": 15,
+    "damageVsEntity": 15.0,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Huskyrium"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 3.15,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:ValkyriumOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:MoltenValkyrium"
+    },
+    "name": "valkyrium_ore_smelting",
+    "namespace": "mod"
+  }
+}

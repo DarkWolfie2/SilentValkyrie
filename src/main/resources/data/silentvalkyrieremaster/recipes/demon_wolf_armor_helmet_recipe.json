@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "silentvalkyrieremaster:pluto_stone_armor_helmet"
+  },
+  "addition": {
+    "item": "silentvalkyrieremaster:demon_wolf"
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:demon_wolf_armor_helmet"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "silentvalkyrieremaster:blocks/blooddustore2",
+    "up": "silentvalkyrieremaster:blocks/blooddustore2",
+    "north": "silentvalkyrieremaster:blocks/blooddustore2",
+    "east": "silentvalkyrieremaster:blocks/blooddustore2",
+    "south": "silentvalkyrieremaster:blocks/blooddustore2",
+    "west": "silentvalkyrieremaster:blocks/blooddustore2",
+    "particle": "silentvalkyrieremaster:blocks/blooddustore2"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "plutostonesword",
+    "customModelName": "Normal",
+    "name": "PlutoSteel Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkyrieItems"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 15.0,
+    "attackSpeed": 1.7,
+    "enchantability": 17,
+    "damageVsEntity": 6.25,
+    "usageCount": 2048,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PlutoStoneIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

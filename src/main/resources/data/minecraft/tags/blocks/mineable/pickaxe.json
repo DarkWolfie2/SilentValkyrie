@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "silentvalkyrieremaster:pluto_stone_ore",
+    "silentvalkyrieremaster:pluto_stone_block",
+    "silentvalkyrieremaster:valkyrium_ore",
+    "silentvalkyrieremaster:deepslate_valkyrium_ore",
+    "silentvalkyrieremaster:valkyrium_block",
+    "silentvalkyrieremaster:huskyrium_ore",
+    "silentvalkyrieremaster:deepslate_huskyrium_ore",
+    "silentvalkyrieremaster:huskyrium_block",
+    "silentvalkyrieremaster:graphinium_ore",
+    "silentvalkyrieremaster:deepslate_graphinium_ore",
+    "silentvalkyrieremaster:graphinium_block",
+    "silentvalkyrieremaster:cryptonium_ore",
+    "silentvalkyrieremaster:deepslate_cryptonium",
+    "silentvalkyrieremaster:cryptonium_block",
+    "silentvalkyrieremaster:demon_wolf_ore",
+    "silentvalkyrieremaster:deepslate_demon_wolf_ore",
+    "silentvalkyrieremaster:demon_wolf_block",
+    "silentvalkyrieremaster:blood_ore",
+    "silentvalkyrieremaster:deepslate_blood_ore",
+    "silentvalkyrieremaster:blood_block",
+    "silentvalkyrieremaster:titanium_ore",
+    "silentvalkyrieremaster:deepslate_titanium_ore",
+    "silentvalkyrieremaster:titanium_block"
+  ]
+}

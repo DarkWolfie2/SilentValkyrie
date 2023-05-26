@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "silentvalkyrieremaster:graphinium_ingot"
+    },
+    "1": {
+      "item": "silentvalkyrieremaster:graphinium_ingot"
+    },
+    "2": {
+      "item": "silentvalkyrieremaster:graphinium_ingot"
+    },
+    "3": {
+      "item": "silentvalkyrieremaster:graphinium_ingot"
+    },
+    "4": {
+      "item": "silentvalkyrieremaster:graphinium_ingot"
+    },
+    "5": {
+      "item": "silentvalkyrieremaster:graphinium_ingot"
+    },
+    "6": {
+      "item": "silentvalkyrieremaster:graphinium_ingot"
+    },
+    "7": {
+      "item": "silentvalkyrieremaster:graphinium_ingot"
+    },
+    "8": {
+      "item": "silentvalkyrieremaster:graphinium_ingot"
+    }
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:graphinium_block",
+    "count": 1
+  }
+}

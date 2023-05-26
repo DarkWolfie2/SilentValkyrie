@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "silentvalkyrieremaster:bloodbane_planks"
+    }
+  ],
+  "result": {
+    "item": "silentvalkyrieremaster:bloodbane_button",
+    "count": 1
+  }
+}

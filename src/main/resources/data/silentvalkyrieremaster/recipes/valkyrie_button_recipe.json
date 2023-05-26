@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "silentvalkyrieremaster:valkyrie_planks"
+    }
+  ],
+  "result": {
+    "item": "silentvalkyrieremaster:valkyrie_button",
+    "count": 1
+  }
+}

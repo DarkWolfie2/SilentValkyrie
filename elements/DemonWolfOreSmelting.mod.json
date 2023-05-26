@@ -1,0 +1,20 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 1.68,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:DemonWolfOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:DemonWolf"
+    },
+    "name": "demon_wolf_ore_smelting",
+    "namespace": "mod"
+  }
+}

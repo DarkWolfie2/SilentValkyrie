@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "silentvalkyrieremaster:valkyrium_sword"
+  },
+  "addition": {
+    "item": "silentvalkyrieremaster:titanium_ingot"
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:titanium_sword"
+  }
+}

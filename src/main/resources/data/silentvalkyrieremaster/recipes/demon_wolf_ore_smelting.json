@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 1.68,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "silentvalkyrieremaster:demon_wolf_ore"
+  },
+  "result": "silentvalkyrieremaster:demon_wolf"
+}

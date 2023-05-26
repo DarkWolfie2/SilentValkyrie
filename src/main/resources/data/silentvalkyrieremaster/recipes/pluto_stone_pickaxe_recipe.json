@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "addition": {
+    "item": "silentvalkyrieremaster:pluto_stone_ingot"
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:pluto_stone_pickaxe"
+  }
+}

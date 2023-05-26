@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "valkyriumhelmet2",
+    "enableBody": true,
+    "textureBody": "valkyriumchestplate2",
+    "enableLeggings": true,
+    "textureLeggings": "valkyriumleggings2",
+    "enableBoots": true,
+    "textureBoots": "valkyriumboots2",
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkyrieItems"
+    },
+    "armorTextureFile": "valkyrium_",
+    "helmetName": "Valkyrium Helmet",
+    "bodyName": "Valkyrium Chestplate",
+    "leggingsName": "Valkyrium Leggings",
+    "bootsName": "Valkyrium Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 25,
+    "damageValueHelmet": 5,
+    "damageValueBody": 11,
+    "damageValueLeggings": 9,
+    "damageValueBoots": 4,
+    "enchantability": 35,
+    "toughness": 2.0,
+    "knockbackResistance": 0.5,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:ValkyriumIngot"
+      }
+    ]
+  }
+}

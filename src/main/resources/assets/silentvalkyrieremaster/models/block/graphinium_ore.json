@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "silentvalkyrieremaster:blocks/graphiniumore",
+    "particle": "silentvalkyrieremaster:blocks/graphiniumore"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "silentvalkyrieremaster:blocks/bloodbane_planks",
+    "particle": "silentvalkyrieremaster:blocks/bloodbane_planks"
+  }
+}

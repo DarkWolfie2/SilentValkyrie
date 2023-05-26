@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "silentvalkyrieremaster:blocks/pluto_planks",
+    "particle": "silentvalkyrieremaster:blocks/pluto_planks"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "_fv": 34,
+  "_type": "livingentity",
+  "definition": {
+    "mobName": "Silent Valkyrie",
+    "mobLabel": "",
+    "mobModelName": "Biped",
+    "mobModelTexture": "emo_silent_iii.png",
+    "mobModelGlowTexture": "",
+    "modelWidth": 0.6,
+    "modelHeight": 1.8,
+    "modelShadowSize": 0.5,
+    "mountedYOffset": 0.0,
+    "hasSpawnEgg": true,
+    "spawnEggBaseColor": {
+      "value": -6750055,
+      "falpha": 0.0
+    },
+    "spawnEggDotColor": {
+      "value": -3407668,
+      "falpha": 0.0
+    },
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkyrieMisc"
+    },
+    "isBoss": false,
+    "bossBarColor": "PINK",
+    "bossBarType": "PROGRESS",
+    "equipmentMainHand": {
+      "value": "CUSTOM:ValkyriumSword"
+    },
+    "equipmentOffHand": {
+      "value": "Items.SHIELD"
+    },
+    "equipmentHelmet": {
+      "value": "Items.NETHERITE_HELMET"
+    },
+    "equipmentBody": {
+      "value": "Items.NETHERITE_CHESTPLATE"
+    },
+    "equipmentLeggings": {
+      "value": "Items.NETHERITE_LEGGINGS"
+    },
+    "equipmentBoots": {
+      "value": "Items.NETHERITE_BOOTS"
+    },
+    "mobBehaviourType": "Mob",
+    "mobCreatureType": "UNDEFINED",
+    "attackStrength": 5,
+    "attackKnockback": 4.0,
+    "knockbackResistance": 2.0,
+    "movementSpeed": 0.3,
+    "armorBaseValue": 4.0,
+    "trackingRange": 64,
+    "followRange": 16,
+    "health": 250,
+    "xpAmount": 300,
+    "waterMob": false,
+    "flyingMob": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "disableCollisions": false,
+    "ridable": false,
+    "canControlForward": false,
+    "canControlStrafe": false,
+    "immuneToFire": true,
+    "immuneToArrows": true,
+    "immuneToFallDamage": true,
+    "immuneToCactus": true,
+    "immuneToDrowning": true,
+    "immuneToLightning": true,
+    "immuneToPotions": true,
+    "immuneToPlayer": false,
+    "immuneToExplosion": true,
+    "immuneToTrident": true,
+    "immuneToAnvil": true,
+    "immuneToWither": true,
+    "immuneToDragonBreath": true,
+    "mobDrop": {
+      "value": "CUSTOM:ValkyriumIngot"
+    },
+    "livingSound": {
+      "value": "entity.piglin.ambient"
+    },
+    "hurtSound": {
+      "value": "entity.wither.hurt"
+    },
+    "deathSound": {
+      "value": "entity.enderdragon.death"
+    },
+    "stepSound": {
+      "value": "entity.zoglin.step"
+    },
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
+    "hasAI": true,
+    "aiBase": "(none)",
+    "aixml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"aitasks_container\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"attack_on_collide\"><field name=\"speed\">1.2</field><field name=\"longmemory\">FALSE</field><field name=\"condition\">null,null</field><next><block type=\"wander\"><field name=\"speed\">1</field><field name=\"condition\">null,null</field><next><block type=\"attack_action\"><field name=\"callhelp\">FALSE</field><field name=\"condition\">null,null</field><next><block type=\"look_around\"><field name=\"condition\">null,null</field><next><block type=\"swim_in_water\"><field name=\"condition\">null,null</field></block></next></block></next></block></next></block></next></block></next></block></xml>",
+    "breedable": false,
+    "tameable": false,
+    "breedTriggerItems": [],
+    "ranged": false,
+    "rangedAttackItem": {
+      "value": ""
+    },
+    "rangedItemType": "Default item",
+    "spawnThisMob": true,
+    "doesDespawnWhenIdle": true,
+    "spawningProbability": 20,
+    "mobSpawningType": "monster",
+    "minNumberOfMobsPerGroup": 4,
+    "maxNumberOfMobsPerGroup": 4,
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:ValkyrieBiome"
+      }
+    ],
+    "spawnInDungeons": false
+  }
+}

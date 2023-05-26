@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "silentvalkyrieremaster:blood_block"
+    }
+  ],
+  "result": {
+    "item": "silentvalkyrieremaster:blood_dust",
+    "count": 9
+  }
+}

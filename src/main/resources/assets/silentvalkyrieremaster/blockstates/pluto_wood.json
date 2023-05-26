@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "silentvalkyrieremaster:block/pluto_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "silentvalkyrieremaster:block/pluto_wood"
+    },
+    "axis=z": {
+      "model": "silentvalkyrieremaster:block/pluto_wood",
+      "x": 90
+    }
+  }
+}

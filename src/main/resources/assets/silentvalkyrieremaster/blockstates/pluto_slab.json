@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "silentvalkyrieremaster:block/pluto_slab"
+    },
+    "type=top": {
+      "model": "silentvalkyrieremaster:block/pluto_slab_top"
+    },
+    "type=double": {
+      "model": "silentvalkyrieremaster:block/pluto_slab_full"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "silentvalkyrieremaster:valkyrium_block"
+    }
+  ],
+  "result": {
+    "item": "silentvalkyrieremaster:valkyrium_ingot",
+    "count": 9
+  }
+}

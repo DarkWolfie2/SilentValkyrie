@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "silentvalkyrieremaster:bloodbane_log"
+    }
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:bloodbane_planks",
+    "count": 4
+  }
+}

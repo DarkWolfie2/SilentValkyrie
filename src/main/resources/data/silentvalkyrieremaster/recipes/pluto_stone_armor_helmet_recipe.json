@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_helmet"
+  },
+  "addition": {
+    "item": "silentvalkyrieremaster:pluto_stone_ingot"
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:pluto_stone_armor_helmet"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "silentvalkyrieremaster:blocks/valkyrie_planks",
+    "top": "silentvalkyrieremaster:blocks/valkyrie_planks",
+    "side": "silentvalkyrieremaster:blocks/valkyrie_planks"
+  }
+}

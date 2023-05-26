@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "silentvalkyrieremaster:valkyrie_planks"
+    },
+    "1": {
+      "item": "silentvalkyrieremaster:valkyrie_planks"
+    },
+    "2": {
+      "item": "silentvalkyrieremaster:valkyrie_planks"
+    }
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:valkyrie_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "BL_82 Music Disc",
+    "texture": "bl82musicdisc",
+    "description": "This music Disc is from the Bleach 5th Anniversary Music Box",
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkyrieMisc"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:bl82"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

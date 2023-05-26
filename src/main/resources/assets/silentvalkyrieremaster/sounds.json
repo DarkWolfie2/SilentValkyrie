@@ -1,0 +1,128 @@
+{
+  "regaliaambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silentvalkyrieremaster:regaliaambient",
+        "stream": false
+      }
+    ]
+  },
+  "regaliaambient2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silentvalkyrieremaster:regaliaambient2",
+        "stream": false
+      }
+    ]
+  },
+  "regaliastep": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silentvalkyrieremaster:step",
+        "stream": false
+      }
+    ]
+  },
+  "hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silentvalkyrieremaster:hurt",
+        "stream": false
+      }
+    ]
+  },
+  "death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silentvalkyrieremaster:death",
+        "stream": false
+      }
+    ]
+  },
+  "silentredemption": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silentvalkyrieremaster:silent_redemption_ii",
+        "stream": false
+      }
+    ]
+  },
+  "redlikeroses": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silentvalkyrieremaster:red_like_roses_silents_mix",
+        "stream": false
+      }
+    ]
+  },
+  "bl82": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silentvalkyrieremaster:i_have_no_name",
+        "stream": false
+      }
+    ]
+  },
+  "whatcanyouseeintheireyes": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silentvalkyrieremaster:what_can_you_see_in_their_eyes",
+        "stream": false
+      }
+    ]
+  },
+  "dreammanhunttheme": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silentvalkyrieremaster:dream_manhunt_theme",
+        "stream": false
+      }
+    ]
+  },
+  "yhwachtheme": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silentvalkyrieremaster:yhwach_theme",
+        "stream": false
+      }
+    ]
+  },
+  "sonofabitch": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "silentvalkyrieremaster:hit3",
+        "stream": false
+      }
+    ]
+  },
+  "fuck": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silentvalkyrieremaster:hit1",
+        "stream": false
+      }
+    ]
+  },
+  "shit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "silentvalkyrieremaster:hit2",
+        "stream": false
+      }
+    ]
+  }
+}

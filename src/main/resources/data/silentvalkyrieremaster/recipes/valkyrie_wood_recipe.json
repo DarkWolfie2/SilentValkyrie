@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "silentvalkyrieremaster:valkyrie_log"
+    },
+    "1": {
+      "item": "silentvalkyrieremaster:valkyrie_log"
+    },
+    "2": {
+      "item": "silentvalkyrieremaster:valkyrie_log"
+    },
+    "3": {
+      "item": "silentvalkyrieremaster:valkyrie_log"
+    }
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:valkyrie_wood",
+    "count": 3
+  }
+}

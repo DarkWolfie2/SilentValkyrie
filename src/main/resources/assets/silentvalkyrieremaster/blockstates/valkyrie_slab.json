@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "silentvalkyrieremaster:block/valkyrie_slab"
+    },
+    "type=top": {
+      "model": "silentvalkyrieremaster:block/valkyrie_slab_top"
+    },
+    "type=double": {
+      "model": "silentvalkyrieremaster:block/valkyrie_slab_full"
+    }
+  }
+}

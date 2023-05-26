@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "silentvalkyrieremaster:deepslate_graphinium_ore"
+  },
+  "result": "silentvalkyrieremaster:graphinium_ingot"
+}

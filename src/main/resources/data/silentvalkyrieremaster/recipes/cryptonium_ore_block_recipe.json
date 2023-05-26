@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "silentvalkyrieremaster:cryptonium"
+    },
+    "1": {
+      "item": "silentvalkyrieremaster:cryptonium"
+    },
+    "2": {
+      "item": "silentvalkyrieremaster:cryptonium"
+    },
+    "3": {
+      "item": "silentvalkyrieremaster:cryptonium"
+    },
+    "4": {
+      "item": "silentvalkyrieremaster:cryptonium"
+    },
+    "5": {
+      "item": "silentvalkyrieremaster:cryptonium"
+    },
+    "6": {
+      "item": "silentvalkyrieremaster:cryptonium"
+    },
+    "7": {
+      "item": "silentvalkyrieremaster:cryptonium"
+    },
+    "8": {
+      "item": "silentvalkyrieremaster:cryptonium"
+    }
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:cryptonium_block",
+    "count": 1
+  }
+}

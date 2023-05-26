@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "silentvalkyrieremaster:blocks/bloodbane_planks",
+    "top": "silentvalkyrieremaster:blocks/bloodbane_planks",
+    "side": "silentvalkyrieremaster:blocks/bloodbane_planks"
+  }
+}

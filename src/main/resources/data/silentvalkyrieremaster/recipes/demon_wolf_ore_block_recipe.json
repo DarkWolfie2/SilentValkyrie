@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "silentvalkyrieremaster:demon_wolf"
+    },
+    "1": {
+      "item": "silentvalkyrieremaster:demon_wolf"
+    },
+    "2": {
+      "item": "silentvalkyrieremaster:demon_wolf"
+    },
+    "3": {
+      "item": "silentvalkyrieremaster:demon_wolf"
+    },
+    "4": {
+      "item": "silentvalkyrieremaster:demon_wolf"
+    },
+    "5": {
+      "item": "silentvalkyrieremaster:demon_wolf"
+    },
+    "6": {
+      "item": "silentvalkyrieremaster:demon_wolf"
+    },
+    "7": {
+      "item": "silentvalkyrieremaster:demon_wolf"
+    },
+    "8": {
+      "item": "silentvalkyrieremaster:demon_wolf"
+    }
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:demon_wolf_block",
+    "count": 1
+  }
+}

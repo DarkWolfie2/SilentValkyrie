@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Yhwach Theme Bleach TYBW OST Music Disc",
+    "texture": "yhwachmusicdisc",
+    "description": "This Music Disc is From the Bleach TYBW OST",
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkyrieMisc"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:yhwachtheme"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

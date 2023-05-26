@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "silentvalkyrieremaster:pluto_stone_hoe"
+  },
+  "addition": {
+    "item": "silentvalkyrieremaster:cryptonium"
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:cryptonium_hoe"
+  }
+}

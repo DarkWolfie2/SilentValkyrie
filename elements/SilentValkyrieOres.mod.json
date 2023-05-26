@@ -1,0 +1,11 @@
+{
+  "_fv": 34,
+  "_type": "tab",
+  "definition": {
+    "name": "Silent Valkyrie Ores",
+    "icon": {
+      "value": "CUSTOM:DeepslatePlutoStoneOre"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "silentvalkyrieremaster:blocks/valkyriumore2",
+    "up": "silentvalkyrieremaster:blocks/valkyriumore2",
+    "north": "silentvalkyrieremaster:blocks/valkyriumore2",
+    "east": "silentvalkyrieremaster:blocks/valkyriumore2",
+    "south": "silentvalkyrieremaster:blocks/valkyriumore2",
+    "west": "silentvalkyrieremaster:blocks/valkyriumore2",
+    "particle": "silentvalkyrieremaster:blocks/valkyriumore2"
+  }
+}

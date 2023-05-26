@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "silentvalkyrieremaster:block/valkyrie_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "silentvalkyrieremaster:block/valkyrie_dimension_portal_ns"
+    }
+  }
+}

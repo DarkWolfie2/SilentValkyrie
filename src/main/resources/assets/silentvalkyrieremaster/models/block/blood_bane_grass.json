@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "silentvalkyrieremaster:blocks/valkyriedirt",
+    "up": "silentvalkyrieremaster:blocks/bloodbanegrass_top",
+    "north": "silentvalkyrieremaster:blocks/bloodbanegrass_side",
+    "east": "silentvalkyrieremaster:blocks/bloodbanegrass_side",
+    "south": "silentvalkyrieremaster:blocks/bloodbanegrass_side",
+    "west": "silentvalkyrieremaster:blocks/bloodbanegrass_side",
+    "particle": "silentvalkyrieremaster:blocks/valkyriedirt"
+  }
+}

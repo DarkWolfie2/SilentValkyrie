@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "silentvalkyrieremaster:valkyrie_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "silentvalkyrieremaster:valkyrie_planks"
+    },
+    "3": {
+      "item": "silentvalkyrieremaster:valkyrie_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "silentvalkyrieremaster:valkyrie_planks"
+    }
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:valkyrie_fence",
+    "count": 3
+  }
+}

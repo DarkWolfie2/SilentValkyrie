@@ -1,0 +1,45 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "opgodsword",
+    "customModelName": "Normal",
+    "name": "The OP God Sword",
+    "specialInfo": [
+      "This Sword is Forged By The God of this World"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkyrieItems"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 50,
+    "efficiency": 80.0,
+    "attackSpeed": 50.0,
+    "enchantability": 100,
+    "damageVsEntity": 1500.0,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.GOLDEN_APPLE#1"
+      },
+      {
+        "value": "Items.ENDER_EYE"
+      },
+      {
+        "value": "Items.BLAZE_ROD"
+      },
+      {
+        "value": "CUSTOM:GraphiniumIngot"
+      },
+      {
+        "value": "Items.SKULL#1"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

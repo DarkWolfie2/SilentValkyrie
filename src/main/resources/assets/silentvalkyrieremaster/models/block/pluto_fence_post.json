@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "silentvalkyrieremaster:blocks/pluto_planks",
+    "particle": "silentvalkyrieremaster:blocks/pluto_planks"
+  }
+}

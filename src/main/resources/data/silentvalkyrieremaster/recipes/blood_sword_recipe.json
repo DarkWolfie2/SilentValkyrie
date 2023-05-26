@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "silentvalkyrieremaster:blood_dust"
+    },
+    "1": {
+      "item": "silentvalkyrieremaster:blood_dust"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:blood_sword",
+    "count": 1
+  }
+}

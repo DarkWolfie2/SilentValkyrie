@@ -1,0 +1,23 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:ValkyriumShovel"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:TitaniumIngot"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:TitaniumShovel"
+    },
+    "name": "titanium_shovel_recipe",
+    "namespace": "mod"
+  }
+}

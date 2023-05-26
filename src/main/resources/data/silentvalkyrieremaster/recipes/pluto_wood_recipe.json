@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "silentvalkyrieremaster:pluto_log"
+    },
+    "1": {
+      "item": "silentvalkyrieremaster:pluto_log"
+    },
+    "2": {
+      "item": "silentvalkyrieremaster:pluto_log"
+    },
+    "3": {
+      "item": "silentvalkyrieremaster:pluto_log"
+    }
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:pluto_wood",
+    "count": 3
+  }
+}

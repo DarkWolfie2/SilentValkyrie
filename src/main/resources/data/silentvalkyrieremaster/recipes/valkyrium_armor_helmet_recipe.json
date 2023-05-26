@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "silentvalkyrieremaster:cryptonium_armor_helmet"
+  },
+  "addition": {
+    "item": "silentvalkyrieremaster:valkyrium_ingot"
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:valkyrium_armor_helmet"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "silentvalkyrieremaster:titanium_ingot"
+    },
+    "1": {
+      "item": "silentvalkyrieremaster:titanium_ingot"
+    },
+    "2": {
+      "item": "silentvalkyrieremaster:titanium_ingot"
+    },
+    "3": {
+      "item": "silentvalkyrieremaster:titanium_ingot"
+    },
+    "4": {
+      "item": "silentvalkyrieremaster:titanium_ingot"
+    },
+    "5": {
+      "item": "silentvalkyrieremaster:titanium_ingot"
+    },
+    "6": {
+      "item": "silentvalkyrieremaster:titanium_ingot"
+    },
+    "7": {
+      "item": "silentvalkyrieremaster:titanium_ingot"
+    },
+    "8": {
+      "item": "silentvalkyrieremaster:titanium_ingot"
+    }
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:titanium_block",
+    "count": 1
+  }
+}

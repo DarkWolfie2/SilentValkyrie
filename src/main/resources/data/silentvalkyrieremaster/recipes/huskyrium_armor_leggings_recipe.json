@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "silentvalkyrieremaster:huskyrium"
+    },
+    "1": {
+      "item": "silentvalkyrieremaster:huskyrium"
+    },
+    "2": {
+      "item": "silentvalkyrieremaster:huskyrium"
+    },
+    "3": {
+      "item": "silentvalkyrieremaster:huskyrium"
+    },
+    "5": {
+      "item": "silentvalkyrieremaster:huskyrium"
+    },
+    "6": {
+      "item": "silentvalkyrieremaster:huskyrium"
+    },
+    "8": {
+      "item": "silentvalkyrieremaster:huskyrium"
+    }
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:huskyrium_armor_leggings",
+    "count": 1
+  }
+}

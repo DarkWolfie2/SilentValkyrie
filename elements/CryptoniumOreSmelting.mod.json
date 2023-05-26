@@ -1,0 +1,20 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 2.03,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:CryptoniumOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Cryptonium"
+    },
+    "name": "cryptonium_ore_smelting",
+    "namespace": "mod"
+  }
+}

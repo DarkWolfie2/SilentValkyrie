@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "silentvalkyrieremaster:blood_dust"
+    },
+    "2": {
+      "item": "silentvalkyrieremaster:blood_dust"
+    },
+    "3": {
+      "item": "silentvalkyrieremaster:blood_dust"
+    },
+    "4": {
+      "item": "silentvalkyrieremaster:blood_dust"
+    },
+    "5": {
+      "item": "silentvalkyrieremaster:blood_dust"
+    },
+    "6": {
+      "item": "silentvalkyrieremaster:blood_dust"
+    },
+    "7": {
+      "item": "silentvalkyrieremaster:blood_dust"
+    },
+    "8": {
+      "item": "silentvalkyrieremaster:blood_dust"
+    }
+  },
+  "result": {
+    "item": "silentvalkyrieremaster:blood_armor_chestplate",
+    "count": 1
+  }
+}

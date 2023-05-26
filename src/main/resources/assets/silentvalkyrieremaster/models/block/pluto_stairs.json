@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "silentvalkyrieremaster:blocks/pluto_planks",
+    "top": "silentvalkyrieremaster:blocks/pluto_planks",
+    "side": "silentvalkyrieremaster:blocks/pluto_planks"
+  }
+}

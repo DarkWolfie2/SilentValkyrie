@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "silentvalkyrieremaster:blocks/demonwolfore2",
+    "up": "silentvalkyrieremaster:blocks/demonwolfore2",
+    "north": "silentvalkyrieremaster:blocks/demonwolfore2",
+    "east": "silentvalkyrieremaster:blocks/demonwolfore2",
+    "south": "silentvalkyrieremaster:blocks/demonwolfore2",
+    "west": "silentvalkyrieremaster:blocks/demonwolfore2",
+    "particle": "silentvalkyrieremaster:blocks/demonwolfore2"
+  }
+}

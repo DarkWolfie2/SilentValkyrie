@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Silent Redemption 2 Music Disc",
+    "texture": "silentredemptionmusicdisc",
+    "description": "This is an Exclusive Music Disc From the High Republic OST",
+    "creativeTab": {
+      "value": "CUSTOM:SilentValkyrieMisc"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:silentredemption"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}
