@@ -1,5 +1,6 @@
 package com.darkwolfie.silentvalkyrie;
 
+import com.darkwolfie.silentvalkyrie.item.ModCreativeTabs;
 import com.darkwolfie.silentvalkyrie.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
@@ -34,6 +35,8 @@ public class Main {
 
         ModItems.register(modEventBus);
 
+        ModCreativeTabs.register(modEventBus);
+
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
 
@@ -60,10 +63,10 @@ public class Main {
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event)
     {
-        if(event.getTabKey() == CreativeModeTabs.INGREDIENTS)
-        {
-            event.accept(ModItems.PlutoSteel);
-        }
+//        if(event.getTabKey() == CreativeModeTabs.INGREDIENTS)
+//        {
+//            event.accept(ModItems.PlutoSteel);
+//        }
     }
     // You can use SubscribeEvent and let the Event Bus discover methods to call
     @SubscribeEvent
