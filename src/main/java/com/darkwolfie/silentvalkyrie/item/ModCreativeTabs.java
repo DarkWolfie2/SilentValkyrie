@@ -1,6 +1,7 @@
 package com.darkwolfie.silentvalkyrie.item;
 
 import com.darkwolfie.silentvalkyrie.Main;
+import com.darkwolfie.silentvalkyrie.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -19,6 +20,9 @@ public class ModCreativeTabs {
                     .title(Component.translatable("creativetab.sv.ore_tab_thing_ig"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.PlutoSteel.get());
+                        pOutput.accept(ModItems.MOLTEN_PLUTOSTEEL.get());
+                        pOutput.accept(ModItems.HARDENED_PLUTOSTEEL.get());
+                        pOutput.accept(ModBlocks.plutosteel_ORE.get());
                     })
                     .build());
 

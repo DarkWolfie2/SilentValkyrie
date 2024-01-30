@@ -1,4 +1,10 @@
 {
+
     "item.silentvalkyrie.plutosteel": "PlutoSteel",
+    "item.silentvalkyrie.molten_plutosteel": "Molten PlutoSteel",
+    "item.silentvalkyrie.hardened_plutosteel": "Hardened PlutoSteel",
+
+    "block.silentvalkyrie.plutosteel_ore": "Plutosteel Ore",
+
     "creativetab.sv.ore_tab_thing_ig": "Ores IG"
 }

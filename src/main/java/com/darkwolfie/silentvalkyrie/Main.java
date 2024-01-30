@@ -1,5 +1,6 @@
 package com.darkwolfie.silentvalkyrie;
 
+import com.darkwolfie.silentvalkyrie.block.ModBlocks;
 import com.darkwolfie.silentvalkyrie.item.ModCreativeTabs;
 import com.darkwolfie.silentvalkyrie.item.ModItems;
 import com.mojang.logging.LogUtils;
@@ -34,6 +35,7 @@ public class Main {
         modEventBus.addListener(this::commonSetup);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         ModCreativeTabs.register(modEventBus);
 

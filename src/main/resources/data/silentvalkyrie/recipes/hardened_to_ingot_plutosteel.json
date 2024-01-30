@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "molten_to_hardened",
+  "ingredient": {
+    "item": "silentvalkyrie:hardened_plutosteel"
+  },
+  "result": "silentvalkyrie:plutosteel",
+  "experience": 10,
+  "cookingtime": 200
+}
