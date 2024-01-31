@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "ores_molten",
+  "ingredient": {
+    "item": "silentvalkyrie:deepslate_plutosteel_ore"
+  },
+  "result": "silentvalkyrie:hardened_plutosteel"
+}

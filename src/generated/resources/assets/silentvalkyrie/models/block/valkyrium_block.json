@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "silentvalkyrie:block/valkyrium_block"
+  }
+}

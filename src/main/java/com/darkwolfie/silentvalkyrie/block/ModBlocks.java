@@ -29,6 +29,15 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> Deepslate_plutosteel_ORE = registerBlock("deepslate_plutosteel_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(3f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> Deepslate_valkyrium_ORE = registerBlock("deepslate_valkyrium_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(3f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> valkyrium_ORE = registerBlock("valkyrium_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(3f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> valkyrium_block = registerBlock("valkyrium_block",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(3f).requiresCorrectToolForDrops()));
     public static final RegistryObject<Block> TestPortalBlock = registerBlock("testportalblock",
             () -> new TestPortalBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(3f).noCollission()));
 

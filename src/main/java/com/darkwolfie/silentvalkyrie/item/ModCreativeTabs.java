@@ -24,6 +24,9 @@ public class ModCreativeTabs {
                         pOutput.accept(ModItems.HARDENED_PLUTOSTEEL.get());
                         pOutput.accept(ModBlocks.plutosteel_ORE.get());
                         pOutput.accept(ModBlocks.Deepslate_plutosteel_ORE.get());
+                        pOutput.accept(ModBlocks.Deepslate_valkyrium_ORE.get());
+                        pOutput.accept(ModBlocks.valkyrium_block.get());
+                        pOutput.accept(ModBlocks.valkyrium_ORE.get());
                         pOutput.accept(ModBlocks.TestPortalBlock.get());
                     })
                     .build());

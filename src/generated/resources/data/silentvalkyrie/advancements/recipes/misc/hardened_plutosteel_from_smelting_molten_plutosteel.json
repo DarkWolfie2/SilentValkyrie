@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_molten_plutosteel": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "silentvalkyrie:molten_plutosteel"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "silentvalkyrie:hardened_plutosteel_from_smelting_molten_plutosteel"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_molten_plutosteel",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "silentvalkyrie:hardened_plutosteel_from_smelting_molten_plutosteel"
+    ]
+  },
+  "sends_telemetry_event": false
+}
