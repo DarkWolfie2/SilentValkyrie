@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_molten_valkyrium": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "silentvalkyrie:molten_valkyrium"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "silentvalkyrie:hardened_valkyrium_from_smelting_molten_valkyrium"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_molten_valkyrium",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "silentvalkyrie:hardened_valkyrium_from_smelting_molten_valkyrium"
+    ]
+  },
+  "sends_telemetry_event": false
+}

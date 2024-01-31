@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "silentvalkyrie:hardened_valkyrium_from_smelting_valkyrium_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_valkyrium_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "silentvalkyrie:valkyrium_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_valkyrium_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "silentvalkyrie:hardened_valkyrium_from_smelting_valkyrium_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

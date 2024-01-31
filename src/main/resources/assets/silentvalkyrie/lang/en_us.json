@@ -3,11 +3,17 @@
     "item.silentvalkyrie.plutosteel": "PlutoSteel",
     "item.silentvalkyrie.molten_plutosteel": "Molten PlutoSteel",
     "item.silentvalkyrie.hardened_plutosteel": "Hardened PlutoSteel",
+    "item.silentvalkyrie.valkyrium": "Valkyrium",
+    "item.silentvalkyrie.molten_valkyrium": "Molten Valkyrium",
+    "item.silentvalkyrie.hardened_valkyrium": "Hardened Valkyrium",
     "item.silentvalkyrie.testing_key": "A very fun Key :D",
 
 
     "block.silentvalkyrie.plutosteel_ore": "Plutosteel Ore",
     "block.silentvalkyrie.deepslate_plutosteel_ore": "Deepslate Plutosteel Ore",
+    "block.silentvalkyrie.valkyrium_ore": "Valkyrium Ore",
+    "block.silentvalkyrie.deepslate_valkyrium_ore": "Deepslate Valkyrium Ore",
+    "block.silentvalkyrie.valkyrium_block": "Block of Valkyrium",
     "block.silentvalkyrie.testportalblock": "A very Fun Testing Block",
 
     "creativetab.sv.ore_tab_thing_ig": "Ores IG"

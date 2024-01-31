@@ -20,6 +20,13 @@ public class ModItems {
     public static final RegistryObject<Item> HARDENED_PLUTOSTEEL = Items.register("hardened_plutosteel",
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> TestKey = Items.register("testing_key", () -> new TestPortakKeyItem(new Item.Properties().durability(100).rarity(Rarity.EPIC)));
+    public static final RegistryObject<Item> valkyrium = Items.register("valkyrium",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> MOLTEN_valkyrium = Items.register("molten_valkyrium",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> HARDENED_valkyrium = Items.register("hardened_valkyrium",
+            () -> new Item(new Item.Properties()));
+
 
     public static void register(IEventBus eventBus){
        Items.register(eventBus);

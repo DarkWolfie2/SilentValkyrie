@@ -21,6 +21,9 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.PlutoSteel);
         simpleItem(ModItems.MOLTEN_PLUTOSTEEL);
         simpleItem(ModItems.HARDENED_PLUTOSTEEL);
+        simpleItem(ModItems.valkyrium);
+        simpleItem(ModItems.MOLTEN_valkyrium);
+        simpleItem(ModItems.HARDENED_valkyrium);
 
 
     }

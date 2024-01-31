@@ -27,18 +27,15 @@ public class ModBlockLootTables extends BlockLootSubProvider {
     protected void generate() {
         this.dropSelf(ModBlocks.TestPortalBlock.get());
         this.dropSelf(ModBlocks.valkyrium_block.get());
-        this.dropSelf(ModBlocks.Deepslate_plutosteel_ORE.get());
-        this.dropSelf(ModBlocks.Deepslate_valkyrium_ORE.get());
-
 
         this.add(ModBlocks.plutosteel_ORE.get(),
                 block -> createOreDropsModded(ModBlocks.plutosteel_ORE.get(), ModItems.MOLTEN_PLUTOSTEEL.get()) );
         this.add(ModBlocks.Deepslate_plutosteel_ORE.get(),
                 block -> createDeepslateOreDropsModded(ModBlocks.Deepslate_plutosteel_ORE.get(), ModItems.MOLTEN_PLUTOSTEEL.get()) );
         this.add(ModBlocks.valkyrium_ORE.get(),
-                block -> createOreDropsModded(ModBlocks.valkyrium_ORE.get(), ModItems.MOLTEN_PLUTOSTEEL.get()) );
+                block -> createOreDropsModded(ModBlocks.valkyrium_ORE.get(), ModItems.MOLTEN_valkyrium.get()) );
         this.add(ModBlocks.Deepslate_valkyrium_ORE.get(),
-                block -> createDeepslateOreDropsModded(ModBlocks.Deepslate_valkyrium_ORE.get(), ModItems.MOLTEN_PLUTOSTEEL.get()) );
+                block -> createDeepslateOreDropsModded(ModBlocks.Deepslate_valkyrium_ORE.get(), ModItems.MOLTEN_valkyrium.get()) );
 
 
     }
