@@ -33,6 +33,9 @@ public class ModBlockStateProvider extends BlockStateProvider {
         blockWithItem(ModBlocks.cryptonium_block);
         blockWithItem(ModBlocks.cryptonium_ORE);
         blockWithItem(ModBlocks.Deepslate_cryptonium_ORE);
+        blockWithItem(ModBlocks.demonwolf_block);
+        blockWithItem(ModBlocks.demonwolf_ORE);
+        blockWithItem(ModBlocks.Deepslate_demonwolf_ORE);
 
 
     }

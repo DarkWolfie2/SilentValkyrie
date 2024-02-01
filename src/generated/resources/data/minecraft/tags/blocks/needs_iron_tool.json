@@ -5,6 +5,9 @@
     "silentvalkyrie:plutosteel_block",
     "silentvalkyrie:cryptonium_block",
     "silentvalkyrie:cryptonium_ore",
-    "silentvalkyrie:deepslate_cryptonium_ore"
+    "silentvalkyrie:deepslate_cryptonium_ore",
+    "silentvalkyrie:demonwolf_block",
+    "silentvalkyrie:demonwolf_ore",
+    "silentvalkyrie:deepslate_demonwolf_ore"
   ]
 }

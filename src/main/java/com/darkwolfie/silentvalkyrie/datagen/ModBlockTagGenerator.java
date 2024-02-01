@@ -41,7 +41,10 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
             ModBlocks.Deepslate_graphinium_ORE.get(),
             ModBlocks.cryptonium_block.get(),
             ModBlocks.cryptonium_ORE.get(),
-            ModBlocks.Deepslate_cryptonium_ORE.get()
+            ModBlocks.Deepslate_cryptonium_ORE.get(),
+                ModBlocks.demonwolf_block.get(),
+                ModBlocks.demonwolf_ORE.get(),
+                ModBlocks.Deepslate_demonwolf_ORE.get()
         );
         this.tag(BlockTags.NEEDS_DIAMOND_TOOL).add(
             ModBlocks.valkyrium_ORE.get(),
@@ -54,7 +57,10 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
             ModBlocks.plutosteel_block.get(),
             ModBlocks.cryptonium_block.get(),
             ModBlocks.cryptonium_ORE.get(),
-            ModBlocks.Deepslate_cryptonium_ORE.get());
+            ModBlocks.Deepslate_cryptonium_ORE.get(),
+            ModBlocks.demonwolf_block.get(),
+            ModBlocks.demonwolf_ORE.get(),
+            ModBlocks.Deepslate_demonwolf_ORE.get());
         this.tag(BlockTags.NEEDS_STONE_TOOL).add(
             ModBlocks.huskyrium_block.get(),
             ModBlocks.huskyrium_ORE.get(),

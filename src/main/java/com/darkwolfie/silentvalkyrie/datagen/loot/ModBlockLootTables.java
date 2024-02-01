@@ -31,6 +31,7 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         this.dropSelf(ModBlocks.huskyrium_block.get());
         this.dropSelf(ModBlocks.graphinium_block.get());
         this.dropSelf(ModBlocks.cryptonium_block.get());
+        this.dropSelf(ModBlocks.demonwolf_block.get());
 
         this.add(ModBlocks.plutosteel_ORE.get(),
                 block -> createOreDropsModded(ModBlocks.plutosteel_ORE.get(), ModItems.MOLTEN_PLUTOSTEEL.get()));
@@ -52,6 +53,10 @@ public class ModBlockLootTables extends BlockLootSubProvider {
                 block -> createOreDropsModded(ModBlocks.cryptonium_ORE.get(), ModItems.cryptonium.get()));
         this.add(ModBlocks.Deepslate_cryptonium_ORE.get(),
                 block -> createDeepslateOreDropsModded(ModBlocks.Deepslate_cryptonium_ORE.get(), ModItems.cryptonium.get()));
+        this.add(ModBlocks.demonwolf_ORE.get(),
+                block -> createOreDropsModded(ModBlocks.demonwolf_ORE.get(), ModItems.demonwolf.get()));
+        this.add(ModBlocks.Deepslate_demonwolf_ORE.get(),
+                block -> createDeepslateOreDropsModded(ModBlocks.Deepslate_cryptonium_ORE.get(), ModItems.demonwolf.get()));
 
 
     }

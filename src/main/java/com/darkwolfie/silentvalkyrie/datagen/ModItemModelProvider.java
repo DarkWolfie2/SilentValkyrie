@@ -31,7 +31,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.MOLTEN_graphinium);
         simpleItem(ModItems.HARDENED_graphinium);
         simpleItem(ModItems.cryptonium);
-
+        simpleItem(ModItems.demonwolf);
 
     }
 

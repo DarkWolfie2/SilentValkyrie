@@ -48,6 +48,10 @@ public class ModCreativeTabs {
                         pOutput.accept(ModBlocks.cryptonium_block.get());
                         pOutput.accept(ModBlocks.Deepslate_cryptonium_ORE.get());
                         pOutput.accept(ModBlocks.cryptonium_ORE.get());
+                        pOutput.accept(ModItems.demonwolf.get());
+                        pOutput.accept(ModBlocks.demonwolf_block.get());
+                        pOutput.accept(ModBlocks.Deepslate_demonwolf_ORE.get());
+                        pOutput.accept(ModBlocks.demonwolf_ORE.get());
                     })
                     .build());
 
