@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_graphinium_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "silentvalkyrie:graphinium_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "silentvalkyrie:hardened_graphinium_from_blasting_graphinium_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_graphinium_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "silentvalkyrie:hardened_graphinium_from_blasting_graphinium_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

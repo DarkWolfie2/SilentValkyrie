@@ -27,6 +27,9 @@ public class ModBlockStateProvider extends BlockStateProvider {
         blockWithItem(ModBlocks.huskyrium_block);
         blockWithItem(ModBlocks.huskyrium_ORE);
         blockWithItem(ModBlocks.Deepslate_huskyrium_ORE);
+        blockWithItem(ModBlocks.graphinium_block);
+        blockWithItem(ModBlocks.graphinium_ORE);
+        blockWithItem(ModBlocks.Deepslate_graphinium_ORE);
 
 
     }

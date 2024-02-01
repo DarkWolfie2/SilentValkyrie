@@ -2,6 +2,9 @@
   "values": [
     "silentvalkyrie:huskyrium_block",
     "silentvalkyrie:huskyrium_ore",
-    "silentvalkyrie:deepslate_huskyrium_ore"
+    "silentvalkyrie:deepslate_huskyrium_ore",
+    "silentvalkyrie:graphinium_block",
+    "silentvalkyrie:graphinium_ore",
+    "silentvalkyrie:deepslate_graphinium_ore"
   ]
 }

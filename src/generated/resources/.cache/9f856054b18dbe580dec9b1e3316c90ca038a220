@@ -1,8 +1,11 @@
-// 1.20.1	2024-02-01T08:38:59.6191001	Item Models: silentvalkyrie
+// 1.20.1	2024-02-01T09:26:02.3565497	Item Models: silentvalkyrie
+7488c0e1aa6ed297de73cb4f9feb23aa22724d70 assets/silentvalkyrie/models/item/graphinium.json
+d804e7231af4559b6d69b743aeb84e9a6c3168c7 assets/silentvalkyrie/models/item/hardened_graphinium.json
 9a88a42488c306b52a7a02412b7f37ee6dc5b01b assets/silentvalkyrie/models/item/hardened_huskyrium.json
 cc62b9728085e35d4e20c163901ffa0825952c37 assets/silentvalkyrie/models/item/hardened_plutosteel.json
 58eff7133066923759565f093275e337dbff915f assets/silentvalkyrie/models/item/hardened_valkyrium.json
 eefc9d433c6d0297ab8292d91a024ffcf2ba1c0c assets/silentvalkyrie/models/item/huskyrium.json
+1290676ae249a26e45349798f3a7c99d4afeadde assets/silentvalkyrie/models/item/molten_graphinium.json
 a98dd0d0ef87938e1d415aa4800304d6426e16f0 assets/silentvalkyrie/models/item/molten_huskyrium.json
 57cc982db12da79bb77f529143c9567b89caf5a0 assets/silentvalkyrie/models/item/molten_plutosteel.json
 ce4eb656fdbdc422871108c662520b85e5d69e48 assets/silentvalkyrie/models/item/molten_valkyrium.json

@@ -29,19 +29,24 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         this.dropSelf(ModBlocks.valkyrium_block.get());
         this.dropSelf(ModBlocks.plutosteel_block.get());
         this.dropSelf(ModBlocks.huskyrium_block.get());
+        this.dropSelf(ModBlocks.graphinium_block.get());
 
         this.add(ModBlocks.plutosteel_ORE.get(),
-                block -> createOreDropsModded(ModBlocks.plutosteel_ORE.get(), ModItems.MOLTEN_PLUTOSTEEL.get()) );
+                block -> createOreDropsModded(ModBlocks.plutosteel_ORE.get(), ModItems.MOLTEN_PLUTOSTEEL.get()));
         this.add(ModBlocks.Deepslate_plutosteel_ORE.get(),
-                block -> createDeepslateOreDropsModded(ModBlocks.Deepslate_plutosteel_ORE.get(), ModItems.MOLTEN_PLUTOSTEEL.get()) );
+                block -> createDeepslateOreDropsModded(ModBlocks.Deepslate_plutosteel_ORE.get(), ModItems.MOLTEN_PLUTOSTEEL.get()));
         this.add(ModBlocks.valkyrium_ORE.get(),
-                block -> createOreDropsModded(ModBlocks.valkyrium_ORE.get(), ModItems.MOLTEN_valkyrium.get()) );
+                block -> createOreDropsModded(ModBlocks.valkyrium_ORE.get(), ModItems.MOLTEN_valkyrium.get()));
         this.add(ModBlocks.Deepslate_valkyrium_ORE.get(),
-                block -> createDeepslateOreDropsModded(ModBlocks.Deepslate_valkyrium_ORE.get(), ModItems.MOLTEN_valkyrium.get()) );
+                block -> createDeepslateOreDropsModded(ModBlocks.Deepslate_valkyrium_ORE.get(), ModItems.MOLTEN_valkyrium.get()));
         this.add(ModBlocks.huskyrium_ORE.get(),
-                block -> createOreDropsModded(ModBlocks.huskyrium_ORE.get(), ModItems.MOLTEN_huskyrium.get()) );
+                block -> createOreDropsModded(ModBlocks.huskyrium_ORE.get(), ModItems.MOLTEN_huskyrium.get()));
         this.add(ModBlocks.Deepslate_huskyrium_ORE.get(),
-                block -> createOreDropsModded(ModBlocks.Deepslate_huskyrium_ORE.get(), ModItems.MOLTEN_huskyrium.get()) );
+                block -> createOreDropsModded(ModBlocks.Deepslate_huskyrium_ORE.get(), ModItems.MOLTEN_huskyrium.get()));
+        this.add(ModBlocks.graphinium_ORE.get(),
+                block -> createOreDropsModded(ModBlocks.graphinium_ORE.get(), ModItems.MOLTEN_graphinium.get()));
+        this.add(ModBlocks.Deepslate_graphinium_ORE.get(),
+                block -> createOreDropsModded(ModBlocks.Deepslate_graphinium_ORE.get(), ModItems.MOLTEN_graphinium.get()));
 
 
     }

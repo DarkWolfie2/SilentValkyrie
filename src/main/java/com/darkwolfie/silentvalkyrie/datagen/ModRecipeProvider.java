@@ -23,6 +23,8 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
 
     private static final List<ItemLike> ORE_huskyrium = List.of(ModItems.MOLTEN_huskyrium.get(),
     ModBlocks.huskyrium_ORE.get(), ModBlocks.Deepslate_huskyrium_ORE.get());
+    private static final List<ItemLike> ORE_graphinium = List.of(ModItems.MOLTEN_graphinium.get(),
+    ModBlocks.graphinium_ORE.get(), ModBlocks.Deepslate_graphinium_ORE.get());
 
 
     public ModRecipeProvider(PackOutput pOutput) {
@@ -37,6 +39,8 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
         oreSmelting(pWriter, ORE_VAL, RecipeCategory.MISC, ModItems.HARDENED_valkyrium.get(), 0.25f, 100, "ores_molten");
         oreBlasting(pWriter, ORE_huskyrium, RecipeCategory.MISC, ModItems.HARDENED_huskyrium.get(), 0.25f, 100, "ores_molten");
         oreSmelting(pWriter, ORE_huskyrium, RecipeCategory.MISC, ModItems.HARDENED_huskyrium.get(), 0.25f, 100, "ores_molten");
+        oreBlasting(pWriter, ORE_graphinium, RecipeCategory.MISC, ModItems.HARDENED_graphinium.get(), 0.25f, 100, "ores_molten");
+        oreSmelting(pWriter, ORE_graphinium, RecipeCategory.MISC, ModItems.HARDENED_graphinium.get(), 0.25f, 100, "ores_molten");
 
         ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModBlocks.valkyrium_block.get())
                 .pattern("SSS")

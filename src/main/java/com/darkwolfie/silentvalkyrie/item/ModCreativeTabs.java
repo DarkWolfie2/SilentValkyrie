@@ -22,12 +22,28 @@ public class ModCreativeTabs {
                         pOutput.accept(ModItems.PlutoSteel.get());
                         pOutput.accept(ModItems.MOLTEN_PLUTOSTEEL.get());
                         pOutput.accept(ModItems.HARDENED_PLUTOSTEEL.get());
+                        pOutput.accept(ModBlocks.plutosteel_block.get());
                         pOutput.accept(ModBlocks.plutosteel_ORE.get());
                         pOutput.accept(ModBlocks.Deepslate_plutosteel_ORE.get());
+                        pOutput.accept(ModItems.valkyrium.get());
+                        pOutput.accept(ModItems.MOLTEN_valkyrium.get());
+                        pOutput.accept(ModItems.HARDENED_valkyrium.get());
                         pOutput.accept(ModBlocks.Deepslate_valkyrium_ORE.get());
-                        pOutput.accept(ModBlocks.valkyrium_block.get());
                         pOutput.accept(ModBlocks.valkyrium_ORE.get());
+                        pOutput.accept(ModBlocks.valkyrium_block.get());
                         pOutput.accept(ModBlocks.TestPortalBlock.get());
+                        pOutput.accept(ModItems.huskyrium.get());
+                        pOutput.accept(ModItems.MOLTEN_huskyrium.get());
+                        pOutput.accept(ModItems.HARDENED_huskyrium.get());
+                        pOutput.accept(ModBlocks.huskyrium_block.get());
+                        pOutput.accept(ModBlocks.Deepslate_huskyrium_ORE.get());
+                        pOutput.accept(ModBlocks.huskyrium_ORE.get());
+                        pOutput.accept(ModItems.graphinium.get());
+                        pOutput.accept(ModItems.MOLTEN_graphinium.get());
+                        pOutput.accept(ModItems.HARDENED_graphinium.get());
+                        pOutput.accept(ModBlocks.graphinium_block.get());
+                        pOutput.accept(ModBlocks.Deepslate_graphinium_ORE.get());
+                        pOutput.accept(ModBlocks.graphinium_ORE.get());
                     })
                     .build());
 

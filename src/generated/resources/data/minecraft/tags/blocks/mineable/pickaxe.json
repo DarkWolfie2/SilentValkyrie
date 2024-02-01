@@ -6,6 +6,12 @@
     "silentvalkyrie:deepslate_plutosteel_ore",
     "silentvalkyrie:plutosteel_ore",
     "silentvalkyrie:valkyrium_block",
-    "silentvalkyrie:valkyrium_ore"
+    "silentvalkyrie:valkyrium_ore",
+    "silentvalkyrie:huskyrium_block",
+    "silentvalkyrie:huskyrium_ore",
+    "silentvalkyrie:deepslate_huskyrium_ore",
+    "silentvalkyrie:graphinium_block",
+    "silentvalkyrie:graphinium_ore",
+    "silentvalkyrie:deepslate_graphinium_ore"
   ]
 }

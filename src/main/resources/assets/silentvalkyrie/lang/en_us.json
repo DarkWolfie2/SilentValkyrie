@@ -6,6 +6,12 @@
     "item.silentvalkyrie.valkyrium": "Valkyrium",
     "item.silentvalkyrie.molten_valkyrium": "Molten Valkyrium",
     "item.silentvalkyrie.hardened_valkyrium": "Hardened Valkyrium",
+    "item.silentvalkyrie.huskyrium": "Huskyrium",
+    "item.silentvalkyrie.molten_huskyrium": "Molten Huskyrium",
+    "item.silentvalkyrie.hardened_huskyrium": "Hardened Huskyrium",
+    "item.silentvalkyrie.graphinium": "Graphinium",
+    "item.silentvalkyrie.molten_graphinium": "Molten Graphinium",
+    "item.silentvalkyrie.hardened_graphinium": "Hardened Graphinium",
     "item.silentvalkyrie.testing_key": "A very fun Key :D",
 
 
@@ -16,6 +22,12 @@
     "block.silentvalkyrie.valkyrium_block": "Block of Valkyrium",
     "block.silentvalkyrie.plutosteel_block": "Block of PlutoSteel",
     "block.silentvalkyrie.testportalblock": "A very Fun Testing Block",
+    "block.silentvalkyrie.huskyrium_ore": "Huskyrium Ore",
+    "block.silentvalkyrie.deepslate_huskyrium_ore": "Deepslate Huskyrium Ore",
+    "block.silentvalkyrie.huskyrium_block": "Block of Huskyrium",
+    "block.silentvalkyrie.graphinium_ore": "Graphinium Ore",
+    "block.silentvalkyrie.deepslate_graphinium_ore": "Deepslate Graphinium Ore",
+    "block.silentvalkyrie.graphinium_block": "Block of Graphinium",
 
-    "creativetab.sv.ore_tab_thing_ig": "Ores IG"
+    "creativetab.sv.ore_tab_thing_ig": "Ores for Mod"
 }

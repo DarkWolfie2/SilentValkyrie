@@ -27,6 +27,9 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.huskyrium);
         simpleItem(ModItems.MOLTEN_huskyrium);
         simpleItem(ModItems.HARDENED_huskyrium);
+        simpleItem(ModItems.graphinium);
+        simpleItem(ModItems.MOLTEN_graphinium);
+        simpleItem(ModItems.HARDENED_graphinium);
 
 
     }
