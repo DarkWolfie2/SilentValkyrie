@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_deepslate_huskyrium_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "silentvalkyrie:deepslate_huskyrium_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "silentvalkyrie:hardened_huskyrium_from_smelting_deepslate_huskyrium_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_deepslate_huskyrium_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "silentvalkyrie:hardened_huskyrium_from_smelting_deepslate_huskyrium_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

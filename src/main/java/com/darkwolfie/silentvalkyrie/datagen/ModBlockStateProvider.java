@@ -23,6 +23,11 @@ public class ModBlockStateProvider extends BlockStateProvider {
         blockWithItem(ModBlocks.Deepslate_valkyrium_ORE);
         blockWithItem(ModBlocks.valkyrium_ORE);
         blockWithItem(ModBlocks.valkyrium_block);
+        blockWithItem(ModBlocks.plutosteel_block);
+        blockWithItem(ModBlocks.huskyrium_block);
+        blockWithItem(ModBlocks.huskyrium_ORE);
+        blockWithItem(ModBlocks.Deepslate_huskyrium_ORE);
+
 
     }
 

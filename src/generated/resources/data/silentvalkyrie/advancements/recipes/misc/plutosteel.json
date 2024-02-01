@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_plutosteel_block": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "silentvalkyrie:plutosteel_block"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "silentvalkyrie:plutosteel"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_plutosteel_block",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "silentvalkyrie:plutosteel"
+    ]
+  },
+  "sends_telemetry_event": false
+}

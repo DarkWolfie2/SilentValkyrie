@@ -26,6 +26,12 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> HARDENED_valkyrium = Items.register("hardened_valkyrium",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> huskyrium = Items.register("huskyrium",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> MOLTEN_huskyrium = Items.register("molten_huskyrium",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> HARDENED_huskyrium = Items.register("hardened_huskyrium",
+            () -> new Item(new Item.Properties()));
 
 
     public static void register(IEventBus eventBus){

@@ -27,6 +27,8 @@ public class ModBlockLootTables extends BlockLootSubProvider {
     protected void generate() {
         this.dropSelf(ModBlocks.TestPortalBlock.get());
         this.dropSelf(ModBlocks.valkyrium_block.get());
+        this.dropSelf(ModBlocks.plutosteel_block.get());
+        this.dropSelf(ModBlocks.huskyrium_block.get());
 
         this.add(ModBlocks.plutosteel_ORE.get(),
                 block -> createOreDropsModded(ModBlocks.plutosteel_ORE.get(), ModItems.MOLTEN_PLUTOSTEEL.get()) );
@@ -36,6 +38,10 @@ public class ModBlockLootTables extends BlockLootSubProvider {
                 block -> createOreDropsModded(ModBlocks.valkyrium_ORE.get(), ModItems.MOLTEN_valkyrium.get()) );
         this.add(ModBlocks.Deepslate_valkyrium_ORE.get(),
                 block -> createDeepslateOreDropsModded(ModBlocks.Deepslate_valkyrium_ORE.get(), ModItems.MOLTEN_valkyrium.get()) );
+        this.add(ModBlocks.huskyrium_ORE.get(),
+                block -> createOreDropsModded(ModBlocks.huskyrium_ORE.get(), ModItems.MOLTEN_huskyrium.get()) );
+        this.add(ModBlocks.Deepslate_huskyrium_ORE.get(),
+                block -> createOreDropsModded(ModBlocks.Deepslate_huskyrium_ORE.get(), ModItems.MOLTEN_huskyrium.get()) );
 
 
     }

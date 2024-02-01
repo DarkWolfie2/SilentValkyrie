@@ -1,3 +1,6 @@
-// 1.20.1	2024-01-31T17:29:10.9317938	Tags for minecraft:block mod id silentvalkyrie
+// 1.20.1	2024-02-01T08:38:59.6144743	Tags for minecraft:block mod id silentvalkyrie
 ae50ee3c723979638ffb36be57e797e6cbc721a3 data/minecraft/tags/blocks/mineable/pickaxe.json
+98214af1abaef5435ccd4b8e88e3cf9efdacb607 data/minecraft/tags/blocks/needs_diamond_tool.json
+ff848dfe6ddead9b2a464a06ef8fb9d5c2ce31eb data/minecraft/tags/blocks/needs_iron_tool.json
+0cba8fd3f13c7c362deb99049cdff13894e6787e data/minecraft/tags/blocks/needs_stone_tool.json
 394aae18561bfe7c26e30e505060e2747c9e6eec data/silentvalkyrie/tags/blocks/ores.json

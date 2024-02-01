@@ -37,9 +37,20 @@ public class ModBlocks {
             () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(3f).requiresCorrectToolForDrops()));
 
     public static final RegistryObject<Block> valkyrium_block = registerBlock("valkyrium_block",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK).strength(3f).requiresCorrectToolForDrops()));
+    public static final RegistryObject<Block> plutosteel_block = registerBlock("plutosteel_block",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(3f).requiresCorrectToolForDrops()));
     public static final RegistryObject<Block> TestPortalBlock = registerBlock("testportalblock",
             () -> new TestPortalBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(3f).noCollission()));
+
+    public static final RegistryObject<Block> Deepslate_huskyrium_ORE = registerBlock("deepslate_huskyrium_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE).strength(3f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> huskyrium_ORE = registerBlock("huskyrium_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(3f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> huskyrium_block = registerBlock("huskyrium_block",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops()));
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);

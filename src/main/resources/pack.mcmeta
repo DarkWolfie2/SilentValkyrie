@@ -1,7 +1,7 @@
 {
     "pack": {
-        "description": "silentvalkyrie resources",
-        "pack_format": 15
-        ,"forge:server_data_pack_format": 12
+        "description": "The Resources and datapack for SilentValkyrie",
+        "pack_format": 15,
+        "forge:server_data_pack_format": 12
     }
 }

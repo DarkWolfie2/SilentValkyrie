@@ -1,6 +1,10 @@
-// 1.20.1	2024-01-31T18:24:08.5330561	Loot Tables
+// 1.20.1	2024-02-01T08:38:59.6170348	Loot Tables
+c633c0520b7f7614522da62d104bcb34e70c2d3e data/silentvalkyrie/loot_tables/blocks/deepslate_huskyrium_ore.json
 0a3b26c51759a1f9673db132342146f131805aa5 data/silentvalkyrie/loot_tables/blocks/deepslate_plutosteel_ore.json
 88c23705b9f47ac00ea6826c7b17323708aba5f3 data/silentvalkyrie/loot_tables/blocks/deepslate_valkyrium_ore.json
+c197e142b883100900e6d6702400356f47676dcd data/silentvalkyrie/loot_tables/blocks/huskyrium_block.json
+0c3c0ecbec7ee151aaa545f771ff880cb59642d3 data/silentvalkyrie/loot_tables/blocks/huskyrium_ore.json
+626c2d967852e5dbc47dbf816c16dc4d45ef000c data/silentvalkyrie/loot_tables/blocks/plutosteel_block.json
 7d87208cc5eaa878c4722c0737738a47278f762c data/silentvalkyrie/loot_tables/blocks/plutosteel_ore.json
 e6fe77a1aa74dbe0718d1f8b21847699c4f7dc23 data/silentvalkyrie/loot_tables/blocks/testportalblock.json
 f634c0234ec51f04671a541bd65137a70d5b4a8a data/silentvalkyrie/loot_tables/blocks/valkyrium_block.json

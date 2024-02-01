@@ -6,9 +6,11 @@ import com.darkwolfie.silentvalkyrie.util.ModTags;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.PackOutput;
 import net.minecraft.tags.BlockTags;
+import net.minecraft.world.level.block.Block;
 import net.minecraftforge.common.Tags;
 import net.minecraftforge.common.data.BlockTagsProvider;
 import net.minecraftforge.common.data.ExistingFileHelper;
+import net.minecraftforge.fml.common.Mod;
 import org.jetbrains.annotations.Nullable;
 
 import java.util.concurrent.CompletableFuture;
@@ -32,5 +34,21 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
           ModBlocks.valkyrium_block.get(),
           ModBlocks.valkyrium_ORE.get()
         );
+        this.tag(BlockTags.NEEDS_DIAMOND_TOOL).add(
+                ModBlocks.valkyrium_ORE.get(),
+                ModBlocks.Deepslate_valkyrium_ORE.get(),
+                ModBlocks.valkyrium_block.get()
+        );
+        this.tag(BlockTags.NEEDS_IRON_TOOL).add(
+                ModBlocks.plutosteel_ORE.get(),
+                ModBlocks.Deepslate_plutosteel_ORE.get(),
+                ModBlocks.plutosteel_block.get()
+        );
+        this.tag(BlockTags.NEEDS_STONE_TOOL).add(
+                ModBlocks.huskyrium_block.get(),
+                ModBlocks.huskyrium_ORE.get(),
+                ModBlocks.Deepslate_huskyrium_ORE.get()
+        );
+
     }
 }
