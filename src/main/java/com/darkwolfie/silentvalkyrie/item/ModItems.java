@@ -38,7 +38,8 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> HARDENED_graphinium = Items.register("hardened_graphinium",
             () -> new Item(new Item.Properties()));
-
+    public static final RegistryObject<Item> cryptonium = Items.register("cryptonium",
+            () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus){
        Items.register(eventBus);

@@ -78,6 +78,18 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                 .requires(ModBlocks.huskyrium_block.get())
                 .unlockedBy(getHasName(ModBlocks.huskyrium_block.get()), has(ModBlocks.huskyrium_block.get()))
                 .save(pWriter);
+        ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModBlocks.cryptonium_block.get())
+                .pattern("SSS")
+                .pattern("SSS")
+                .pattern("SSS")
+                .define('S', ModItems.cryptonium.get())
+                .unlockedBy(getHasName(ModItems.cryptonium.get()), has(ModItems.cryptonium.get()))
+                .save(pWriter);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, ModItems.cryptonium.get(), 9)
+                .requires(ModBlocks.cryptonium_block.get())
+                .unlockedBy(getHasName(ModBlocks.cryptonium_block.get()), has(ModBlocks.cryptonium_block.get()))
+                .save(pWriter);
     }
 
     protected static void oreSmelting(Consumer<FinishedRecipe> pFinishedRecipeConsumer, List<ItemLike> pIngredients, RecipeCategory pCategory, ItemLike pResult, float pExperience, int pCookingTIme, String pGroup) {

@@ -30,6 +30,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.graphinium);
         simpleItem(ModItems.MOLTEN_graphinium);
         simpleItem(ModItems.HARDENED_graphinium);
+        simpleItem(ModItems.cryptonium);
 
 
     }

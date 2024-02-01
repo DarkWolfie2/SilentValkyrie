@@ -59,6 +59,14 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> graphinium_block = registerBlock("graphinium_block",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops()));
+    public static final RegistryObject<Block> Deepslate_cryptonium_ORE = registerBlock("deepslate_cryptonium_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE).strength(3f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> cryptonium_ORE = registerBlock("cryptonium_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(3f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> cryptonium_block = registerBlock("cryptonium_block",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops()));
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);

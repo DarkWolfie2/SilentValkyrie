@@ -44,6 +44,10 @@ public class ModCreativeTabs {
                         pOutput.accept(ModBlocks.graphinium_block.get());
                         pOutput.accept(ModBlocks.Deepslate_graphinium_ORE.get());
                         pOutput.accept(ModBlocks.graphinium_ORE.get());
+                        pOutput.accept(ModItems.cryptonium.get());
+                        pOutput.accept(ModBlocks.cryptonium_block.get());
+                        pOutput.accept(ModBlocks.Deepslate_cryptonium_ORE.get());
+                        pOutput.accept(ModBlocks.cryptonium_ORE.get());
                     })
                     .build());
 

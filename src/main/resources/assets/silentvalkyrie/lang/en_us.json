@@ -13,7 +13,7 @@
     "item.silentvalkyrie.molten_graphinium": "Molten Graphinium",
     "item.silentvalkyrie.hardened_graphinium": "Hardened Graphinium",
     "item.silentvalkyrie.testing_key": "A very fun Key :D",
-
+    "item.silentvalkyrie.cryptonium": "Cryptonium",
 
     "block.silentvalkyrie.plutosteel_ore": "Plutosteel Ore",
     "block.silentvalkyrie.deepslate_plutosteel_ore": "Deepslate Plutosteel Ore",
@@ -28,6 +28,9 @@
     "block.silentvalkyrie.graphinium_ore": "Graphinium Ore",
     "block.silentvalkyrie.deepslate_graphinium_ore": "Deepslate Graphinium Ore",
     "block.silentvalkyrie.graphinium_block": "Block of Graphinium",
+    "block.silentvalkyrie.cryptonium_ore": "Cryptonium Ore",
+    "block.silentvalkyrie.deepslate_cryptonium_ore": "Deepslate Cryptonium Ore",
+    "block.silentvalkyrie.cryptonium_block": "Block of Cryptonium",
 
-    "creativetab.sv.ore_tab_thing_ig": "Ores for Mod"
+    "creativetab.sv.ore_tab_thing_ig": "Ores (SilentValkyrie)"
 }

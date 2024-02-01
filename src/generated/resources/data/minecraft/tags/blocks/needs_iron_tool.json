@@ -2,6 +2,9 @@
   "values": [
     "silentvalkyrie:plutosteel_ore",
     "silentvalkyrie:deepslate_plutosteel_ore",
-    "silentvalkyrie:plutosteel_block"
+    "silentvalkyrie:plutosteel_block",
+    "silentvalkyrie:cryptonium_block",
+    "silentvalkyrie:cryptonium_ore",
+    "silentvalkyrie:deepslate_cryptonium_ore"
   ]
 }

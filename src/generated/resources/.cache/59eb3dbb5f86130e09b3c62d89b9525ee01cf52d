@@ -1,4 +1,7 @@
-// 1.20.1	2024-02-01T09:26:02.3507654	Loot Tables
+// 1.20.1	2024-02-01T13:19:13.1959505	Loot Tables
+9c308e8e2e2a9788046b3f720b38f09c30184b9e data/silentvalkyrie/loot_tables/blocks/cryptonium_block.json
+555fef7b60bfd930f73f236ff60b97bdec650e47 data/silentvalkyrie/loot_tables/blocks/cryptonium_ore.json
+a264b3099b59d554765274034960d179a93b8b89 data/silentvalkyrie/loot_tables/blocks/deepslate_cryptonium_ore.json
 101fc8c7a3d0c08c69289bf395d3dd914ed66685 data/silentvalkyrie/loot_tables/blocks/deepslate_graphinium_ore.json
 c633c0520b7f7614522da62d104bcb34e70c2d3e data/silentvalkyrie/loot_tables/blocks/deepslate_huskyrium_ore.json
 0a3b26c51759a1f9673db132342146f131805aa5 data/silentvalkyrie/loot_tables/blocks/deepslate_plutosteel_ore.json
