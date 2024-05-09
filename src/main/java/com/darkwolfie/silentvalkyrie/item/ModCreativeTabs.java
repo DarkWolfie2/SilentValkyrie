@@ -52,6 +52,7 @@ public class ModCreativeTabs {
                         pOutput.accept(ModBlocks.demonwolf_block.get());
                         pOutput.accept(ModBlocks.Deepslate_demonwolf_ORE.get());
                         pOutput.accept(ModBlocks.demonwolf_ORE.get());
+                        pOutput.accept(ModItems.glizzy.get());
                     })
                     .build());
 

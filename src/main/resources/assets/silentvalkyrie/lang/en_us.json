@@ -14,6 +14,8 @@
     "item.silentvalkyrie.hardened_graphinium": "Hardened Graphinium",
     "item.silentvalkyrie.testing_key": "A very fun Key :D",
     "item.silentvalkyrie.cryptonium": "Cryptonium",
+    "item.silentvalkyrie.demonwolf": "DemonWolf",
+    "item.silentvalkyrie.glizzy": "Glizzy",
 
     "block.silentvalkyrie.plutosteel_ore": "Plutosteel Ore",
     "block.silentvalkyrie.deepslate_plutosteel_ore": "Deepslate Plutosteel Ore",
@@ -31,6 +33,9 @@
     "block.silentvalkyrie.cryptonium_ore": "Cryptonium Ore",
     "block.silentvalkyrie.deepslate_cryptonium_ore": "Deepslate Cryptonium Ore",
     "block.silentvalkyrie.cryptonium_block": "Block of Cryptonium",
+    "block.silentvalkyrie.demonwolf_ore": "Demonwolf Ore",
+    "block.silentvalkyrie.deepslate_demonwolf_ore": "Deepslate Demonwolf Ore",
+    "block.silentvalkyrie.demonwolf_block": "Block of Demonwolf",
 
     "creativetab.sv.ore_tab_thing_ig": "Ores (SilentValkyrie)"
 }
